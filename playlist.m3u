@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ICTV Channel
-udp://@238.0.0.5:1234
+udp://203.162.16.22:80/lives/origin01/bts-hbohd.isml/bts-hbohd.m3u8
 #EXTINF:0,????? ?????
 udp://@238.0.0.7:1234
 #EXTINF:-1,Canale 5
