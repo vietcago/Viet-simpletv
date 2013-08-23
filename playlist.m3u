@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,VTVCab6
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab",VTVCab6
 http://cdn-tv.vn-hd.com/livetv/_definst_/vtv2_800.stream/playlist.m3u8
