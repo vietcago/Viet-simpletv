@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab",VTVCab5
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab",VTVcab5
 http://cdn-tv.vn-hd.com/livetv/_definst_/vctv5_800.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab",VTVCab6
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab",VTVcab6
 http://cdn-tv.vn-hd.com/livetv/_definst_/vtv2_800.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab",VTVCab7
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab",VTVcab7
 http://cdn-tv.vn-hd.com/livetv/_definst_/vctv7_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV",ITV HD
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=itvHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
