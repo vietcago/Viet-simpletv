@@ -9,4 +9,5 @@ http://cdn-tv.vn-hd.com/livetv/_definst_/vctv7_800.stream/playlist.m3u8
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=itvHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",One World Sports
 http://lv3.livem3u8.na.itv.cn/live/f4f4f6b6e6574e0b99f5346ddc8ab94a.m3u8?bitrate=800
-
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",CCTV Soccer
+http://m.91kds.net/tv.php?id=fyzq
