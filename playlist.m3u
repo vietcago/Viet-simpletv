@@ -15,3 +15,5 @@ http://m.91kds.net/tv.php?id=fyzq
 http://m.91kds.net/tv.php?id=btv6
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV",HTVC+ HD
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcplusHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
+#EXTINF:-1 $ExtFilter="Kids" group-title="VTC",VTC 11
+http://123.30.53.38/w/vtc11/stream.m3u8
