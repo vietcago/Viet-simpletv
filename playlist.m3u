@@ -99,3 +99,5 @@ http://42.117.9.68/live/cantho_2500.stream/playlist.m3u8
 http://42.117.9.68/live/angiang_2500.stream/playlist.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",HaiPhongTV
 http://42.117.9.68/live/haiphong_2500.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ",AXN
+rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=xy741sy9ijkqsnn swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/
