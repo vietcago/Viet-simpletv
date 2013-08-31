@@ -15,8 +15,8 @@ http://123.30.53.38/w/vtc11/stream.m3u8
 http://cdn-tv.vn-hd.com/livetv2/_definst_/sctv15_1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV",VTV3 HD
 http://cdn-tv.vn-hd.com/livetv2/_definst_/vtv3hd_1.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV",ITV HD
-http://cdn-tv.vn-hd.com/livetv/_definst_/itv_800.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Music" group-title="HDTV",ITV HD
+http://42.117.9.68/live/itvHD_2500.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV",VTC HD3
 http://42.117.9.68/live/vtcHD3_2500.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV",HTVC+ HD
