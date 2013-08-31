@@ -103,3 +103,5 @@ http://42.117.9.68/live/haiphong_2500.stream/playlist.m3u8
 rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=xy741sy9ijkqsnn swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ",Animal Planet
 rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/
+#EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ",CNN
+rtmp://lm01.everyon.tv:1935/ptv/phd16
