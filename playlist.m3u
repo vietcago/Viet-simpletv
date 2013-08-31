@@ -63,4 +63,19 @@ rtmp://live.kenhitv.vn/live//itvw_hhh
 rtmp://117.103.224.31/live/livestream
 #EXTINF:-1 group-title="VTC",VTC16
 http://42.117.9.68/live/vtc16_2500.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="HTV",HTV 2
+http://42.117.9.68/live/htv2_2500.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Kids" group-title="HTV",HTV 3
+http://42.117.9.68/live/htv3_2500.stream/playlist.m3u8
+#EXTINF:-1 group-title="HTV",HTV 7
+http://42.117.9.68/live/htv7_2500.stream/playlist.m3u8
+#EXTINF:-1 group-title="HTV",HTV 9
+http://42.117.9.68/live/htv9_2500.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HTV",HTVC Thể thao
+http://42.117.9.68/live/htvcthethao_2500.stream/playlist.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Gia đình
+http://42.117.9.68/live/htvcgiadinh_2500.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Document" group-title="HTV",HTVC Du lịch
+http://42.117.9.68/live/htvcdulich_2500.stream/playlist.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Shopping
+http://42.117.9.68/live/htvshopping_2500.stream/playlist.m3u8
