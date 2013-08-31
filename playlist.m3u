@@ -5,16 +5,10 @@ http://cdn-tv.vn-hd.com/livetv/_definst_/vctv5_800.stream/playlist.m3u8
 http://cdn-tv.vn-hd.com/livetv/_definst_/vtv2_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab",VTVcab7
 http://cdn-tv.vn-hd.com/livetv/_definst_/vctv7_800.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Music" group-title="HDTV",ITV HD
-rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=itvHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",One World Sports
-http://lv3.livem3u8.na.itv.cn/live/f4f4f6b6e6574e0b99f5346ddc8ab94a.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",CCTV Soccer
 http://m.91kds.net/tv.php?id=fyzq
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",BTV Sports
 http://m.91kds.net/tv.php?id=btv6
-#EXTINF:-1 $ExtFilter="Music" group-title="HDTV",HTVC+ HD
-rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcplusHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC",VTC 11
 http://123.30.53.38/w/vtc11/stream.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV",SCTV15
@@ -23,3 +17,13 @@ http://cdn-tv.vn-hd.com/livetv2/_definst_/sctv15_1.stream/playlist.m3u8
 http://cdn-tv.vn-hd.com/livetv2/_definst_/vtv3hd_1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV",ITV HD
 http://cdn-tv.vn-hd.com/livetv/_definst_/itv_800.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV",VTC HD3
+http://42.117.9.68/live/vtcHD3_2500.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Music" group-title="HDTV",HTVC+ HD
+http://42.117.9.68/live/htvcplusHD_2500.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV",VTC3 HD
+http://cdn-tv.vn-hd.com/livetv/_definst_/vtctt_800.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV",HTVC Phim HD
+http://42.117.9.68/live/htvcmovieHD_2500.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV",Thuan Viet HD
+http://42.117.9.68/live/htvcthuanvietHD_2500.stream/playlist.m3u8
