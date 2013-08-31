@@ -16,43 +16,43 @@ http://cdn-tv.vn-hd.com/livetv2/_definst_/sctv15_1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV",VTV3 HD
 http://cdn-tv.vn-hd.com/livetv2/_definst_/vtv3hd_1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV",ITV HD
-http://42.117.9.68/live/itvHD_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=itvHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV",VTC HD3
-http://42.117.9.68/live/vtcHD3_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtcHD3_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV",HTVC+ HD
-http://42.117.9.68/live/htvcplusHD_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcplusHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV",VTC3 HD
 http://cdn-tv.vn-hd.com/livetv/_definst_/vtctt_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV",HTVC Phim HD
-http://42.117.9.68/live/htvcmovieHD_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcmovieHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV",Thuan Viet HD
-http://42.117.9.68/live/htvcthuanvietHD_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcthuanvietHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTV",VTV1
-http://42.117.9.68/live/vtv1_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv1_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTV",VTV2
-http://42.117.9.68/live/vtv2_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv2_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV",VTV3
 rtmp://m22.megafun.vn/hctv/vstv004
 #EXTINF:-1 group-title="VTV",VTV4
-http://42.117.9.68/live/vtv4_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv4_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTV",VTV5
 http://123.30.53.76/w/vtv5/stream.m3u8
 #EXTINF:-1 group-title="VTV",VTV6
-http://42.117.9.68/live/vtv6_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv6_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTV",VTV9
-http://42.117.9.68/live/vtv9_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv9_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTC",VTC1
-http://42.117.9.68/live/vtc1_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc1_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTC",VTC2
-http://42.117.9.68/live/vtc2_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc2_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTC",VTC5
-http://42.117.9.68/live/vtc5_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc5_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTC",VTC6
-http://42.117.9.68/live/vtc6_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc6_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC",VTC7
-http://42.117.9.68/live/vtc7_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc7_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTC",VTC 10
-http://42.117.9.68/live/vtc10_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc10_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC",VTC 11
 http://123.30.53.38/w/vtc11/stream.m3u8
 #EXTINF:-1 group-title="VTC",VTC 12
@@ -62,43 +62,43 @@ rtmp://live.kenhitv.vn/live//itvw_hhh
 #EXTINF:-1 group-title="VTC",VTC 14
 rtmp://117.103.224.31/live/livestream
 #EXTINF:-1 group-title="VTC",VTC16
-http://42.117.9.68/live/vtc16_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc16_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="HTV",HTV 2
-http://42.117.9.68/live/htv2_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htv2_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Kids" group-title="HTV",HTV 3
-http://42.117.9.68/live/htv3_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htv3_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="HTV",HTV 7
-http://42.117.9.68/live/htv7_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htv7_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="HTV",HTV 9
-http://42.117.9.68/live/htv9_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htv9_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV",HTVC Thể thao
-http://42.117.9.68/live/htvcthethao_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcthethao_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="HTV",HTVC Gia đình
-http://42.117.9.68/live/htvcgiadinh_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcgiadinh_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Document" group-title="HTV",HTVC Du lịch
-http://42.117.9.68/live/htvcdulich_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcdulich_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="HTV",HTVC Shopping
-http://42.117.9.68/live/htvshopping_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcshopping_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTV",VTV Cần Thơ 1
-http://42.117.9.68/live/cvtv1_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=cvtv1_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",QPVN
-http://42.117.9.68/live/quocphongHD_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=quocphongHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="News" group-title="TH ĐỊA PHƯƠNG",ANTV
-http://42.117.9.68/live/antv_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=antv_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",THVL1
-http://42.117.9.68/live/vinhlong1_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vinhlong1_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",THVL2
-http://42.117.9.68/live/vinhlong2_2500.stream/playlist.m3u8
-#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",THVL1
-http://42.117.9.68/live/danang1_2500.stream/playlist.m3u8
-#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",THVL2
-http://42.117.9.68/live/danang2_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vinhlong2_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",DRT1
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=danang1_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",DRT2
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=danang2_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",CanThoTV
-http://42.117.9.68/live/cantho_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=cantho_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",AnGiangTV
-http://42.117.9.68/live/angiang_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=angiang_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG",HaiPhongTV
-http://42.117.9.68/live/haiphong_2500.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=haiphong_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ",AXN
 rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=xy741sy9ijkqsnn swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ",Animal Planet
