@@ -105,3 +105,17 @@ rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=xy741sy9ijkqsnn swfUrl
 rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ",CNN
 rtmp://lm01.everyon.tv:1935/ptv/phd16
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",JSC Sports +1
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#. 
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",JSC Sports +2
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",JSC Sports +3
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#. 
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",JSC Sports +4
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#. 
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",JSC Sports +5
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab5.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",JSC Sports +6
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab6.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",JSC Sports +7
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab7.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
