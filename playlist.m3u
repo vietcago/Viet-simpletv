@@ -119,3 +119,5 @@ rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab5.stream pageUrl=http://sportsem
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab6.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ",JSC Sports +7
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ab7.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV",CCTV5+ HD
+http://115.238.157.204:554/cctvgq
