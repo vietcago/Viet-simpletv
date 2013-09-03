@@ -420,7 +420,7 @@ http://115.238.157.204:1554/301
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="99",CCTV 9
 http://fw01.livem3u8.me.totiptv.com/live/b08a8052e6724bedba5399f662715ad1.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
-http://m.91kds.net/tv.php?id=fyzq
+http://115.238.157.204:2554/357
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="101",CCTV Billard
 http://flv.cntv.wscdns.com/live/flv/channel78.flv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
