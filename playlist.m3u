@@ -101,6 +101,10 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vinhlong2_2500.stream s
 rtmp://202.43.109.147/live/btv1.stream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\btv2.png" tvg-name="156",BTV2
 rtmp://202.43.109.147/rtplive/btv2.stream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\btv2.png" tvg-name="156",BTV3
+rtmp://42.117.5.161/channels/btv3.480p
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\btv2.png" tvg-name="156",BTV4
+rtmp://42.117.5.161/channels/btv4.480p
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\dong-nai-1.png" tvg-name="157",DongNaiTV 1
 rtmp://$OPT:rtmp-raw=rtmp://123.29.75.131:1935/thdn/ playpath=dn1.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf live=1 pageUrl=http://www.dnrtv.org.vn/gioi-thieu/thong-bao
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\dong-nai-2.png" tvg-name="157",DongNaiTV 2
