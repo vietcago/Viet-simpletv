@@ -564,13 +564,13 @@ rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=phim live=1 swfUrl=http:
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=thuanviet live=1 swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
-rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=xy741sy9ijkqsnn swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/
+http://m24.megafun.vn/live.vs?c=vstv077&q=high
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
-rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=4wzh39fvacgngzc swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/42834/watch-live-HBO_Asia-streaming-channel-for-free
+http://m24.megafun.vn/live.vs?c=vstv036&q=high
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
-rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=nl1yg9ant34fy93 swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/44972/watch-live-Cinemax-streaming-channel-for-free
+http://m24.megafun.vn/live.vs?c=vstv037&q=high
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
-rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=kggplz5w9bpaaaj swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/46497/watch-live-Star_Movie_Asia-streaming-channel-for-free
+http://m24.megafun.vn/live.vs?c=vstv038&q=high
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
 http://m24.megafun.vn/live.vs?c=vstv039&q=high
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\WBTV.png" tvg-name="86",WBTV
