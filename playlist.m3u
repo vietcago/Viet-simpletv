@@ -646,7 +646,7 @@ http://torrent-tv.ru/torrent-online.php?translation=5103
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\Egoist TV.png" tvg-name="203",Egoist TV 18+
 http://torrent-tv.ru/torrent-online.php?translation=1813
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
-http://203.162.235.26:80/lives/origin02/vtc4sd.isml/vtc4sd-1096k.m3u8
+rtmp://42.117.5.161/channels/yeah1family.480p
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 rtmp://live.kenhitv.vn/live//itvw_hhh
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="46",SCTV2
