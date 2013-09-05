@@ -660,7 +660,7 @@ http://83.218.202.202:1935/live/wt_mtv.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV Vietnam
 http://cdn-tv.vn-hd.com/livetv/_definst_/mtv_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV China
-http://fw01.livem3u8.me.totiptv.com/live/deb56e700dbc4d9ea5af08e9d300a675.m3u8?bitrate=800
+http://59.124.145.77:17727
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
 http://fw01.livem3u8.me.totiptv.com/live/9102f3553f3246ecbbc9738dd4803344.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V India
@@ -718,7 +718,7 @@ http://110.164.192.112:1935/LiveStream/dw_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
 http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
-rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/
+http://59.124.145.77:17728
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CNN.png" tvg-name="133",CNN
 rtmp://lm01.everyon.tv:1935/ptv/phd16
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Bloomberg TV.png" tvg-name="134",Bloomberg
