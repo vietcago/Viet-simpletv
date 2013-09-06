@@ -34,7 +34,7 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc5_2500.stream swfUrl
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc6.png" tvg-name="35",VTC6
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc6_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc8.png" tvg-name="37",VTC8
-http://113.160.49.34/lives/origin02/vtc8sd.isml/vtc8sd-1000k.m3u8
+http://113.160.49.36/lives/origin01/vtc8sd.isml/vtc8sd-1096k.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC10.png" tvg-name="39",VTC 10
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc10_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc12.png" tvg-name="41",VTC 12
