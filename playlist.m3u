@@ -662,11 +662,11 @@ http://cdn-tv.vn-hd.com/livetv/_definst_/mtv_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV China
 http://59.124.145.77:17727
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
-http://fw01.livem3u8.me.totiptv.com/live/9102f3553f3246ecbbc9738dd4803344.m3u8?bitrate=800
+http://202.102.79.114:551/live/tv90/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V India
 http://fw01.livem3u8.me.totiptv.com/live/09cac500285d42ec97465b2219db5f53.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V International
-http://fw01.livem3u8.me.totiptv.com/live/9e38a0084e6d45d080139a166c60a102.m3u8?bitrate=800
+http://m24.megafun.vn/live.vs?c=vstv043&q=high
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\KissTV.png" tvg-name="113",Kiss TV
 rtmp://$OPT:rtmp-raw=rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live playpath=live swfUrl=http://kisstelevision.en-directo.com/kisstelevision_avw.swf live=1 pageUrl=http://www.cracketzaa.tv/canal-kiss-tv-en-vivo/ -C B:0 --live halilou
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Europa Plus TV.png" tvg-name="114",Europa Plus
