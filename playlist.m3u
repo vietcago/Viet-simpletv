@@ -44,33 +44,33 @@ rtmp://117.103.224.31/live/livestream
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC16.png" tvg-name="44",VTC16
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc16_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv4.png" tvg-name="48",SCTV4
-http://112.197.2.16:1935/live/sctv4.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv4.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv5.png" tvg-name="49",SCTV5
-http://112.197.2.16:1935/live/sctv5.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv5.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv6.png" tvg-name="50",SCTV6
-http://112.197.2.16:1935/live/sctv6.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv6.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv7.png" tvg-name="51",SCTV7
 http://live.accessasia.tv:1935/vnptg_channels/sctv7.480p/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv8.png" tvg-name="52",SCTV8
-http://112.197.2.16:1935/live/sctv8.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv8.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv10.png" tvg-name="54",SCTV10
-http://112.197.2.16:1935/live/sctv10.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv10.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv13.png" tvg-name="57",SCTV13
-http://112.197.2.16:1935/live/sctv13.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv13.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\logo\vtv1.png" tvg-name="1",VTV 1
-http://112.197.2.16:1935/live/vtv1.stream/playlist.m3u8
+http://112.197.2.11:1935/live/vtv1.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\logo\vtv2.png" tvg-name="2",VTV 2
-http://112.197.2.16:1935/live/vtv2.stream/playlist.m3u8
+http://112.197.2.11:1935/live/vtv2.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\logo\vtv4.png" tvg-name="4",VTV 4
-http://112.197.2.16:1935/live/vtv4.stream/playlist.m3u8
+http://112.197.2.11:1935/live/vtv4.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\logo\vtv6.png" tvg-name="6",VTV 6
-http://112.197.2.16:1935/live/vtv6.stream/playlist.m3u8
+http://112.197.2.11:1935/live/vtv6.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\logo\vtv9.png" tvg-name="7",VTV 9
-http://112.197.2.16:1935/live/vtv9.stream/playlist.m3u8
+http://112.197.2.11:1935/live/vtv9.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\logo\htv9.png" tvg-name="68",HTV 9
-http://112.197.2.16:1935/live/htv9.stream/playlist.m3u8
+http://112.197.2.11:1935/live/htv9.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\logo\antv.png" tvg-name="147",ANTV
-http://112.197.2.16:1935/live/antv.stream/playlist.m3u8
+http://112.197.2.11:1935/live/antv.stream/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htv2_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV4.png" tvg-name="66",HTV 4
@@ -378,11 +378,11 @@ rtmp://m22.megafun.vn/hctv/vstv007
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
 http://cdn-tv.vn-hd.com/livetv2/_definst_/sctv15_1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv17.png" tvg-name="61",SCTV17
-http://112.197.2.16:1935/live/sctv0.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv0.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
-http://112.197.2.16:1935/live/sctv18.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv18.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\vtv3.png" tvg-name="3",VTV 3
-http://112.197.2.16:1935/live/vtv3.stream/playlist.m3u8
+http://112.197.2.11:1935/live/vtv3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể thao
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcthethao_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
@@ -562,11 +562,11 @@ rtmp://m31.megafun.vn/hctv/vstv010
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv1.png" tvg-name="45",SCTV1
 http://live.accessasia.tv:1935/vnptg_channels/sctv1.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="53",SCTV9
-http://112.197.2.16:1935/live/sctv9.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv9.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv14.png" tvg-name="58",SCTV14
 http://live.accessasia.tv:1935/vnptg_channels/sctv14.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv16.png" tvg-name="60",SCTV16
-http://112.197.2.16:1935/live/sctv16.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv16.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim
 rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=phim live=1 swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
@@ -654,9 +654,9 @@ http://123.29.69.69:1935/liverepeater/VTC4_HVGA_H264.sdp/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 rtmp://live.kenhitv.vn/live//itvw_hhh
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="46",SCTV2
-http://112.197.2.16:1935/live/sctv2.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv11.png" tvg-name="55",SCTV11
-http://112.197.2.16:1935/live/sctv11.stream/playlist.m3u8
+http://112.197.2.11:1935/live/sctv11.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
 rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=canhac live=1 swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV
