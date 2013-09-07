@@ -423,8 +423,10 @@ http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
 rtmp://$OPT:rtmp-raw=rtmp://149.255.37.164/stream playpath=tucinehd?id=98833 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/tucinehd/1/650/400 conn=S:OK --live
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://115.238.157.204:1554/301
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5+
+http://202.100.69.171/PLTV/88888888/224/3221225942/10000100000000060000000000059694_0.smil
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="99",CCTV 9
-http://fw01.livem3u8.me.totiptv.com/live/b08a8052e6724bedba5399f662715ad1.m3u8?bitrate=800
+http://115.238.157.204:1554/332
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
 http://115.238.157.204:2554/357
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="101",CCTV Billard
@@ -812,7 +814,7 @@ http://m24.megafun.vn/live.vs?c=vstv031&q=high&type=tv&token=ZaRX3w_ajeaM_bArrgD
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
 http://m24.megafun.vn/live.vs?c=vstv032&q=high&type=tv&token=ZaRX3w_ajeaM_bArrgDFQw&time=1380283997&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkchmGepXCJLFqv9ZMAiZd04ImoLQH2QAl7Yf0Z770Zl/2Co6BnaL3b1m1dBTcBxaHzkh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Kids" group-title="HDTV" tvg-logo="..\Channel\Logo\Baby TV.png" tvg-name="142",Baby TV HD
-http://fw01.livem3u8.me.totiptv.com/live/7773f3cef0334a28ad248552ea63d9e7.m3u8?bitrate=800
+http://115.238.157.204:1554/308
 #EXTINF:-1 $ExtFilter="Kids" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Kids
 rtmp://unirtmp.tulix.tv/globaltv7/myStream.sdp
 #EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Nickelodeon.png" tvg-name="124",Nickelodeon HD
