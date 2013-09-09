@@ -454,7 +454,7 @@ http://cdn-tv.vn-hd.com/livetv/_definst_/vtctt_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://cdn-tv.vn-hd.com/livetv2/_definst_/vtv3hd_1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
-http://cdn-tv.vn-hd.com/livetv/_definst_/bdtvhd_800.stream/playlist.m3u8
+rtmp://mi2.gv.filmon.com:8086/live/374.high.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
 http://cdn-tv.vn-hd.com/livetv/_definst_/tttvhd_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport Plus HD
