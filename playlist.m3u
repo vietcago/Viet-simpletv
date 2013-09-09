@@ -368,7 +368,7 @@ rtmp://m22.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
 rtmp://$OPT:rtmp-raw=rtmp://199.189.110.172/stream/jplus1?id=102815 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/jplus1/1/670/377 conn=S:OK --live
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM
-rtmp://$OPT:rtmp-raw=rtmp://198.105.209.116/stream/jpluspm?id=102816 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/jplus1/1/670/377 conn=S:OK --live
+rtmp://$OPT:rtmp-raw=rtmp://198.105.209.116/stream/jpluspm?id=102816 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/jpluspm/1/670/377 conn=S:OK --live
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/ttttthethaotv.f4m
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
