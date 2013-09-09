@@ -353,16 +353,6 @@ mms://94.75.221.49/Rousse12
 mms://94.75.221.49/Pipe1
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Pipe2
 mms://94.75.221.49/Pipe12
-#EXTINF:-1 $ExtFilter="Sports" tvg-logo="..\Channel\logo\live football.png" tvg-name="204",Trực tiếp bóng đá 1
-rtmp://$OPT:rtmp-raw=rtmp://46.246.29.162/live/jan1 live=1 pageUrl=http://www.hdcast.tv
-#EXTINF:-1 $ExtFilter="Sports" tvg-logo="..\Channel\logo\live football.png" tvg-name="204",Trực tiếp bóng đá 2
-rtmp://$OPT:rtmp-raw=rtmp://46.246.29.162/live/jan2 live=1 pageUrl=http://www.hdcast.tv
-#EXTINF:-1 $ExtFilter="Sports" tvg-logo="..\Channel\logo\live football.png" tvg-name="204",Trực tiếp bóng đá 3
-http://88.150.210.138:5001/spor
-#EXTINF:-1 $ExtFilter="Sports" tvg-logo="..\Channel\logo\live football.png" tvg-name="204",Trực tiếp bóng đá 4
-rtmp://$OPT:rtmp-raw=rtmp://46.246.29.162/live/jan3 live=1 pageUrl=http://www.hdcast.tv
-#EXTINF:-1 $ExtFilter="Sports" tvg-name="204",Trực tiếp bóng đá 5
-rtmp://$OPT:rtmp-raw=rtmp://46.246.29.162/live/jan4 live=1 pageUrl=http://www.hdcast.tv
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://m22.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
