@@ -456,7 +456,7 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv3HD_2500.stream swfU
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
 rtmp://mi2.gv.filmon.com:8086/live/374.high.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
-http://cdn-tv.vn-hd.com/livetv/_definst_/tttvhd_800.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://37.139.24.73/live playpath=live1 live=1 swfUrl=http://www.hqstream.in/mediaplayer/jwplayer.flash.swf pageUrl=http://www.hqstream.in/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport Plus HD
 http://113.160.49.36/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\New Vision HD.png" tvg-name="139",New Vision Sport HD
