@@ -50,7 +50,7 @@ http://112.197.2.11:1935/live/sctv5.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv6.png" tvg-name="50",SCTV6
 http://112.197.2.11:1935/live/sctv6.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv7.png" tvg-name="51",SCTV7
-http://live.accessasia.tv:1935/vnptg_channels/sctv7.480p/playlist.m3u8
+http://112.197.2.11:1935/live/sctv7.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv8.png" tvg-name="52",SCTV8
 http://112.197.2.11:1935/live/sctv8.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv10.png" tvg-name="54",SCTV10
