@@ -356,9 +356,9 @@ mms://94.75.221.49/Pipe12
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://m22.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-rtmp://$OPT:rtmp-raw=rtmp://199.189.110.172/stream/jplus1009?id=103116 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/jplus1/1/670/377 conn=S:OK --live
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.7/wl/channel/jplus1 playpath=jplus1 live=1 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=jpluspm1&vw=670&vh=377&domain=live.vn77.net
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM
-rtmp://$OPT:rtmp-raw=rtmp://199.189.110.172/stream/jpluspm1009?id=103117 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/jpluspm/1/670/377 conn=S:OK --live
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.7/wl/channel/jpluspm1 playpath=jpluspm1 live=1 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=jpluspm1&vw=670&vh=377&domain=live.vn77.net
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/ttttthethaotv.f4m
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
