@@ -610,7 +610,7 @@ http://123.30.53.80/w/live/stream.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
 http://cdn-tv.vn-hd.com/livetv/_definst_/starmoviehd_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
-http://fw01.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=800
+http://90.189.198.75:1234/udp/233.7.70.127:5000
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Fox Crime.png" tvg-name="136",Fox Crime HD
 http://77.70.118.5:2036 
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR WORLD HD.png" tvg-name="85",Star World HD
@@ -682,9 +682,9 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcplusHD_2500.stream 
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\yousingkaraoke.png" tvg-name="137",Yousing Karaoke HD
 rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\MTV HD.png" tvg-name="111",MTV Live HD
-http://115.238.157.204:2554/356
+http://90.189.198.75:1234/udp/233.7.70.161:5000
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel.png" tvg-name="140",M channel HD
-http://fw01.livem3u8.me.totiptv.com/live/8237601ce3ea4bae8332ebb0d88dba87.m3u8?bitrate=800
+http://115.238.157.204:2554/356
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\wow music hd.png" tvg-name="141",Wow Music HD
 http://110.164.192.112:1935/LiveStream/wow_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\vpop.png",V-Pop
@@ -834,7 +834,7 @@ http://cdn-tv.vn-hd.com/livetv/_definst_/nationalhd_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="111",Nat Geo Music HD
 http://fw01.livem3u8.me.totiptv.com/live/69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="125",Nat Geo Wild HD
-http://fw01.livem3u8.me.totiptv.com/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800
+http://90.189.198.75:1234/udp/233.7.70.133:5000 
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Nat Geo HD.png" tvg-name="125",NatGeo Adventure HD
 http://115.238.157.204:2554/358
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Animal planet.png" tvg-name="143",Animal Planet HD
