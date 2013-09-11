@@ -534,7 +534,7 @@ http://1ttv.org/torrent-online.php?translation=2078
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Setana Sport.png" tvg-name="202",Setanta Sports
 http://torrent-tv.ru/torrent-online.php?translation=4847
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab1.png" tvg-name="14",VTVcab1
-http://live.accessasia.tv:1935/vnptg_channels/vctv1.480p/playlist.m3u8
+http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
