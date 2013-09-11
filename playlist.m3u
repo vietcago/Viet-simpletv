@@ -464,7 +464,7 @@ rtmp://222.87.129.199/app_4//ls_3.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV Russia.png",CCTV1 HD
 http://116.77.70.81/live/1,TWSX0004200211100000?format=mpegts&codec=x264&bitrate=2000k
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5 HD
-rtmp://222.87.129.194:1935/app_2/ls_5.stream
+http://182.138.31.18:8199/CCTV5HD
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 http://115.238.157.204:554/cctvgq
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sports HD
