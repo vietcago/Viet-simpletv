@@ -357,11 +357,12 @@ mms://94.75.221.49/Pipe12
 rtmp://m22.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/tructieptt4.f4m
-rtmp://$OPT:rtmp-raw=rtmp://85.12.5.7/wl/channel/jplus1 playpath=jplus1 live=1 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=jpluspm1&vw=670&vh=377&domain=live.vn77.net
+#EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1 S2
+rtmp://$OPT:rtmp-raw=rtmp://183.90.170.13/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDEzIDExOjI1OjQ0IFBNJmhhc2hfdmFsdWU9Q1luZG1tT0F0VzRaNlpUV0xVRm11UT09JnZhbGlkbWludXRlcz01MA== playpath=kplus live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM
-rtmp://$OPT:rtmp-raw=rtmp://198.105.217.36/stream/livestream02?id=103297 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/jplus1/1/670/377 conn=S:OK --live
+rtmp://$OPT:rtmp-raw=rtmp://183.90.170.13/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDEzIDExOjI1OjQ0IFBNJmhhc2hfdmFsdWU9Q1luZG1tT0F0VzRaNlpUV0xVRm11UT09JnZhbGlkbWludXRlcz01MA== playpath=kpc live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM S2
-rtmp://$OPT:rtmp-raw=rtmp://199.189.110.172/stream/jpluspm1009?id=103117 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/jplus1/1/670/377 conn=S:OK --live
+rtmp://$OPT:rtmp-raw=rtmp://183.90.170.13/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDEzIDExOjI1OjQ0IFBNJmhhc2hfdmFsdWU9Q1luZG1tT0F0VzRaNlpUV0xVRm11UT09JnZhbGlkbWludXRlcz01MA== playpath=kns live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/ttttthethaotv.f4m
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
