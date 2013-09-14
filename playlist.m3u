@@ -357,7 +357,7 @@ mms://94.75.221.49/Pipe12
 rtmp://m22.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/tructieptt4.f4m
-#EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1 S2
+#EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1 S2
 rtmp://$OPT:rtmp-raw=rtmp://183.90.170.13/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDEzIDExOjI1OjQ0IFBNJmhhc2hfdmFsdWU9Q1luZG1tT0F0VzRaNlpUV0xVRm11UT09JnZhbGlkbWludXRlcz01MA== playpath=kplus live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM
 rtmp://$OPT:rtmp-raw=rtmp://183.90.170.13/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDEzIDExOjI1OjQ0IFBNJmhhc2hfdmFsdWU9Q1luZG1tT0F0VzRaNlpUV0xVRm11UT09JnZhbGlkbWludXRlcz01MA== playpath=kpc live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
