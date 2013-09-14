@@ -418,9 +418,9 @@ rtmp://$OPT:rtmp-raw=rtmp://89.248.163.3/play?wmsAuth=nP6kDYakFjoOYibMPuDq718nk3
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://115.238.157.204:1554/301
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5+
-http://202.100.69.171/PLTV/88888888/224/3221225942/10000100000000060000000000059694_0.smil
+http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="99",CCTV 9
-http://115.238.157.204:1554/332
+http://fw01.livem3u8.me.totiptv.com/live/b08a8052e6724bedba5399f662715ad1.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
 http://115.238.157.204:2554/357
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="101",CCTV Billard
@@ -578,7 +578,7 @@ http://m24.megafun.vn/live.vs?c=vstv039&q=high
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\WBTV.png" tvg-name="86",WBTV
 http://fw01.livem3u8.me.totiptv.com/live/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\THRIL MOVIES.png" tvg-name="87",Thrill Movies
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Lotus Macau.png" tvg-name="106",Lotus Macau
 http://110.164.192.112:1935/LiveStream/lotusmacau_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
@@ -614,9 +614,9 @@ http://123.30.53.80/w/live/stream.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
 http://cdn-tv.vn-hd.com/livetv/_definst_/starmoviehd_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/7299670a140849a9aaf946b0302ad886.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Fox Crime.png" tvg-name="136",Fox Crime HD
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 http://cdn-tv.vn-hd.com/livetv/_definst_/starworldhd_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global film 1
@@ -662,7 +662,7 @@ http://59.124.145.77:17727
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
 http://202.102.79.114:551/live/tv90/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V India
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/09cac500285d42ec97465b2219db5f53.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V International
 http://m24.megafun.vn/live.vs?c=vstv043&q=high
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\KissTV.png" tvg-name="113",Kiss TV
@@ -686,9 +686,9 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcplusHD_2500.stream 
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\yousingkaraoke.png" tvg-name="137",Yousing Karaoke HD
 rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\MTV HD.png" tvg-name="111",MTV Live HD
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel.png" tvg-name="140",M channel HD
-rtmp://175.103.51.2:1935/live/kids1.stream
+http://fw01.livem3u8.me.totiptv.com/live/8237601ce3ea4bae8332ebb0d88dba87.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\wow music hd.png" tvg-name="141",Wow Music HD
 http://110.164.192.112:1935/LiveStream/wow_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\vpop.png",V-Pop
@@ -764,7 +764,7 @@ http://m24.megafun.vn/live.vs?c=vstv041&q=high&type=tv&token=ZaRX3w_ajeaM_bArrgD
 #EXTINF:-1 $ExtFilter="Fashion" group-title="HDTV" tvg-logo="..\Channel\logo\A'lure channel.png" tvg-name="138",A'lure Sexy Fashion HD
 http://110.164.192.112:1935/LiveStream/alure_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="HDTV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",FASHION TV HD
-http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8
+http://fw01.livem3u8.me.totiptv.com/live/91fbba1d5af544ac92a2c64e5d177e9d.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://torrent-tv.ru/torrent-online.php?translation=1815
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
@@ -794,13 +794,13 @@ http://110.164.192.112:1935/LiveStream/cartoonclub_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Kidszone.png" tvg-name="120",Kids Zone
 http://110.164.192.112:1935/LiveStream/kidzone_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JimJam.png" tvg-name="121",Jimjam
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/1c660656441b4aa3b57bd1d80c7d14fa.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Kids Co.png" tvg-name="122",KidsCo
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/fdaede40b27445ac893189bc6332c914.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Nick Jr..png" tvg-name="123",Nick Jr
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/2b72986be9314c139db95f6098d1c413.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ANIMAX.png" tvg-name="124",Animax
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/d3edb48a8bb847c78432270e23ddca73.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV3
 http://m24.megafun.vn/live.vs?c=vstv075&q=high
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\Logo\Cartoon Network.png" tvg-name="118",Cartoon Network
@@ -808,7 +808,7 @@ http://m24.megafun.vn/live.vs?c=vstv031&q=high&type=tv&token=ZaRX3w_ajeaM_bArrgD
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
 http://m24.megafun.vn/live.vs?c=vstv032&q=high&type=tv&token=ZaRX3w_ajeaM_bArrgDFQw&time=1380283997&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkchmGepXCJLFqv9ZMAiZd04ImoLQH2QAl7Yf0Z770Zl/2Co6BnaL3b1m1dBTcBxaHzkh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Kids" group-title="HDTV" tvg-logo="..\Channel\Logo\Baby TV.png" tvg-name="142",Baby TV HD
-http://115.238.157.204:1554/308
+http://fw01.livem3u8.me.totiptv.com/live/7773f3cef0334a28ad248552ea63d9e7.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Kids" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Kids
 rtmp://unirtmp.tulix.tv/globaltv7/myStream.sdp
 #EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Nickelodeon.png" tvg-name="124",Nickelodeon HD
@@ -836,11 +836,11 @@ http://m24.megafun.vn/live.vs?c=vstv078&q=high
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo HD.png" tvg-name="125",NatGeo HD
 http://cdn-tv.vn-hd.com/livetv/_definst_/nationalhd_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="111",Nat Geo Music HD
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://fw01.livem3u8.me.totiptv.com/live/69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="125",Nat Geo Wild HD
-http://90.189.198.75:1234/udp/233.7.70.133:5000 
+http://fw01.livem3u8.me.totiptv.com/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Nat Geo HD.png" tvg-name="125",NatGeo Adventure HD
-http://115.238.157.204:2554/358
+http://fw01.livem3u8.me.totiptv.com/live/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Animal planet.png" tvg-name="143",Animal Planet HD
 rtmp://$OPT:rtmp-raw=rtmp://s01.webport.tv/promo/mtv live=1
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Nat Geo.png" tvg-name="125",Nat Geo
