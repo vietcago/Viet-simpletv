@@ -356,13 +356,13 @@ mms://94.75.221.49/Pipe12
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://m22.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-http://www.youtube.com/watch?v=WfKBgXbBZ6I
+http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/tructieptt4.f4m
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1 S2
-http://www.youtube.com/watch?v=WfKBgXbBZ6I
+http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM
-http://www.youtube.com/watch?v=WfKBgXbBZ6I
+http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM S2
-http://www.youtube.com/watch?v=WfKBgXbBZ6I
+http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/ttttthethaotv.f4m
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
