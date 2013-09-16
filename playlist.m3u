@@ -395,20 +395,6 @@ rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch74 swfUrl=http://www.on
 rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch62 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
 rtmp://m22.megafun.vn/hctv/vstv018
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +1
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ad1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +2
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ad2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +3
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ad3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +4
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ad4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +5
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ad5.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +6
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ad6.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +7
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/ad7.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=470&typeplayer=0&domain=halilou token=%X786(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
 rtmp://$OPT:rtmp-raw=rtmp://213.186.127.42:1935/live/ playpath=rus2.stream swfUrl=http://kaban.tv/uppod.swf live=1  pageUrl=http://kaban.tv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\c+.png" tvg-name="95",Canal+
