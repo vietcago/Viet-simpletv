@@ -594,7 +594,7 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcmovieHD_2500.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htvcthuanvietHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN HD
-http://113.160.49.34/lives/origin03/bts-axnhd.isml/bts-axnhd-2096k.m3u8
+http://113.160.49.36/lives/origin03/bts-axnhd.isml/bts-axnhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
 http://123.30.53.80/w/live/stream.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
