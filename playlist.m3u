@@ -388,11 +388,11 @@ http://m24.megafun.vn/live.vs?c=vstv033&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://m24.megafun.vn/live.vs?c=vstv042&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="93",Astro Super Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://27.131.149.33/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=assp1 live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
+rtmp://$OPT:rtmp-raw=rtmp://27.131.144.177/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDU6NTM6NDggUE0maGFzaF92YWx1ZT0zVk5iU0VFTEtpMm9DbjJjd0hWcURnPT0mdmFsaWRtaW51dGVzPTUw playpath=assp1 live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="93",Astro Super Sport 2
-rtmp://$OPT:rtmp-raw=rtmp://27.131.149.33/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=assp2 live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
+rtmp://$OPT:rtmp-raw=rtmp://27.131.144.177/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDU6NTM6NDggUE0maGFzaF92YWx1ZT0zVk5iU0VFTEtpMm9DbjJjd0hWcURnPT0mdmFsaWRtaW51dGVzPTUw playpath=assp2 live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="93",Astro Super Sport 3
-rtmp://$OPT:rtmp-raw=rtmp://27.131.149.33/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=assp3 live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
+rtmp://$OPT:rtmp-raw=rtmp://27.131.144.177/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDU6NTM6NDggUE0maGFzaF92YWx1ZT0zVk5iU0VFTEtpMm9DbjJjd0hWcURnPT0mdmFsaWRtaW51dGVzPTUw playpath=assp3 live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/skys1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
