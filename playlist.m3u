@@ -356,11 +356,11 @@ mms://94.75.221.49/Pipe12
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://m22.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-rtmp://$OPT:rtmp-raw=rtmp://27.131.149.33/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=kplus live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
+rtmp://$OPT:rtmp-raw=rtmp://27.131.144.177/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=kplus live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\K+ PC.png" tvg-name="13",K+PC
-rtmp://$OPT:rtmp-raw=rtmp://27.131.149.33/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=kpc live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
+rtmp://$OPT:rtmp-raw=rtmp://27.131.144.177/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=kpc live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+NS.png" tvg-name="13",K+NS
-rtmp://$OPT:rtmp-raw=rtmp://27.131.149.33/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=kns live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
+rtmp://$OPT:rtmp-raw=rtmp://27.131.144.177/ball?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDEzIDQ6NDY6NTMgUE0maGFzaF92YWx1ZT0wd2c4aVIvdm5TTzRhN0xPNXIzZHh3PT0mdmFsaWRtaW51dGVzPTUw playpath=kns live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://www.wezatv.com/dooball/kplus.php
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1 S2
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/tructieptt4.f4m
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM
