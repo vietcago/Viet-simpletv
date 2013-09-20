@@ -424,7 +424,7 @@ http://125.88.105.50/PLTV/88888888/224/3221226874/000001000000000600000000004809
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="97",Tianjin Sport
 http://play.vbolu.tv/live/53357A52616B5A4D62457A5042336E6AA36354
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 1
-http%3A//125.88.105.50/PLTV/88888888/224/0/3221225981/iptv114375.smil
+http://125.88.105.50/PLTV/88888888/224/0/3221225981/iptv114375.smil
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 2
 http://125.88.105.50/PLTV/88888888/224/0/3221225982/iptv114376.smil
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 3
