@@ -354,7 +354,7 @@ mms://94.75.221.49/Pipe1
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Pipe2
 mms://94.75.221.49/Pipe12
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-rtmp://m22.megafun.vn/hctv/vstv004
+http://123.30.53.160/w/vtv3/stream.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/tructieptt4.f4m
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
@@ -362,7 +362,7 @@ http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/ttttthethaotv.f4m
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/ttttbongdatv.f4m
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
-http://123.30.53.160/w/vtv3/stream.m3u8
+http://m24.megafun.vn/live.u8?c=vstv096&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
 http://cdn-tv.vn-hd.com/livetv2/_definst_/sctv15_1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv17.png" tvg-name="61",SCTV17
