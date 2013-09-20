@@ -410,7 +410,7 @@ http://fw01.livem3u8.me.totiptv.com/live/b08a8052e6724bedba5399f662715ad1.m3u8?b
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
 http://115.238.157.204:2554/357
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="101",CCTV Billard
-http://flv.cntv.wscdns.com/live/flv/channel78.flv
+http://live.64ma.com/live/cnId/tvhd.cc-78-2.m3u8?rn=b3acNihNib3HaFZbfZ3e
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
 http://flvs02.brtn.cn/flvss?channel=BTV6&bitrate=512000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
