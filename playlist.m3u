@@ -406,7 +406,7 @@ rtmp://$OPT:rtmp-raw=rtmp://89.248.163.3/play?wmsAuth=nP6kDYakFjoOYibMPuDq718nk3
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://115.238.157.204:1554/301
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5+
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://125.88.105.50/PLTV/88888888/224/3221226874/00000100000000060000000000480944_0.smil
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="99",CCTV 9
 http://fw01.livem3u8.me.totiptv.com/live/b08a8052e6724bedba5399f662715ad1.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
@@ -418,7 +418,7 @@ http://flvs02.brtn.cn/flvss?channel=BTV6&bitrate=512000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
 http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd/live
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
-http://125.88.105.50/PLTV/88888888/224/3221226874/00000100000000060000000000480944_0.smil
+rtmp://$OPT:rtmp-raw=rtmp://v2.gdtv.cn/live playpath=sport swfUrl=http://www.gdtv.cn/vms/demoLiveF4M/livePlayerF4M.swf live=1 pageUrl=http://www.gdtv.cn/vms/demoLiveF4M/zj452x339.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="97",Tianjin Sport
 http://play.vbolu.tv/live/53357A52616B5A4D62457A5042336E6AA36354
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 1
