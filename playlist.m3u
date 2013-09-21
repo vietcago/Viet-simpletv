@@ -492,7 +492,7 @@ http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Futbol.png" tvg-name="190",Telekanal Futbol
 http://torrent-tv.ru/torrent-online.php?translation=412
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
-http://torrent-tv.ru/torrent-online.php?translation=3677
+http://torrent-tv.ru/torrent-online.php?translation=406
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
 http://torrent-tv.ru/torrent-online.php?translation=413
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol2.png" tvg-name="200",NTV+ Futbol 2
@@ -512,7 +512,7 @@ bc63fb74393e8e2852c5c05b404cf5d84dfd9d67
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 Voetbal.png" tvg-name="196",Sport 1 Voetbal HD
 42c17bd5dab0b9d0db2a86ab7d60709a687bca1f
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\LigTV.png" tvg-name="207",LigTV
-876865e2322314fbf2489811e0c6c53e00310259
+http://torrent-tv.ru/torrent-online.php?translation=1461
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport1.png" tvg-name="191",Sport 1
 http://torrent-tv.ru/torrent-online.php?translation=383
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport1 HD.png" tvg-name="191",Sport 1 HD
