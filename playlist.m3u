@@ -421,22 +421,6 @@ http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd/live
 rtmp://219.232.160.143/livestream//7b35138178df29cbecc83421bc8c549d 
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="97",Tianjin Sport
 http://play.vbolu.tv/live/53357A52616B5A4D62457A5042336E6AA36354
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 1
-http://125.88.105.50/PLTV/88888888/224/0/3221225981/iptv114375.smil
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 2
-http://125.88.105.50/PLTV/88888888/224/0/3221225982/iptv114376.smil
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 3
-http://125.88.105.50/PLTV/88888888/224/0/3221225983/iptv114377.smil
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 4
-http://125.88.105.50/PLTV/88888888/224/0/3221225984/iptv114378.smil
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 5
-http://125.88.105.50/PLTV/88888888/224/0/3221225985/iptv114379.smil
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 6
-http://125.88.105.50/PLTV/88888888/224/0/3221225986/iptv114380.smil
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 7
-http://125.88.105.50/PLTV/88888888/224/0/3221225987/iptv114381.smil
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="204",BesTV 8
-http://125.88.105.50/PLTV/88888888/224/0/3221225988/iptv114391.smil
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\super sport.png" tvg-name="97",Super Sport
 http://125.88.105.50/PLTV/88888888/224/0/3221225927/iptv93342.smil
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Euro soccer.png" tvg-name="100",Euro Soccer
