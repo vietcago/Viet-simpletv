@@ -8,7 +8,7 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv4_2500.stream swfUrl
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\VTV5.png" tvg-name="5",VTV5
 http://123.30.53.76/w/vtv5/stream.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
-rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv6_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
+http://123.30.53.160/w/vtv6/stream.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv9_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="8",VTV Huế
