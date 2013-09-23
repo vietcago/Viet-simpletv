@@ -10,7 +10,7 @@ http://123.30.53.76/w/vtv5/stream.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 http://123.30.53.160/w/vtv6/stream.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
-rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv9_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv9_1000.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="8",VTV Huế
 rtmp://$OPT:rtmp-raw=rtmp://m35.megafun.vn/hctv/ playpath=vstv024 swfUrl=http://megafun.vn/common/player/player.swf  pageURL=http://megafun.vn/common/player/player.swf?file=vstv024&type=rtmp&streamer=rtmp://m35.megafun.vn/hctv&autostart=true&stretching=exactfit&image=/hinhnen3.png&controlbar=none
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="9",VTV Cần Thơ 1
