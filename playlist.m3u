@@ -871,3 +871,5 @@ http://1ttv.org/torrent-online.php?translation=3448
 http://1ttv.org/torrent-online.php?translation=1535
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Nature.png" tvg-name="125",Viasat Nature-History HD
 http://1ttv.org/torrent-online.php?translation=4044
+#EXTINF:-1 group-title="QUỐC TẾ",CBS
+rtmp://cbs-live.gscdn.com/cbs-live//cbs-live.stream
