@@ -424,7 +424,7 @@ http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\c+futbol.png" tvg-name="96",Canal+ Liga
 rtmp://$OPT:rtmp-raw=rtmp://89.248.163.3/play?wmsAuth=nP6kDYakFjoOYibMPuDq718nk3I8wqUQp49sfsqOurWMNG9rLfKJCN3QAoaDtA playpath=cpliga live=1 swfUrl=http://www.flashcast.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.flashcast.tv/embed.php token=%Xr5a(nKa@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
-http://115.238.157.204:1554/301
+http://125.210.209.72:12111/cctv5
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5+
 http://202.108.39.234:8003/live/flv/channel24
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="99",CCTV 9
@@ -434,7 +434,7 @@ http://115.238.157.204:2554/357
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="101",CCTV Billard
 http://220.181.73.131:8003/live/flv/channel78
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
-http://220.181.73.131:8003/live/flv/channel70
+http://202.108.39.234:8003/live/flv/channel70
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
 http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd/live
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
@@ -672,9 +672,9 @@ http://83.218.202.202:1935/live/wt_mtv.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV Vietnam
 http://cdn-tv.vn-hd.com/livetv/_definst_/mtv_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV China
-http://125.88.105.50/PLTV/88888888/224/0/3221225961/iptv107558.smil
+http://play.vbolu.tv/live/53357A52616B5A4D62794C7342336E6A62448F
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
-http://main.gslb.ku6.com/broadcast/sub?channel=910
+http://play.vbolu.tv/live/53357A52616B5A4D6279625042336E6A170620
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V India
 http://fw01.livem3u8.me.totiptv.com/live/09cac500285d42ec97465b2219db5f53.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V International
