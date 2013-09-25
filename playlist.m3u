@@ -387,26 +387,6 @@ rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/skys2.stream pageUrl=http://sports
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/skys3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/skys4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +1
-http://149.62.176.213:8085/udp/239.100.0.1:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +2
-http://149.62.176.211:8844/udp/239.100.0.2:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +3
-http://149.62.176.213:8085/udp/239.100.0.3:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +4
-http://149.62.176.211:8844/udp/239.100.0.4:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +5
-http://149.62.176.213:8085/udp/239.100.0.5:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +6
-http://149.62.176.213:8085/udp/239.100.0.6:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +7
-http://149.62.176.213:8085/udp/239.100.0.7:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +8
-http://149.62.176.213:8085/udp/239.100.0.8:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +9
-http://149.62.176.213:8085/udp/239.100.0.9:1234
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +10
-http://149.62.176.213:8085/udp/239.100.0.10:1234
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\One World Sports.png" tvg-name="91",One World Sports
 http://lv3.livem3u8.na.itv.cn/live/f4f4f6b6e6574e0b99f5346ddc8ab94a.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="92",LETV Sport
