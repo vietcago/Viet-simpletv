@@ -280,7 +280,7 @@ http://m24.megafun.vn/live.vs?c=vstv067&q=high&type=tv&token=ZaRX3w_ajeaM_bArrgD
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\VinhPhucTV.png" tvg-name="181",VinhPhucTV
 http://m24.megafun.vn/live.vs?c=vstv068&q=high&type=tv&token=ZaRX3w_ajeaM_bArrgDFQw&time=1380283997&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkchmGepXCJLFqv9ZMAiZd04ImoLQH2QAl7Yf0Z770Zl/2Co6BnaL3b1m1dBTcBxaHzkh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q0
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\Vietface.png",VietFace
-rtmp://dvrrtmp1.giniko.com/vietface/mp4:vietface.stream
+rtmp://vietfaceRTMP.giniko.com:1935/livepkgr/vietface?adbe-live-event=liveevent&adbe-record-mode=record
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\saigon tv.png",SaiGon TV
 rtmp://$OPT:rtmp-raw=rtmp://74.63.219.99:/sgvp/ playpath=myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php?id=6&gID=0&page=1 live=1
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\little saigon.png",Little Saigon TV
