@@ -637,6 +637,16 @@ http://torrent-tv.ru/torrent-online.php?translation=1209
 http://torrent-tv.ru/torrent-online.php?translation=5103
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\Egoist TV.png" tvg-name="203",Egoist TV 18+
 http://torrent-tv.ru/torrent-online.php?translation=1813
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Playboy.png",Dorsel Tv 18+
+http://torrent-tv.ru/torrent-online.php?translation=5637
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Hustler TV.png",Hustler TV 18+
+http://torrent-tv.ru/torrent-online.php?translation=479
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Playboy TV.png",Playboy TV 18+
+http://torrent-tv.ru/torrent-online.php?translation=416
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\Logo\RedLight Platinum.png",Platinum TV 18+
+http://torrent-tv.ru/torrent-online.php?translation=4967
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sexy.png",NuArt TV 18+
+http://torrent-tv.ru/torrent-online.php?translation=5617
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
 http://123.29.69.69:1935/liverepeater/VTC4_HVGA_H264.sdp/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
