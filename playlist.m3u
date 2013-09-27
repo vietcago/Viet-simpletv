@@ -336,7 +336,7 @@ http://veryhd.shntv.cn/stream-1-80.m3u8
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",JAV 4
 rtmp://59.124.220.46:554/live/tv4.stream
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\RedLight Premium.png" tvg-name="203",Premium
-http://212.233.254.220:5000/udp/239.200.200.128:5000
+http://89.185.250.165/m3u/tv/privatespice.php
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Teen
 mms://94.75.221.49/Teen2
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="95",Anal
