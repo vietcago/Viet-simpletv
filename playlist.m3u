@@ -497,8 +497,6 @@ http://www.mastergoal.net/MasterGoal.net_2.acelive
 bc63fb74393e8e2852c5c05b404cf5d84dfd9d67
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 Voetbal.png" tvg-name="196",Sport 1 Voetbal HD
 42c17bd5dab0b9d0db2a86ab7d60709a687bca1f
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\LigTV.png" tvg-name="207",LigTV
-http://torrent-tv.ru/torrent-online.php?translation=1461
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport1.png" tvg-name="191",Sport 1
 http://torrent-tv.ru/torrent-online.php?translation=383
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport1 HD.png" tvg-name="191",Sport 1 HD
