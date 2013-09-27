@@ -354,7 +354,7 @@ mms://94.75.221.49/Pipe1
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Pipe2
 mms://94.75.221.49/Pipe12
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-http://123.30.53.160/w/vtv3/stream.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://117.103.232.2/live/vtv31 live=1 swfUrl=http://www1.vtc.com.vn/player.swf pageUrl=http://www1.vtc.com.vn/live/11/VTV3.html
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
 http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/tructieptt4.f4m
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
