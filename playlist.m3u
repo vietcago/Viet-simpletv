@@ -487,6 +487,8 @@ http://torrent-tv.ru/torrent-online.php?translation=414
 http://torrent-tv.ru/torrent-online.php?translation=3256
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol HD.png" tvg-name="200",NTV+ Futbol 2 HD
 http://torrent-tv.ru/torrent-online.php?translation=2977
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol.png",NTV+ Sport plus
+http://torrent-tv.ru/torrent-online.php?translation=406
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 Select.png" tvg-name="195",Sport 1 Select
 http://www.mastergoal.net/MasterGoal.net_1.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 Voetbal.png" tvg-name="196",Sport 1 Voetbal
