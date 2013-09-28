@@ -416,7 +416,7 @@ http://115.238.157.204:2554/357
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="101",CCTV Billard
 http://202.108.39.234:8003/live/flv/channel78
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
-http://202.108.39.234:8003/live/flv/channel70
+http://flvs02.brtn.cn/flvss?channel=BTV6&bitrate=512000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
 http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd/live
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
