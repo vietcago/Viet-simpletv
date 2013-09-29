@@ -402,7 +402,7 @@ rtmp://$OPT:rtmp-raw=rtmp://213.186.127.42:1935/live/ playpath=rus2.stream swfUr
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\c+.png" tvg-name="95",Canal+
 http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\c+futbol.png" tvg-name="96",Canal+ Liga
-rtmp://$OPT:rtmp-raw=rtmp://89.248.163.3/play?wmsAuth=nP6kDYakFjoOYibMPuDq718nk3I8wqUQp49sfsqOurWMNG9rLfKJCN3QAoaDtA playpath=cpliga live=1 swfUrl=http://www.flashcast.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.flashcast.tv/embed.php token=%Xr5a(nKa@#.
+rtmp://$OPT:rtmp-raw=rtmp://174.36.55.76/hqstream/kgh6t?keys=Vzhs1cgsUj4uCDf1BUJjnw&keyt=1380473645 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=halilou&height=510&width=600
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://125.210.209.72:12111/cctv5
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5+
@@ -410,7 +410,7 @@ http://58.22.105.125:554/cctvhd-750
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="99",CCTV 9
 http://fw01.livem3u8.me.totiptv.com/live/b08a8052e6724bedba5399f662715ad1.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
-http://58.22.105.125:554/fengyunfootball-750
+rtmp://$OPT:rtmp-raw=rtmp://184.173.146.4/hqstream/kre3ad?keys=H88UYBiydKUWUFNt3cdiAg&keyt=1380473446 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=halilou&height=510&width=600
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
 http://flvs02.brtn.cn/flvss?channel=BTV6&bitrate=512000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
