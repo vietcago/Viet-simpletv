@@ -658,7 +658,7 @@ http://cdn-tv.vn-hd.com/livetv/_definst_/mtv_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV China
 http://play.vbolu.tv/live/53357A52616B5A4D62794C7342336E6A62448F
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
-rtsp://122.192.35.76:554/live/tv90
+http://fw01.livem3u8.me.totiptv.com/live/9102f3553f3246ecbbc9738dd4803344.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V India
 http://fw01.livem3u8.me.totiptv.com/live/09cac500285d42ec97465b2219db5f53.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V International
