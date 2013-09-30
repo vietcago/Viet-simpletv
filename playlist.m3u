@@ -450,7 +450,7 @@ http://cdn-tv.vn-hd.com/livetv/_definst_/bdtvhd_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
 http://cdn-tv.vn-hd.com/livetv/_definst_/tttvhd_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport Plus HD
-http://113.160.49.36/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8
+http://113.160.49.36/lives/origin03/bts-foxhd.isml/bts-foxhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\New Vision HD.png" tvg-name="139",New Vision Sport HD
 rtmp://222.87.129.199/app_4//ls_3.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV Russia.png",CCTV1 HD
