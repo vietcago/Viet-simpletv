@@ -724,7 +724,7 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=antv_2500.stream swfUrl
 #EXTINF:-1 $ExtFilter="News" group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\vov-tv.png" tvg-name="148",VOV TV
 rtmp://123.30.50.59/live/vovtv
 #EXTINF:-1 $ExtFilter="News" group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
-rtmp://live.vnanet.vn/Live/DRC
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vnews_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="News" group-title="MyTV" tvg-logo="..\Channel\logo\Deutsche Welle.png" tvg-name="131",DW
 http://m24.megafun.vn/live.vs?c=vstv085&q=high
 #EXTINF:-1 $ExtFilter="News" group-title="MyTV" tvg-logo="..\Channel\logo\Asia news.png",Asia News
