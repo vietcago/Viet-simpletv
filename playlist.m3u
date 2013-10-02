@@ -404,7 +404,7 @@ http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\c+futbol.png" tvg-name="96",Canal+ Liga
 rtmp://$OPT:rtmp-raw=rtmp://174.36.55.76/hqstream/kgh6t?keys=Vzhs1cgsUj4uCDf1BUJjnw&keyt=1380473645 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=halilou&height=510&width=600
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
-http://125.210.209.72:12111/cctv5
+http://58.22.105.125:554/cctv5-750
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="98",CCTV5+
 http://58.22.105.125:554/cctvhd-750
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="99",CCTV 9
