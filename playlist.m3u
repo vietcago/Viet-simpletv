@@ -395,6 +395,20 @@ rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=skyss2.stream live=1
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=sky3.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=sky4.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +1
+rtmp://$OPT:rtmp-raw=rtmp://89.248.174.117/live33/ playpath=z1 live=1 swfUrl=http://www.flashi.tv/player/player.swf pageUrl=http://www.flashi.tv/embed.php?v=z1&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +2
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.146/fms/ playpath=jsc22222 live=1 swfUrl=http://www.casti.tv/player/player-licensed55.swf pageUrl=http://www.casti.tv/embed.php?v=jsc22222&vw=600&vh=450&video=0&domain=pogotv.eu
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +3
+rtmp://$OPT:rtmp-raw=rtmp://93.174.93.124/live33// playpath=pogotv3 live=1 swfUrl=http://www.zstream.eu/jwplayer/jwplayer.flash.swf pageUrl=http://www.zstream.eu/embed.php?v=pogotv3&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +4
+rtmp://$OPT:rtmp-raw=rtmp://89.248.174.117/live33/ playpath=z4 live=1 swfUrl=http://www.flashi.tv/player/player.swf pageUrl=http://www.flashi.tv/embed.php?v=z1&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +5
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.146/fms/ playpath=pogo5 live=1 swfUrl=http://www.flashi.tv/player/player.swf pageUrl=http://www.flashi.tv/embed.php?v=pogo5&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +6
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.146/fms/ playpath=pogo6 live=1 swfUrl=http://www.flashi.tv/player/player.swf pageUrl=http://www.flashi.tv/embed.php?v=pogo5&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JSC Sport.png" tvg-name="94",JSC Sports +7
+rtmp://$OPT:rtmp-raw=rtmp://89.248.163.3/play?wmsAuth=lbswN4Gk0y5OQrbNJQ985NvjpJqOBjKubI3Cy1mRUrIiA35AFVOhLctNkjdNcO/ playpath=jsc777hdd live=1 swfUrl=http://www.flashcast.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.flashcast.tv/embed.php?live=jsc777hdd&vw=600&vh=450 token=%Xr5a(nKa@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\One World Sports.png" tvg-name="91",One World Sports
 http://173.193.20.150:1935/mtv/2/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="92",LETV Sport
