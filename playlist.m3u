@@ -379,6 +379,14 @@ http://m24.megafun.vn/live.vs?c=vstv033&q=high
 http://m24.megafun.vn/live.vs?c=vstv042&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN+
 http://67.228.177.198:1935/mtv/43hd/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\NTV+ Futbol.png" tvg-name="212",NTV+Sport plus
+rtmp://n4.nogomya.ch/live?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDEzIDExO jQzOjQxIEFNJmhhc2hfdmFsdWU9UFplUmdwbWwwRkplY1NtNmF 2aFJ3Zz09JnZhbGlkbWludXRlcz01/10.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
+rtmp://n4.nogomya.ch/live?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDEzIDExO jA1OjAxIEFNJmhhc2hfdmFsdWU9Z2lZSE04c0JNSDhHQjFSY2R ZU2NFUT09JnZhbGlkbWludXRlcz01/1.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\NTV+ Futbol2.png" tvg-name="200",NTV+ Futbol 2
+rtmp://n4.nogomya.ch/live?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDEzIDExO jQwOjQ3IEFNJmhhc2hfdmFsdWU9aXZ6d3hyd29CY0p1bTJkek1 SOGFrUT09JnZhbGlkbWludXRlcz01/3.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Sport1.png" tvg-name="191",Sport 1
+rtmp://n4.nogomya.ch/live?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDEzIDExO jQyOjM0IEFNJmhhc2hfdmFsdWU9UG9BUGtSTEpMaHNLWDE2NW1 UQlJkQT09JnZhbGlkbWludXRlcz01/5.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base/skys1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450&typeplayer=0&domain=halilou token=%X786(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
