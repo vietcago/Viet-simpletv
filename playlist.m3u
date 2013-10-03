@@ -388,13 +388,13 @@ rtmp://n4.nogomya.ch/live?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDEzIDExO jQwOjQ3I
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Sport1.png" tvg-name="191",Sport 1
 rtmp://n4.nogomya.ch/live?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDEzIDExO jQyOjM0IEFNJmhhc2hfdmFsdWU9UG9BUGtSTEpMaHNLWDE2NW1 UQlJkQT09JnZhbGlkbWludXRlcz01/5.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://198.144.121.15/live/ playpath=skysports1 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=skyss1.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmp://198.144.120.217/live playpath=skysport2 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=skyss2.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmp://198.144.120.217/live playpath=ss3 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=sky3.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmp://188.138.1.254:80/liverepeater/ playpath=108884 live=1 swfUrl=http://cdn.goodcast.org/player.swf pageUrl=http://goodcast.org/index.php?protected=1&id=108884
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=sky4.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\One World Sports.png" tvg-name="91",One World Sports
 http://173.193.20.150:1935/mtv/2/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="92",LETV Sport
