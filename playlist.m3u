@@ -458,7 +458,7 @@ http://m24.megafun.vn/live.vs?c=vstv042&q=high&type=tv&token=ZaRX3w_ajeaM_bArrgD
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
 http://m24.megafun.vn/live.vs?c=vstv093&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
-http://cdn-tv.vn-hd.com/livetv/_definst_/vtctt_800.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtc3HD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\vtv3hd.png" tvg-name="3",VTV3 HD
 rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=vtv3HD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf live=1 pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
@@ -668,7 +668,7 @@ rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=canhac live=1 swfUrl=htt
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV
 http://83.218.202.202:1935/live/wt_mtv.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV Vietnam
-http://cdn-tv.vn-hd.com/livetv/_definst_/mtv_800.stream/playlist.m3u8
+http://cdn-tv.vn-hd.com/hdv_livetv1/mtv_800.stream/playlist.m3u8?t=5e0a1d5a96483a4f11f346801d4f237d&e=1381153078
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV China
 http://play.vbolu.tv/live/53357A52616B5A4D62794C7342336E6A62448F
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
