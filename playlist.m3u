@@ -366,7 +366,7 @@ rtmp://$OPT:rtmp-raw=rtmp://123.30.171.145:80/p2p/ playpath=bongdatv live=1 swfU
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 http://m24.megafun.vn/live.u8?c=vstv096&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
-http://cdn-tv.vn-hd.com/livetv2/_definst_/sctv15_1.stream/playlist.m3u8
+rtmp://112.197.2.11/nlive/nsctv15.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv17.png" tvg-name="61",SCTV17
 http://112.197.2.11:1935/live/sctv0.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
@@ -614,9 +614,9 @@ http://113.160.49.36/lives/origin03/bts-axnhd.isml/bts-axnhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
 http://123.30.53.80/w/live/stream.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
-http://cdn-tv.vn-hd.com/livetv/_definst_/starmoviehd_800.stream/playlist.m3u8
+http://cdn-tv.vn-hd.com/hdv_livetv1/starmoviehd_800.stream/playlist.m3u8?t=49a522655c72fcdfc399d818f2fff6fa&e=1381151885
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR WORLD HD.png" tvg-name="85",Star World HD
-http://cdn-tv.vn-hd.com/livetv/_definst_/starworldhd_800.stream/playlist.m3u8
+http://cdn-tv.vn-hd.com/hdv_livetv1/starworldhd_800.stream/playlist.m3u8?t=8ad9119a92096100b46bf5e1439456ea&e=1381152092
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
 http://fw01.livem3u8.me.totiptv.com/live/7299670a140849a9aaf946b0302ad886.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Fox Crime.png" tvg-name="136",Fox Crime HD
@@ -846,7 +846,7 @@ http://m24.megafun.vn/live.vs?c=vstv084&q=high
 #EXTINF:-1 $ExtFilter="Document" group-title="MyTV" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 http://m24.megafun.vn/live.vs?c=vstv078&q=high
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo HD.png" tvg-name="125",NatGeo HD
-http://cdn-tv.vn-hd.com/livetv/_definst_/nationalhd_800.stream/playlist.m3u8
+http://cdn-tv.vn-hd.com/hdv_livetv1/nationalhd_800.stream/chunklist_w1784965307.m3u8?t=6d0a54f5d880380f61ecf63718883b6c&e=1381152201
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="111",Nat Geo Music HD
 http://fw01.livem3u8.me.totiptv.com/live/69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="125",Nat Geo Wild HD
