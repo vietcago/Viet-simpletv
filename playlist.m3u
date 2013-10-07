@@ -480,25 +480,23 @@ http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_1000.m3
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sports 2 HD
 http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Futbol+.png" tvg-name="188",Futbol+
-acestream://911ea12fd849e1a30ea0a76d89d5d1475ed2b70e
+http://auth.torrent-tv.ru/h/532/1/2/c3dCdkVtRlQyRkVUeCt6UmVHZHN6ckpsVGo4UFQ5aWFZbjMyTXBVRUxQZGh1ZVlkRWtrcEFBQzFtT1RKZC9BbQ
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Futbol (UA).png" tvg-name="189",Futbol
-319eef6e0a8e01d883a84dee84873f4c44b111d6
+http://auth.torrent-tv.ru/h/533/1/2/cndCaHVXRlQyRkgvU3JGZTd2RUJOa1JrWGJwVExaYzk1TVRvSjVSTUdkVkJ6ZDl0dmg4Tzc0UzdHOWNXaWdUcQ
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Futbol.png" tvg-name="190",Telekanal Futbol
-2b6912570e0909fe6acad652936cf223d25e95b5
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
-http://torrent-tv.ru/torrent-online.php?translation=406
+http://auth.torrent-tv.ru/h/472/1/2/cXdCanBtRlQyRkYreWtsRERKQmkreDNheTd2ZEthbStwVlhPenlaWEpxMU9Eb3QrcWhlMTc0VlZBcU5KV1FuUw
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-0538632a9602c6cfe68ef986253118f8ba362a6f
+http://auth.torrent-tv.ru/h/39/1/2/WndNeXcyQlQyRkV5L3lPSitOZzkwODcxL0tCTUJhbnJCdU1YSTB6R0dEb1o2K2dEdFhaOW9QYXhLZTR3WDdFcg
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol2.png" tvg-name="200",NTV+ Futbol 2
-87a66b98b62c9a0910467cdc38a89ca71ce916de
+http://auth.torrent-tv.ru/h/552/1/2/YXdNc2hHQlQyRkU5UGZsZDNpaWtRa2xKUmFLZ3BJQjI0RXllTGVsMjlIZlJqOVR2NUJrRVdtMzc1SEdsMkF6Mw
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV + Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
-ddb7b2088a0a6cb1cfef225b627e432c64c84e25
+http://auth.torrent-tv.ru/h/85/1/2/VkFQSlptQlQyRkZQY2JrTncyU0JVY09ZaGFFTHBzckZKZUdsUllkRk5KWEJqbWZXclIxem5ZcVB2RWU4NnhQQQ
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol HD.png" tvg-name="199",NTV+ Futbol HD
 7a7a95a341715f54cd17bebf5ff5528e93276542
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol HD.png" tvg-name="200",NTV+ Futbol 2 HD
 6a341935351eab62247562efa5c740a116b0ead1
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol.png",NTV+ Sport plus
-e40ead6d17e1c2ee563f38159bb4b34b2db711bb
+http://auth.torrent-tv.ru/h/222/1/2/WXdNQTRXQlQyRkZDYTFYOWFjVERmcWprQVFRSlBQUEZ4Q0RGNjFUY05nU2lsQTdiQ2RuMkgyNG1od1VKRzJ3bg
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 Select.png" tvg-name="195",Sport 1 Select
 http://www.mastergoal.net/MasterGoal.net_1.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 Voetbal.png" tvg-name="196",Sport 1 Voetbal
@@ -508,9 +506,9 @@ bc63fb74393e8e2852c5c05b404cf5d84dfd9d67
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 Voetbal.png" tvg-name="196",Sport 1 Voetbal HD
 42c17bd5dab0b9d0db2a86ab7d60709a687bca1f
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport1.png" tvg-name="191",Sport 1
-207e9dfc3a5dcc39d3d3e59400b2b82fbc78e8f0
+http://auth.torrent-tv.ru/h/365/1/2/UXdCWHRHRlQyRkZseG8rK01PZUx3ZlJ5eFlKb09jR3V2b0NNU3ZaZWpxVGJScTBMWVBUTHB5dXVJN3hOU1lUSQ
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport1 HD.png" tvg-name="191",Sport 1 HD
-f654eb5459c8956163f0fb5795bbd2989611fd90
+http://auth.torrent-tv.ru/h/526/1/2/U3dBaExHRlQyRkhNSTV4bnJsMjA4U01qcnNPRkF1eUZ6aks2OG5iVW1qQmxLd1V3UmZWemdpcUhaVEtvL21Kcg
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Russia 2.png" tvg-name="206",Russia 2
 4448f19c398c5f7a75b940af7da91c5c5323f6e0
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Viasat Sport.png" tvg-name="192",Viasat Sport
@@ -520,9 +518,9 @@ f654eb5459c8956163f0fb5795bbd2989611fd90
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport.png" tvg-name="194",Sport
 b8e0a3a6d99ccf826223a61395a159fae4088666
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport 1 UA.png" tvg-name="197",Sport 1 (UA)
-115d3f8a339501b26166981b3b46c25b0f154dc4
+http://auth.torrent-tv.ru/h/550/1/2/UndDS3BHRlQyRkVWZmRWQWtOL09zZGl0Q0Q1a1FqVGpycmNWZ2tEdlJMUzJCZjhXbEpKa3Y5VHJiOUViMkpQTw
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport 2 UA.png" tvg-name="198",Sport 2 (UA)
-b52ec5fdabb4599a21285abaa94e31ca60d43efc
+http://auth.torrent-tv.ru/h/365/1/2/UXdCWHRHRlQyRkZseG8rK01PZUx3ZlJ5eFlKb09jR3V2b0NNU3ZaZWpxVGJScTBMWVBUTHB5dXVJN3hOU1lUSQ
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="208",Fox Sports 1
 http://www.mastergoal.net/MasterGoal.net_5.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="209",Fox Sports 2
