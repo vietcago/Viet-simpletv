@@ -356,11 +356,11 @@ mms://94.75.221.49/Pipe12
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://$OPT:rtmp-raw=rtmp://117.103.232.2/live/vtv31 live=1 swfUrl=http://www1.vtc.com.vn/player.swf pageUrl=http://www1.vtc.com.vn/live/11/VTV3.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-http://chickgunx.no-ip.org/hds-live/mega1/_definst_/liveevent/tructieptt4.f4m
+rtmp://$OPT:rtmp-raw=rtmp://123.30.171.145:80/p2p/ playpath=kplus live=1 swfUrl=http://megafullvn.com/playerhd/player2013.swf pageUrl=http://megafullvn.com/tv/getlink/link/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://cdn-tv.vn-hd.com/livetv/_definst_/tttvhd_800.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://123.30.171.145:80/p2p/ playpath=thethaotv live=1 swfUrl=http://megafullvn.com/playerhd/player2013.swf pageUrl=http://megafullvn.com/tv/getlink/link/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://cdn-tv.vn-hd.com/livetv/_definst_/bdtvhd_800.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://123.30.171.145:80/p2p/ playpath=bongdatv live=1 swfUrl=http://megafullvn.com/playerhd/player2013.swf pageUrl=http://megafullvn.com/tv/getlink/link/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 http://m24.megafun.vn/live.u8?c=vstv096&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
