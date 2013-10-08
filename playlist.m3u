@@ -380,7 +380,7 @@ http://m24.megafun.vn/live.vs?c=vstv033&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://m24.megafun.vn/live.vs?c=vstv042&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png",Astro Super Sport
-rtmp://$OPT:rtmp-raw=rtmp://81.17.21.18/stream/ playpath=ui8p2jn7H2.stream swfUrl=http://thecdn.04stream.com/ss/oooll58.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=a384i4u5a4e424145323r2r29443p2x2y214u2u203&adx&stream=74f5z274g5r2j57403137474j51364l2b394j4l433p5p234x223m23444e4v213y244z274b4t2b333k4u503q5t373u5w5l4b4d2o3j5e444i4f4w3p2s4r2y3m2343484442444l5y29413n523f4d4e4b4a4x234z24424t2b4c4a4u29474c4y2r2t2r204p2q2r2y3m27664p4l2y3&sooor=Mjg%3D&str=iod&idom=www.webspor.mer.ates
+http://85.132.53.51:1935/turktv/ntvspor.sdp/hasbahca.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN+
 http://67.228.177.198:1935/mtv/43hd/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\NTV+ Futbol.png" tvg-name="212",NTV+Sport plus
