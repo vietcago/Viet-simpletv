@@ -335,24 +335,6 @@ http://veryhd.shntv.cn/stream-1-79.m3u8
 http://veryhd.shntv.cn/stream-1-80.m3u8
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",JAV 4
 rtmp://59.124.220.46:554/live/tv4.stream
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\RedLight Premium.png" tvg-name="203",Premium
-http://89.185.250.165/m3u/tv/privatespice.php
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Teen
-mms://94.75.221.49/Teen2
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="95",Anal
-mms://94.75.221.49/Anal1
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Blonde1
-mms://94.75.221.49/Blonde1
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Blonde2
-mms://94.75.221.49/Blonde12
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Rousse1
-mms://94.75.221.49/Rousse1
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Rousse2
-mms://94.75.221.49/Rousse12
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Pipe1
-mms://94.75.221.49/Pipe1
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Playboy TV.png" tvg-name="203",Pipe2
-mms://94.75.221.49/Pipe12
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://$OPT:rtmp-raw=rtmp://117.103.232.2/live/vtv31 live=1 swfUrl=http://www1.vtc.com.vn/player.swf pageUrl=http://www1.vtc.com.vn/live/11/VTV3.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
