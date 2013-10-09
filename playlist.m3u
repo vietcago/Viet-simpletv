@@ -464,7 +464,7 @@ http://auth.torrent-tv.ru/h/39/1/2/WndNeXcyQlQyRkV5L3lPSitOZzkwODcxL0tCTUJhbnJCd
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol2.png" tvg-name="200",NTV+ Futbol 2
 http://auth.torrent-tv.ru/h/552/1/2/YXdNc2hHQlQyRkU5UGZsZDNpaWtRa2xKUmFLZ3BJQjI0RXllTGVsMjlIZlJqOVR2NUJrRVdtMzc1SEdsMkF6Mw
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV + Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
-http://auth.torrent-tv.ru/h/85/1/2/VkFQSlptQlQyRkZQY2JrTncyU0JVY09ZaGFFTHBzckZKZUdsUllkRk5KWEJqbWZXclIxem5ZcVB2RWU4NnhQQQ
+http://176.50.128.232:1234/udp/233.7.70.116:5000
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol HD.png" tvg-name="199",NTV+ Futbol HD
 7a7a95a341715f54cd17bebf5ff5528e93276542
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\NTV+ Futbol HD.png" tvg-name="200",NTV+ Futbol 2 HD
@@ -486,7 +486,7 @@ http://auth.torrent-tv.ru/h/526/1/2/U3dBaExHRlQyRkhNSTV4bnJsMjA4U01qcnNPRkF1eUZ6
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Russia 2.png" tvg-name="206",Russia 2
 4448f19c398c5f7a75b940af7da91c5c5323f6e0
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Viasat Sport.png" tvg-name="192",Viasat Sport
-9bf1f82b6743719397c455494da77e514edd4974
+http://176.50.128.232:1234/udp/233.7.70.138:5000
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
 24016670eb2e4c23ac7e9f27227bfc9f3c3d5745
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Sport.png" tvg-name="194",Sport
