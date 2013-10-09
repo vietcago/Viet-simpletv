@@ -700,7 +700,7 @@ rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\MTV HD.png" tvg-name="111",MTV Live HD
 http://fw01.livem3u8.me.totiptv.com/live/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel.png" tvg-name="140",M channel HD
-http://fw01.livem3u8.me.totiptv.com/live/8237601ce3ea4bae8332ebb0d88dba87.m3u8?bitrate=800
+rtmp://202.1.2.18/live/2ch26000.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\wow music hd.png" tvg-name="141",Wow Music HD
 http://110.164.192.112:1935/LiveStream/wow_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\vpop.png",V-Pop
