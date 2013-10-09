@@ -800,7 +800,7 @@ rtmp://$OPT:rtmp-raw=rtmp://42.117.9.45:80/live playpath=htv3_2500.stream swfUrl
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
 http://94.242.221.141/hls/a-lo/stream127.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Cartoon Network.png" tvg-name="118",Cartoon Network
-rtmp://$OPT:rtmp-raw=rtmp://edge.isearch.to/edge playpath=lf4cc63667vxzlx swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/46497/watch-live-Star_Movie_Asia-streaming-channel-for-free
+rtmp://202.1.2.18/live/3ch27000.stream
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Cartoon club.png" tvg-name="119",Cartoon Club
 http://110.164.192.112:1935/LiveStream/cartoonclub_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Kidszone.png" tvg-name="120",Kids Zone
