@@ -574,7 +574,7 @@ http://scache.fptplay.net.vn/live/vtcHD3_2500.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim HD
 http://scache.fptplay.net.vn/live/htvcmovieHD_2500.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
-http://scache.fptplay.net.vn/live/thuanvietHD_2500.stream/playlist.m3u8
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN HD
 http://113.160.49.36/lives/origin03/bts-axnhd.isml/bts-axnhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
