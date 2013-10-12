@@ -437,7 +437,7 @@ rtmp://222.87.129.199/app_4//ls_3.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV Russia.png",CCTV1 HD
 http://gslb.bestvcdn.com/gslb/url/BesTV/live/live/cctv1hd/workflow04-mnf.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5 HD
-http://182.138.31.18:8199/CCTV5HD
+rtmp://120.205.13.194:1935/cctv-5/live
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 http://58.22.105.125:554/cctvhd-750
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sports HD
