@@ -572,7 +572,7 @@ http://m24.megafun.vn/live.vs?c=vstv071&q=high
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC HD3.png" tvg-name="80",VTC HD3
 http://scache.fptplay.net.vn/live/vtcHD3_2500.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim HD
-http://scache.fptplay.net.vn/live/htvcmovieHD_2500.stream/playlist.m3u8
+http://sopcache74.fptplay.net.vn/live/htvcmovieHD_2500.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN HD
