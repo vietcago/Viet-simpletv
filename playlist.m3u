@@ -357,14 +357,6 @@ http://m24.megafun.vn/live.vs?c=vstv042&q=high
 http://85.132.53.51:1935/turktv/ntvspor.sdp/hasbahca.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN+
 http://67.228.177.198:1935/mtv/43hd/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\NTV+ Futbol.png" tvg-name="212",NTV+Sport plus
-rtmp://n4.nogomya.ch/live/10.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-rtmp://n4.nogomya.ch/live/1.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\NTV+ Futbol2.png" tvg-name="200",NTV+ Futbol 2
-rtmp://n4.nogomya.ch/live/3.stream 
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Sport1.png" tvg-name="191",Sport 1
-rtmp://n4.nogomya.ch/live/5.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=skyss1.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
@@ -444,7 +436,7 @@ http://113.160.49.36/lives/origin03/bts-foxhd.isml/bts-foxhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\New Vision HD.png" tvg-name="139",New Vision Sport HD
 rtmp://222.87.129.199/app_4//ls_3.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV Russia.png",CCTV1 HD
-http://58.22.105.125:554/cctv1hd-750
+http://gslb.bestvcdn.com/gslb/url/BesTV/live/live/cctv1hd/workflow04-mnf.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5 HD
 http://182.138.31.18:8199/CCTV5HD
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
