@@ -427,9 +427,9 @@ http://scache.fptplay.net.vn/live/vtc3HD_2500.stream/playlist.m3u8?publisher=pla
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\vtv3hd.png" tvg-name="3",VTV3 HD
 rtmp://cdn-tv.vn-hd.com:80/hdv_livetv2//vtv3hd_1.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
-rtmp://$OPT:rtmp-raw=rtmp://50.22.223.42/liveall/ playpath=asdfwe swfUrl=http://wds.liveall.tv/jwplayer.flash.swf live=r.ates pageUrl=http://liveall.tv/r.ates
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/bdtvhd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
-http://liveedge.tvplanetsoft.com:1446/mobile/sporttv1mobile.stream/playlist.m3u8
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/tttvhd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport Plus HD
 http://113.160.49.36/lives/origin03/bts-foxhd.isml/bts-foxhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\New Vision HD.png" tvg-name="139",New Vision Sport HD
@@ -509,11 +509,11 @@ http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
-http://cdn-tv.vn-hd.com/livetv/_definst_/vctv5_800.stream/playlist.m3u8
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vctv5_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
 http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab7.png" tvg-name="20",VTVcab7
-http://cdn-tv.vn-hd.com/livetv/_definst_/vctv7_800.stream/playlist.m3u8
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vctv7_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab17.png" tvg-name="29",VTVcab17
 http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
@@ -579,9 +579,9 @@ http://113.160.49.36/lives/origin03/bts-axnhd.isml/bts-axnhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
 http://113.160.49.36/lives/origin03/bts-hbohd.isml/bts-hbohd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
-http://cdn-tv.vn-hd.com/hdv_livetv1/starmoviehd_800.stream/playlist.m3u8?t=49a522655c72fcdfc399d818f2fff6fa&e=1381151885
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/starmoviehd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\STAR WORLD HD.png" tvg-name="85",Star World HD
-http://cdn-tv.vn-hd.com/hdv_livetv1/starworldhd_800.stream/playlist.m3u8?t=8ad9119a92096100b46bf5e1439456ea&e=1381152092
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/starworldhd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
 http://fw01.livem3u8.me.totiptv.com/live/7299670a140849a9aaf946b0302ad886.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Fox Crime.png" tvg-name="136",Fox Crime HD
