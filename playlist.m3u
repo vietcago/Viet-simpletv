@@ -425,7 +425,7 @@ http://m24.megafun.vn/live.vs?c=vstv093&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
 http://sopcache74.fptplay.net.vn/live/vtc3HD_2500.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\vtv3hd.png" tvg-name="3",VTV3 HD
-http://sopcache74.fptplay.net.vn/live/vtv3HD_2500.stream/playlist.m3u8
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv2//vtv3hd_1.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
 rtmp://$OPT:rtmp-raw=rtmp://50.22.223.42/liveall/ playpath=asdfwe swfUrl=http://wds.liveall.tv/jwplayer.flash.swf live=r.ates pageUrl=http://liveall.tv/r.ates
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
