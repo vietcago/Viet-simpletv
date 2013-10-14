@@ -373,9 +373,9 @@ http://173.193.20.150:1935/mtv/2/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="92",LETV Sport
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=bein.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport2.png" tvg-name="93",True Sport 2
-http://liveedge.tvplanetsoft.com:1446/mobile/sporttv1mobile.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgfoot/mp4:gmgfoot swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgfoot live=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport3.png" tvg-name="93",True Sport 3
-rtsp://adelivery_s.emome.net:554/sports_gphone.sdp?dc=m20121026597105&amp;msisdn=0988444669&amp;ts=1351218248&amp;at=1&amp;mc=d2d58c
+rtmp://$OPT:rtmp-raw=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport/mp4:gmgsport swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport live=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
