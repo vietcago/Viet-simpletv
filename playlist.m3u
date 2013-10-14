@@ -441,9 +441,9 @@ rtmp://222.87.129.199/app_4//ls_3.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV Russia.png",CCTV1 HD
 http://gslb.bestvcdn.com/gslb/url/BesTV/live/live/cctv1hd/workflow04-mnf.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5 HD
-rtmp://120.205.13.194:1935/cctv-5/live
+rtsp://stream1.gzcbn.tv:1935/app_3/ls_5.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
-http://58.22.105.125:554/cctvhd-750
+rtsp://stream2.gzcbn.tv:1935/app_3/ls_3.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sports HD
 http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_1000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sports 2 HD
