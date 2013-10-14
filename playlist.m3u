@@ -721,7 +721,7 @@ rtmp://unirtmp.tulix.tv/globaltv9/myStream.sdp
 #EXTINF:-1 $ExtFilter="News" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global NVR
 rtmp://unirtmp.tulix.tv/globaltv12/myStream.sdp
 #EXTINF:-1 $ExtFilter="Fashion" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab12.png" tvg-name="25",VTVcab12
-http://live.accessasia.tv:1935/vnptg_channels/vctv12.480p/playlist.m3u8
+rtmp://styletv.vn/live//43124416
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Fashion TV.png" tvg-name="115",Fashion TV
 http://110.164.192.112:1935/LiveStream/fashiontv_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\World Fashion Channel.png" tvg-name="116",World Fashion
