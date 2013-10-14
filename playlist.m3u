@@ -74,7 +74,7 @@ http://112.197.2.11:1935/live/antv.stream/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
 rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=htv2_2500.stream live=1 swfUrl=http://play.fpt.vn/static/mediaplayer/strobeMedia/StrobeMediaPlayback.swf pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV4.png" tvg-name="66",HTV 4
-rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=htv4 live=1 swfUrl=http://tvguide.htvc.vn/tvguide/swfs/StrobeMediaPlayback.swf pageUrl=http://tvguide.htvc.vn/tvguide/
+http://m24.megafun.vn/live.vs?c=vstv089&q=high
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV7.png" tvg-name="67",HTV 7
 rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=htv7_2500.stream live=1 swfUrl=http://play.fpt.vn/static/mediaplayer/strobeMedia/StrobeMediaPlayback.swf pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv9.png" tvg-name="68",HTV 9
@@ -177,6 +177,10 @@ rtmp://113.163.216.24/live/livestream
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://113.160.49.36/lives/origin02/thanhhoasd.isml/thanhhoasd-1096k.m3u8
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhDinhTV.png",BinhDinhTV
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=binhdinh_2500.stream live=1 swfUrl=http://play.fpt.vn/static/mediaplayer/strobeMedia/StrobeMediaPlayback.swf pageUrl=http://play.fpt.vn/internetTV/
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\BTV5.png" tvg-name="155",BTV5
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=btv5_2500.stream live=1 swfUrl=http://play.fpt.vn/static/mediaplayer/strobeMedia/StrobeMediaPlayback.swf pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
 http://m24.megafun.vn/live.vs?c=vstv002&q=high
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
