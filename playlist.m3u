@@ -1,6 +1,6 @@
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
-rtmp://m22.megafun.vn/hctv/vstv002
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vtv1_800.stream?token=nothing&time=null
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
 rtmp://m22.megafun.vn/hctv/vstv017
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
@@ -339,7 +339,7 @@ rtmp://$OPT:rtmp-raw=rtmp://123.30.171.145:80/p2p/ playpath=bongdatv live=1 swfU
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 http://m24.megafun.vn/live.u8?c=vstv096&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
-rtmp://112.197.2.11/nlive/nsctv15.stream
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv2/sctv15_1.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv17.png" tvg-name="61",SCTV17
 http://112.197.2.11:1935/live/sctv0.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
@@ -423,7 +423,7 @@ http://m24.megafun.vn/live.vs?c=vstv042&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
 http://m24.megafun.vn/live.vs?c=vstv093&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
-http://scache.fptplay.net.vn/live/vtc3HD_2500.stream/playlist.m3u8?publisher=play.fpt.net
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vtctt_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\vtv3hd.png" tvg-name="3",VTV3 HD
 rtmp://cdn-tv.vn-hd.com:80/hdv_livetv2//vtv3hd_1.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
@@ -517,9 +517,9 @@ rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vctv7_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab17.png" tvg-name="29",VTVcab17
 http://www.youtube.com/watch?v=9kyENqyQcH4
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
-rtmp://m22.megafun.vn/hctv/vstv003 
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vtc7_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc9.png" tvg-name="38",VTC9
-rtmp://m31.megafun.vn/hctv/vstv010
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/letsviet_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv1.png" tvg-name="45",SCTV1
 http://112.197.2.11:1935/live/sctv1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="53",SCTV9
@@ -633,7 +633,7 @@ rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=canhac live=1 swfUrl=htt
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV
 http://83.218.202.202:1935/live/wt_mtv.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV Vietnam
-http://cdn-tv.vn-hd.com/hdv_livetv1/mtv_800.stream/playlist.m3u8?t=5e0a1d5a96483a4f11f346801d4f237d&e=1381153078
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/mtv_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\MTV .png" tvg-name="111",MTV China
 http://play.vbolu.tv/live/53357A52616B5A4D62794C7342336E6A62448F
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
@@ -657,7 +657,7 @@ http://m24.megafun.vn/live.vs?c=vstv043&q=high
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
 http://m24.megafun.vn/live.vs?c=vstv072&q=high
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\ITV HD.png" tvg-name="42",ITV HD
-http://scache.fptplay.net.vn/live/itvHD_2500.stream/playlist.m3u8?publisher=play.fpt.net
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/itv_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\HTVC hd.png" tvg-name="77",HTVC+ HD
 http://scache.fptplay.net.vn/live/htvcplusHD_2500.stream/playlist.m3u8?publisher=play.fpt.net
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\yousingkaraoke.png" tvg-name="137",Yousing Karaoke HD
@@ -811,7 +811,7 @@ http://m24.megafun.vn/live.vs?c=vstv084&q=high
 #EXTINF:-1 $ExtFilter="Document" group-title="MyTV" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 http://m24.megafun.vn/live.vs?c=vstv078&q=high
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo HD.png" tvg-name="125",NatGeo HD
-rtsp://adelivery_s.emome.net:554/ngc_gphone.sdp?dc=m20121026597105&amp;msisdn=0988444669&amp;ts=1351218248&amp;at=1&amp;mc=d2d58c
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/nationalhd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="111",Nat Geo Music HD
 http://fw01.livem3u8.me.totiptv.com/live/69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="125",Nat Geo Wild HD
