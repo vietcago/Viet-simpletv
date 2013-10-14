@@ -176,7 +176,7 @@ rtmp://113.163.216.24/live/livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacLieuTV.png" tvg-name="186",BacLieuTV
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
-http://113.160.49.36/lives/origin02/thanhhoasd.isml/thanhhoasd-1096k.m3u8
+http://113.160.49.34/lives/origin01/thanhhoamb.isml/thanhhoamb-364k.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhDinhTV.png",BinhDinhTV
 rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=binhdinh_2500.stream live=1 swfUrl=http://play.fpt.vn/static/mediaplayer/strobeMedia/StrobeMediaPlayback.swf pageUrl=http://play.fpt.vn/internetTV/
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\BTV5.png" tvg-name="155",BTV5
