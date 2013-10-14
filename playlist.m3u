@@ -391,7 +391,7 @@ http://live.64ma.com/live/cnId/tvhd.cc-24-2.m3u8?aspect=16x9&rn=b3acNia3NieHbbZ3
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="99",CCTV 9
 http://fw01.livem3u8.me.totiptv.com/live/b08a8052e6724bedba5399f662715ad1.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
-http://cache.m.wasu.cn:8089/cu_iphone.m3u8?subcontentid=9999999920120912003401&contenttype=6&oma=0&enkey=okey
+rtsp://stream5.gzcbn.tv:1935/app_3/ls_9.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
 http://flvs02.brtn.cn/flvss?channel=BTV6&bitrate=512000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
