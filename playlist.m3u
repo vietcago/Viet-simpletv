@@ -276,7 +276,7 @@ rtmp://m33.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+ PC.png" tvg-name="13",K+ PC
 rtmp://$OPT:rtmp-raw=rtmp://123.30.171.145:80/p2p/ playpath=kpluspm live=1 swfUrl=http://megafullvn.com/playerhd/player2013.swf pageUrl=http://megafullvn.com/tv/getlink/link/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-rtmp://$OPT:rtmp-raw=rtmp://123.30.171.145:80/p2p/ playpath=kplus live=1 swfUrl=http://megafullvn.com/playerhd/player2013.swf pageUrl=http://megafullvn.com/tv/getlink/link/kplus.php
+rtmp://$OPT:rtmp-raw=rtmp://27.131.144.176/ball?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAxMyAxMToyNzowNCBQTSZoYXNoX3ZhbHVlPVduZDNOdlB5bXQ4M2g4RGNkTWNqdkE9PSZ2YWxpZG1pbnV0ZXM9NTA=/kplus live=1 swfUrl=http://www.wezatv.com/tool/player.swf pageUrl=http://ball.wezatv.com/goal2hd/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
 rtmp://$OPT:rtmp-raw=rtmp://123.30.171.145:80/p2p/ playpath=thethaotv live=1 swfUrl=http://megafullvn.com/playerhd/player2013.swf pageUrl=http://megafullvn.com/tv/getlink/link/kplus.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
