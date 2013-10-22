@@ -588,7 +588,7 @@ rtmp://$OPT:rtmp-raw=rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevi
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Europa Plus TV.png" tvg-name="114",Europa Plus
 rtmp://europaplus.cdnvideo.ru/europaplus-live/eptv_main.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\ITV HD.png" tvg-name="42",ITV HD
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/itv_800.stream?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=itvHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/vtv3 token=FPT#ed%h0#w@
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\yousingkaraoke.png" tvg-name="137",Yousing Karaoke HD
 rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+ HD
