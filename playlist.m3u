@@ -634,7 +634,7 @@ http://110.164.192.112:1935/LiveStream/dw_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
 http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
-http://goo.gl/JCVWby
+rtmp://$OPT:rtmp-raw=rtmp://ny.iguide.to/edge playpath=1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/secure_player_ilive_z.swf pageUrl=http://www.ilive.to/ token=I8772LDKksadhGHGagf#
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CNN.png" tvg-name="133",CNN
 rtmp://lm01.everyon.tv:1935/ptv/phd16
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Bloomberg TV.png" tvg-name="134",Bloomberg
