@@ -60,15 +60,15 @@ http://112.197.2.11:1935/live/sctv13.stream/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTV1.png" tvg-name="63",HTV 1
 http://m24.megafun.vn/live.vs?c=vstv074&q=high&type=tv&token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
-rtmp://m22.megafun.vn/hctv/vstv001
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=htv2_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/vtv3 token=FPT#ed%h0#w@
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV4.png" tvg-name="66",HTV 4
 http://m24.megafun.vn/live.vs?c=vstv089&q=high&type=tv&token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV7.png" tvg-name="67",HTV 7
-rtmp://m22.megafun.vn/hctv/vstv015
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=htv7_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/vtv3 token=FPT#ed%h0#w@
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv9.png" tvg-name="68",HTV 9
-rtmp://m22.megafun.vn/hctv/vstv009
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=htv9_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/vtv3 token=FPT#ed%h0#w@
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Gia dinh.png" tvg-name="72",HTVC Gia đình
-http://m24.megafun.vn/live.vs?c=vstv073&q=high&type=tv&token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=htvcgiadinh_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/vtv3 token=FPT#ed%h0#w@
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Shopping.png" tvg-name="74",HTVC Shopping
 rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=htvcshopping_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/ token=FPT#ed%h0#w@
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phu nu.png" tvg-name="75",HTVC Phụ nữ
@@ -728,7 +728,7 @@ http://m24.megafun.vn/live.vs?c=vstv031&q=high&type=tv&token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
 http://m24.megafun.vn/live.vs?c=vstv032&q=high&type=tv&token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV3
-http://m24.megafun.vn/live.vs?c=vstv075&q=high&type=tv&token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=htv3_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/vtv3 token=FPT#ed%h0#w@
 #EXTINF:-1 $ExtFilter="Kids" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Kids
 rtmp://unirtmp.tulix.tv/globaltv7/myStream.sdp
 #EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\Logo\JimJam.png" tvg-name="121",JimJam
