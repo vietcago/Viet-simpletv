@@ -376,9 +376,9 @@ http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="89",beIN Sport
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base playpath=bein.stream swfUrl=http://141.8.244.56/stml/player/player.swf live=r.ates pageUrl=http://sportsembed.com/r.ates token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vtctt_800.stream?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=vtc3HD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/vtv3 token=FPT#ed%h0#w@
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\vtv3hd.png" tvg-name="3",VTV3 HD
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv2//vtv3hd_1.stream?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=vtv3HD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.securestreaming-3.2.8.swf pageUrl=http://play.fpt.vn/internetTV/vtv3 token=FPT#ed%h0#w@
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
 rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/bdtvhd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
