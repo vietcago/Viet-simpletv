@@ -1,6 +1,6 @@
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vtv1_800.stream?token=nothing&time=null
+http://m24.megafun.vn/live.vs?c=vstv002&q=high&type=tv&token=nothing&time=null
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
 rtmp://m12.megafun.vn/hctv//vstv017?token=nothing&time=null
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
