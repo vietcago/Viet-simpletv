@@ -331,14 +331,14 @@ rtmp://www.gggg-box.com.cn/live/CH74
 http://m24.megafun.vn/live.vs?c=vstv042&q=high&type=tv&token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN+
 http://67.228.177.198:1935/mtv/43hd/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base playpath=sky1.stream swfUrl=http://141.8.244.56/stml/player/player.swf live=r.ates pageUrl=http://sportsembed.com/r.ates token=%X886(nPK@#.
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skysports2222a live=1 pageUrl=http://www.reyhq.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base playpath=sky2.stream swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=live swfVfy=live timeout=15 token=%X886(nPK@#.
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skysport2 live=1 pageUrl=http://www.reyhq.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=sky3.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skksksy233 live=1 pageUrl=http://www.reyhq.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=sky4.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skysports2222as live=1 pageUrl=http://www.reyhq.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://202.102.79.115:554/live/tv13/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="98",CCTV5+
