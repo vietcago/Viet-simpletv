@@ -687,6 +687,8 @@ http://fw01.livem3u8.me.totiptv.com/live/91fbba1d5af544ac92a2c64e5d177e9d.m3u8?b
 http://torrent-tv.ru/torrent-online.php?translation=1425
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://torrent-tv.ru/torrent-online.php?translation=1815
+#EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png",NuArt
+http://torrent-tv.ru/torrent-online.php?translation=5617
 #EXTINF:-1 $ExtFilter="Fashion" group-title="TV 18+" tvg-logo="..\Channel\logo\Sexy.png" tvg-name="203",Bella Club
 rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
 #EXTINF:-1 $ExtFilter="Fashion" group-title="TV 18+" tvg-logo="..\Channel\logo\Sexy.png" tvg-name="203",Hot 100
