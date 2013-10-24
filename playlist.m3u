@@ -339,6 +339,18 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skysport2 live=1 pageUrl=http:
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skksksy233 live=1 pageUrl=http://www.reyhq.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skysports2222as live=1 pageUrl=http://www.reyhq.com/
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Futbol+.png" tvg-name="188",Futbol+
+http://auth.torrent-tv.ru/h/532/1/2/c3dCdkVtRlQyRkVUeCt6UmVHZHN6ckpsVGo4UFQ5aWFZbjMyTXBVRUxQZGh1ZVlkRWtrcEFBQzFtT1RKZC9BbQ
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol
+http://auth.torrent-tv.ru/h/533/1/2/cndCaHVXRlQyRkgvU3JGZTd2RUJOa1JrWGJwVExaYzk1TVRvSjVSTUdkVkJ6ZDl0dmg4Tzc0UzdHOWNXaWdUcQ
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
+http://auth.torrent-tv.ru/h/39/1/2/WndNeXcyQlQyRkV5L3lPSitOZzkwODcxL0tCTUJhbnJCdU1YSTB6R0dEb1o2K2dEdFhaOW9QYXhLZTR3WDdFcg
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
+http://auth.torrent-tv.ru/h/552/1/2/YXdNc2hHQlQyRkU5UGZsZDNpaWtRa2xKUmFLZ3BJQjI0RXllTGVsMjlIZlJqOVR2NUJrRVdtMzc1SEdsMkF6Mw
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
+http://auth.torrent-tv.ru/h/85/1/2/VkFQSlptQlQyRkZQY2JrTncyU0JVY09ZaGFFTHBzckZKZUdsUllkRk5KWEJqbWZXclIxem5ZcVB2RWU4NnhQQQ
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Telekanal Futbol.png" tvg-name="190",Telekanal Futbol
+http://auth.torrent-tv.ru/h/472/1/2/cXdCanBtRlQyRkYreWtsRERKQmkreDNheTd2ZEthbStwVlhPenlaWEpxMU9Eb3QrcWhlMTc0VlZBcU5KV1FuUw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://202.102.79.115:554/live/tv13/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="98",CCTV5+
