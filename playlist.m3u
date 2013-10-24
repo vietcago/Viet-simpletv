@@ -392,7 +392,7 @@ http://m24.megafun.vn/live.vs?c=vstv093&q=high&type=tv&token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
 rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vtctt_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\vtv3hd.png" tvg-name="3",VTV3 HD
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv2//vtv3hd_1.stream?token=nothing&time=null
+rtmp://cdn-tv.vn-hd.com:80/hdv_livetv2/vtv3hd_1.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
 rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/bdtvhd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
