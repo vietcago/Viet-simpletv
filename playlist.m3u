@@ -22,9 +22,9 @@ rtmp://222.255.167.149/live/livestream
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="12",VTV Phú Yên
 rtmp://113.161.4.102/live//vtvphuyen.tv
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://www.youtube.com/watch?v=zxugolX2M0Q
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab9.png" tvg-name="22",VTVcab9
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://www.youtube.com/watch?v=zxugolX2M0Q
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab10
 http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc1.png" tvg-name="30",VTC1
@@ -310,9 +310,9 @@ rtmp://lm02.everyon.tv:1935/ptv2/phd872
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://m33.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+ PC.png" tvg-name="13",K+ PC
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://www.youtube.com/watch?v=zxugolX2M0Q
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://www.youtube.com/watch?v=zxugolX2M0Q
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab3.png" tvg-name="16",VTVcab3
 rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/tttvhd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
@@ -462,7 +462,7 @@ http://torrent-tv.ru/torrent-online.php?translation=3256
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Eurosport HD.png" tvg-name="107",Eurosport HD
 http://torrent-tv.ru/torrent-online.php?translation=1530
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab1.png" tvg-name="14",VTVcab1
-http://www.youtube.com/watch?v=9kyENqyQcH4
+http://www.youtube.com/watch?v=zxugolX2M0Q
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
