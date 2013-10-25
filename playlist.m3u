@@ -394,9 +394,9 @@ http://auth.torrent-tv.ru/h/85/1/2/VkFQSlptQlQyRkZQY2JrTncyU0JVY09ZaGFFTHBzckZKZ
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Telekanal Futbol.png" tvg-name="190",Telekanal Futbol
 http://auth.torrent-tv.ru/h/472/1/2/cXdCanBtRlQyRkYreWtsRERKQmkreDNheTd2ZEthbStwVlhPenlaWEpxMU9Eb3QrcWhlMTc0VlZBcU5KV1FuUw
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/vtctt_800.stream?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=vtc3HD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf pageUrl=http://play.fpt.vn/internetTV/ token=#ed%h0#w@hey
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\vtv3hd.png" tvg-name="3",VTV3 HD
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv2/vtv3hd_1.stream?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=vtv3HD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf pageUrl=http://play.fpt.vn/internetTV/ token=#ed%h0#w@hey
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
 rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/bdtvhd_800.stream?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
@@ -606,7 +606,7 @@ rtmp://$OPT:rtmp-raw=rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevi
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Europa Plus TV.png" tvg-name="114",Europa Plus
 rtmp://europaplus.cdnvideo.ru/europaplus-live/eptv_main.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\ITV HD.png" tvg-name="42",ITV HD
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/itv_800.stream?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=itvHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf pageUrl=http://play.fpt.vn/internetTV/ token=#ed%h0#w@hey
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\yousingkaraoke.png" tvg-name="137",Yousing Karaoke HD
 rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+ HD
