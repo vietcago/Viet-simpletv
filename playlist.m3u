@@ -6,7 +6,7 @@ rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=vtv2_2500.stream
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
 rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=vtv4_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf pageUrl=http://play.fpt.vn/internetTV/ token=#ed%h0#w@hey
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\VTV5.png" tvg-name="5",VTV5
-http://123.30.53.76/w/vtv5/stream.m3u8
+http://123.30.53.165/w/vtv5/stream.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live playpath=vtv6_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf pageUrl=http://play.fpt.vn/internetTV/ token=#ed%h0#w@hey
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
@@ -602,9 +602,7 @@ http://fw01.livem3u8.me.totiptv.com/live/09cac500285d42ec97465b2219db5f53.m3u8?b
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V International
 http://m24.megafun.vn/live.vs?c=vstv043&q=high
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\KissTV.png" tvg-name="113",Kiss TV
-rtmp://$OPT:rtmp-raw=rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live playpath=live swfUrl=http://kisstelevision.en-directo.com/kisstelevision_avw.swf live=1 pageUrl=http://www.cracketzaa.tv/canal-kiss-tv-en-vivo/ -C 
-
-B:0 --live halilou
+rtmp://$OPT:rtmp-raw=rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live playpath=live swfUrl=http://kisstelevision.en-directo.com/kisstelevision_avw.swf live=1 pageUrl=http://www.cracketzaa.tv/canal-kiss-tv-en-vivo/ -C B:0 --live halilou
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Europa Plus TV.png" tvg-name="114",Europa Plus
 rtmp://europaplus.cdnvideo.ru/europaplus-live/eptv_main.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\ITV HD.png" tvg-name="42",ITV HD
