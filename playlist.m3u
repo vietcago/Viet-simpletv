@@ -574,7 +574,7 @@ rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live?k=c2VydmVyX3RpbWU9MTM4MzI
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\yousingkaraoke.png" tvg-name="137",Yousing Karaoke HD
 rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+ HD
-rtmp://$OPT:rtmp-raw=rtmp://scache.fptplay.net.vn/live?k=c2VydmVyX3RpbWU9MTM4MzI0NDk2NCZoYXNoX3ZhbHVlPWMxMzdhNTdiYmIwZDBkMTA5YzUxYjU2MDRiODIwYTllJnZhbGlkX21pbnV0ZXM9MTQ0MA== playpath=htvcplusHD_2500.stream swfUrl=http://play.fpt.vn/static/mediaplayer/flowplayer.swf pageUrl=http://play.fpt.vn/internetTV/ token=#ed%h0#w@hey
+rtmp://203.162.235.124/yeah1tv//yeah1tv.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\MTV HD.png" tvg-name="1275",MTV Live HD
 http://fw01.livem3u8.me.totiptv.com/live/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel.png" tvg-name="140",M channel HD
