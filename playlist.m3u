@@ -820,7 +820,7 @@ rtmp://$OPT:rtmp-raw=rtmp://ny.iguide.to/edge playpath=yszd60jgsxxtgmj swfUrl=ht
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Discovery Channel.png" tvg-name="126",Discovery Channel
 http://m24.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo HD.png" tvg-name="125",NatGeo HD
-rtmp://cdn-tv.vn-hd.com:80/hdv_livetv1/nationalhd_800.stream?token=nothing&time=null
+rtsp://adelivery_s.emome.net:554/ngc_gphone.sdp?dc=m20121026597105&amp;amp;msisdn=0988444669&amp;amp;ts=1351218248&amp;amp;at=1&amp;amp;mc=d2d58c
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="111",Nat Geo Music HD
 http://fw01.livem3u8.me.totiptv.com/live/69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="300104",Nat Geo Wild HD
