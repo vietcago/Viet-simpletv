@@ -1368,4 +1368,52 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="236">
 <title lang="vi">Kênh quần vợt quốc tế tiếng Nga</title>
 </programme>
+<channel id="237">
+<display-name lang="vi">HaNamTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="237">
+<title lang="vi">Kênh tổng hợp - Đài PTTH Hà Nam</title>
+</programme>
+<channel id="238">
+<display-name lang="vi">QuangBinhTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="238">
+<title lang="vi">Kênh tổng hợp - Đài PTTH Quảng Bình</title>
+</programme>
+<channel id="239">
+<display-name lang="vi">ThaiBinhTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="239">
+<title lang="vi">Kênh tổng hợp - Đài PTTH Thái Bình</title>
+</programme>
+<channel id="240">
+<display-name lang="vi">Yeah1 Fashion</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="240">
+<title lang="vi">Kênh thời trang và cuộc sống</title>
+</programme>
+<channel id="241">
+<display-name lang="vi">Yeah1 Music</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="241">
+<title lang="vi">Kênh âm nhạc giải trí</title>
+</programme>
+<channel id="242">
+<display-name lang="vi">Yeah1 Funny</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="242">
+<title lang="vi">Kênh giải trí hài hước</title>
+</programme>
+<channel id="243">
+<display-name lang="vi">Yeah1 Special</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="243">
+<title lang="vi">Kênh giải trí đặc sắc</title>
+</programme>
+<channel id="244">
+<display-name lang="vi">MM</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="244">
+<title lang="vi">Kênh phim truyện phụ đề tiếng Việt</title>
+</programme>
 </tv>
