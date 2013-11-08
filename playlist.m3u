@@ -296,7 +296,7 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skksksy233 live=1 pageUrl=http
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:443/live/skysports2222as live=1 pageUrl=http://www.reyhq.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
-rtmp://202.102.79.115:554/live//cctv5.stream
+rtmp://222.33.67.38:1935/dvr/10705.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="98",CCTV5+
 rtsp://stream2.gzcbn.tv:1935/app_3/ls_3.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
