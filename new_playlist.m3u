@@ -439,6 +439,8 @@ http://torrent-tv.ru/torrent-online.php?translation=6232
 http://torrent-tv.ru/torrent-online.php?translation=6226
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
 http://torrent-tv.ru/torrent-online.php?translation=6227
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
+http://torrent-tv.ru/torrent-online.php?translation=6407
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
 http://torrent-tv.ru/torrent-online.php?translation=6194
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc6.png" tvg-name="35",VTC6
