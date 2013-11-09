@@ -302,7 +302,7 @@ http://112.197.2.11:1935/glive/sctv18.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể thao
 http://m24.megafun.vn/live.vs?c=vstv047&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
-rtmp://www.gggg-box.com.cn/live/CH74
+http://119.235.248.130/Star/live/chengye.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://m24.megafun.vn/live.vs?c=vstv042&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
