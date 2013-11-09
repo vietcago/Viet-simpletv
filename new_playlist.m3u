@@ -556,7 +556,7 @@ rtmp://202.1.2.18/live/2ch26000.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\wow music hd.png" tvg-name="141",Wow Music HD
 http://110.164.192.112:1935/LiveStream/wow_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="111",Nat Geo Music HD
-http://cbi02.livem3u8.me.totiptv.com/live/69c2eab6794344619a049c5dea60ca22.m3u8?pt=1&ra=1
+http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 http://m24.megafun.vn/live.vs?c=vstv054&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
