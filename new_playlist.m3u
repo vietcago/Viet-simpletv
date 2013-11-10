@@ -384,7 +384,7 @@ http://torrent-tv.ru/torrent-online.php?translation=5116
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 http://torrent-tv.ru/torrent-online.php?translation=4951
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-http://torrent-tv.ru/torrent-online.php?translation=6308
+85d07ed2530b01b7b85970d2aac24706b5ddfacf
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
 http://torrent-tv.ru/torrent-online.php?translation=378
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
