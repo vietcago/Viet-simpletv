@@ -470,7 +470,7 @@ rtmp://$OPT:rtmp-raw=rtmp://ny.iguide.to/edge/4wzh39fvacgngzc swfUrl=http://play
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
 rtmp://$OPT:rtmp-raw=rtmp://ny.iguide.to/edge/nl1yg9ant34fy93 swfUrl=http://player.ilive.to/secure_player_ilive_halilou.swf live=1 pageUrl=http://www.ilive.to/ token=I8772LDKksadhGHGagf#
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
-http://m24.megafun.vn/live.vs?c=vstv038&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
+rtmp://$OPT:rtmp-raw=rtmp://ny.iguide.to/edge/kggplz5w9bpaaaj swfUrl=http://player.ilive.to/secure_player_ilive_halilou.swf live=1 pageUrl=http://www.ilive.to/ token=I8772LDKksadhGHGagf#
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
 http://m24.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\WBTV.png" tvg-name="86",WBTV
