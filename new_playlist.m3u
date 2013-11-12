@@ -380,7 +380,7 @@ http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Eurosport%202.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol
 http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Футбол%20(украина).acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol+.png" tvg-name="188",Futbol+
-http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Футбол+%20(украина).aceliv
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Футбол+%20(украина).acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Viasat%20Sport.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
