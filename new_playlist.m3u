@@ -376,73 +376,73 @@ http://m24.megafun.vn/live.vs?c=vstv042&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWN
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
 rtmp://m22.megafun.vn/hctv/vstv018?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
-http://torrent-tv.ru/torrent-online.php?translation=5984
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Eurosport%202.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol
-21e311ed1321376421638b59d86bf052c4814b89
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Футбол%20(украина).acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol+.png" tvg-name="188",Futbol+
-b2b3856f3378b2dfd5c6b0d7b50dc55a89608974
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Футбол+%20(украина).aceliv
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
-http://torrent-tv.ru/torrent-online.php?translation=4951
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Viasat%20Sport.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-85d07ed2530b01b7b85970d2aac24706b5ddfacf
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Футбол.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
-http://torrent-tv.ru/torrent-online.php?translation=378
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Россия%202.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
-http://torrent-tv.ru/torrent-online.php?translation=383
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Спорт%201.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="206",Eurosport
-http://torrent-tv.ru/torrent-online.php?translation=380
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Eurosport.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
-4a4a77e04d66b2cc10f90756fcd6ac77ca2f8a0e
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Футбол%202.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
-http://torrent-tv.ru/torrent-online.php?translation=414
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Наш%20футбол.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Tennis.png" tvg-name="236",NTV+ Tennis
-http://torrent-tv.ru/torrent-online.php?translation=1257
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Теннис.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Motors.png" tvg-name="234",Motors TV
-http://torrent-tv.ru/torrent-online.php?translation=1483
+http://acelive.torrent-tv.ru/torrent-tv_ru_Motors%20TV.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Basketball.png" tvg-name="235",NTV+ Basketball
-http://torrent-tv.ru/torrent-online.php?translation=2755
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Баскетбол.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Telekanal Futbol.png" tvg-name="190",Telekanal Futbol
-http://torrent-tv.ru/torrent-online.php?translation=412
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Футбол.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 HD.png" tvg-name="191",Sport 1 HD
-http://torrent-tv.ru/torrent-online.php?translation=420
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Спорт%201%20HD.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Plus
-http://torrent-tv.ru/torrent-online.php?translation=406
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Спорт%20плюс.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2 HD
-http://torrent-tv.ru/torrent-online.php?translation=2977
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Футбол%202%20HD.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport.png" tvg-name="191",NTV+ Sport
-http://torrent-tv.ru/torrent-online.php?translation=4527
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Спорт.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2 HD
-http://torrent-tv.ru/torrent-online.php?translation=2078
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Eurosport%202%20HD.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Online.png" tvg-name="194",NTV+ Sport Online
-http://torrent-tv.ru/torrent-online.php?translation=1372
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Спорт%20онлайн.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport.png" tvg-name="194",Sport
-http://torrent-tv.ru/torrent-online.php?translation=1373
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Спорт.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 UA.png" tvg-name="197",Sport 1 UA
-http://torrent-tv.ru/torrent-online.php?translation=1380
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Спорт%201%20(Украина).acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 2 UA.png" tvg-name="198",Sport 2 UA
-http://torrent-tv.ru/torrent-online.php?translation=1381
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Спорт%202%20(Украина).acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Union.png" tvg-name="194",NTV+ Sport Union
-http://torrent-tv.ru/torrent-online.php?translation=1386
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Спорт%20Союз.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\HD Sport.png" tvg-name="194",HD Sport
-http://torrent-tv.ru/torrent-online.php?translation=1461
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_HD%20Спорт.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol HD.png" tvg-name="199",NTV+ Futbol HD
-http://torrent-tv.ru/torrent-online.php?translation=3256
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_НТВ+%20Футбол%20HD.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Eurosport HD.png" tvg-name="107",Eurosport HD
-http://torrent-tv.ru/torrent-online.php?translation=1530
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_Eurosport%20HD.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\2+2.png" tvg-name="189",2+2
-http://torrent-tv.ru/torrent-online.php?translation=6307
+http://acelive.torrent-tv.ru/cdn/torrent-tv_ru_2+2.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
-http://torrent-tv.ru/torrent-online.php?translation=6304
+http://acelive.torrent-tv.ru/torrent-tv_ru_ESPN.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-http://torrent-tv.ru/torrent-online.php?translation=6232
+http://acelive.torrent-tv.ru/torrent-tv_ru_SKY%20SPORTS%201.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-http://torrent-tv.ru/torrent-online.php?translation=6226
+http://acelive.torrent-tv.ru/torrent-tv_ru_SKY%20SPORTS%202.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-http://torrent-tv.ru/torrent-online.php?translation=6227
+http://acelive.torrent-tv.ru/torrent-tv_ru_SKY%20SPORTS%203.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-http://torrent-tv.ru/torrent-online.php?translation=6407
+http://acelive.torrent-tv.ru/torrent-tv_ru_SKY%20SPORTS%204.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
-1861e7c0c1d91f0b0c92451ba9b30655d30aff75
+http://acelive.torrent-tv.ru/torrent-tv_ru_Viasat%20Sport%20Baltic.acelive
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc6.png" tvg-name="35",VTC6
 http://m24.megafun.vn/live.vs?c=vstv051&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
