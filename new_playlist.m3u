@@ -737,3 +737,17 @@ http://torrent-tv.ru/torrent-online.php?translation=1439
 a42721b8a8a4138b4aaec26954d0e27d3712c5b6
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\history channel.png" tvg-name="233",History Channel
 http://torrent-tv.ru/torrent-online.php?translation=5433
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",French Lover TV
+bcb2633c2086963f14aaa4bc45746be509b8f9be
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Night Club
+e08eae4b44c2fc1b0ab5c2a02d2feff882274b91
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Platinum
+6c958359fcbb1f69e82c217faeeee8c21ad887aa
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Playboy
+829fba53ff2d17bf3bd3e396c1f000333240182f
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Private Spice
+556ddc2edf2b255a391da29874a43ba4f2446532
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Rusnight
+4baf7a8587851bdc8c775dacf0fd4c43a60ea79d
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXL
+630d07ac096a86b3839e983703e664ce62be223c
