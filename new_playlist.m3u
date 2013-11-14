@@ -751,3 +751,5 @@ e08eae4b44c2fc1b0ab5c2a02d2feff882274b91
 4baf7a8587851bdc8c775dacf0fd4c43a60ea79d
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXL
 630d07ac096a86b3839e983703e664ce62be223c
+#EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
+9be7b267b6c88855f18f98bb8f5be454ccdc5711
