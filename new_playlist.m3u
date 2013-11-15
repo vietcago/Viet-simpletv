@@ -316,7 +316,7 @@ rtmp://$OPT:rtmp-raw=rtmpe://89.248.168.41:443/liveedge1/xskysp4814 live=1 pageU
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 rtmp://120.205.13.194/cctv5//cctv5.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
-http://220.181.117.163/m3u8/fyzq/desc.m3u8
+rtsp://stream5.gzcbn.tv:1935/app_3/ls_9.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
 http://flvs02.brtn.cn/flvss?channel=BTV6&bitrate=512000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
