@@ -302,9 +302,9 @@ http://112.197.2.11:1935/glive/sctv18.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể thao
 http://m24.megafun.vn/live.vs?c=vstv047&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
-http://119.235.248.130/Star/live/chengye.m3u8
+http://m3u8.uusee.com/10/65/1065BDA5-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8 
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
-http://m24.megafun.vn/live.vs?c=vstv042&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
+http://m3u8.uusee.com/81/A8/81A87E1D-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
 rtmp://$OPT:rtmp-raw=rtmpe://89.248.168.41:443/liveedge1/xskysp1222 live=1 pageUrl=http://srvadsense.com
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
@@ -316,13 +316,13 @@ rtmp://$OPT:rtmp-raw=rtmpe://89.248.168.41:443/liveedge1/xskysp4814 live=1 pageU
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 rtmp://120.205.13.194/cctv5//cctv5.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
-rtsp://stream5.gzcbn.tv:1935/app_3/ls_9.stream?domain=gztv
+http://m3u8.uusee.com/42/8F/428F233C-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
-http://flvs02.brtn.cn/flvss?channel=BTV6&bitrate=512000
+http://m3u8.uusee.com/18/27/1827890C-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8 
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
 http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd/live
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
-rtmp://219.232.160.143/livestream//7b35138178df29cbecc83421bc8c549d
+http://m3u8.uusee.com/6B/4A/6B4A9BFD-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\SiTV Sport.png" tvg-name="105",SiTV Sports
 rtsp://stream3.gzcbn.tv:1935/app_3/ls_13.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="97",Tianjin Sport
