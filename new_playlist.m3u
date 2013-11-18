@@ -358,7 +358,7 @@ http://113.160.49.36/lives/origin03/bts-foxhd.isml/bts-foxhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\New Vision HD.png" tvg-name="139",New Vision Sport HD
 rtsp://stream6.gzcbn.tv:1935/app_4/ls_3.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5 HD
-rtmp://222.33.67.38:1935/dvr/10705.stream
+rtmp://zj.cdn.64ma.com:554/cctv51//live
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 rtsp://stream2.gzcbn.tv:1935/app_3/ls_3.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Sun Channel.png" tvg-name="93",La Liga HD
