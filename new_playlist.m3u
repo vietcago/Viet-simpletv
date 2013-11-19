@@ -376,13 +376,13 @@ rtmp://m22.megafun.vn/hctv/vstv018?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 fa5ac257145a539d338e76645d959244bc8f68b0
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol
-21e311ed1321376421638b59d86bf052c4814b89
+136c5c8df7e2e874655f8f4365959466a84013a1
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol+.png" tvg-name="188",Futbol+
-b2b3856f3378b2dfd5c6b0d7b50dc55a89608974
+e6ed1cf957b507f1f02da8607bdb7194121b8fa8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 a684b45494a636f06c532c38a3b4603952d96512
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-af4f1b2bbf7b0abb7b842c03319961456eda3906
+904474b89d0c6dad5f395703146992472ce45406
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
 aeedd6fd54ca5cb179db9513623ba4c3a99c1387
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
@@ -390,7 +390,7 @@ aeedd6fd54ca5cb179db9513623ba4c3a99c1387
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="206",Eurosport
 72bf065e142809dddc7bb62ff87318568851b993
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
-90a5242826321571377fd7fd23bdca3794f40d41
+9fb7bdfa2be52449d59bbcf8903873c4ef34b0e0
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
 ce9f00bef201c5be1d99f8c10cdd6ab7ca4aa6d5
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Tennis.png" tvg-name="236",NTV+ Tennis
@@ -398,7 +398,7 @@ ce9f00bef201c5be1d99f8c10cdd6ab7ca4aa6d5
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Motors.png" tvg-name="234",Motors TV
 f6ea1e92ac0c0e80e84f0170354359b6ad4ba90d
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Basketball.png" tvg-name="235",NTV+ Basketball
-13ea881b3a32d17b4bd432a023ab777b95800d63
+0bc625301d88824b172e726d701fb5ea7b6ee731
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Telekanal Futbol.png" tvg-name="190",Telekanal Futbol
 c4f67fdb513d1447b82ebdb4bd598eed17fbe3c5
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 HD.png" tvg-name="191",Sport 1 HD
@@ -406,7 +406,7 @@ c4f67fdb513d1447b82ebdb4bd598eed17fbe3c5
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Plus
 43e622a9466d3c17d63949835f7d966c8dcfbc35
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2 HD
-5a41b6c59f805024da03e85c0ebcdbdcfec8307b
+28f8617fa9d903f97c75c596dbe5224c54f53d40
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport.png" tvg-name="191",NTV+ Sport
 27445d634ceb7c1dae05ca2d477dad3bda366274
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2 HD
@@ -424,7 +424,7 @@ d2377dff0d00c372ec1fc29ff4e60e847aab4f54
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\HD Sport.png" tvg-name="194",HD Sport
 a3d42958a35d1ed149c8a03ca5356a999d00b389
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol HD.png" tvg-name="199",NTV+ Futbol HD
-7e412131f93138d9a8386256d5673d0ca526fd25
+a01e78b578ab5b5e8eacc475ad2d49cd26e1b122
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Eurosport HD.png" tvg-name="107",Eurosport HD
 4818630def4101c1267b9472274e5b64774a420e
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\2+2.png" tvg-name="189",2+2
