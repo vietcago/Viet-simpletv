@@ -318,9 +318,9 @@ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/des4.stream pageUrl=http://sports
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 rtmp://120.205.13.194/cctv5//cctv5.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
-http://m3u8.uusee.com/42/8F/428F233C-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
+http://74.82.62.52:1935/liverepeater/21353.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
-http://m3u8.uusee.com/18/27/1827890C-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
+rtmp://btvlive.btv.com.cn/btvlive//sports
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
 http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd/live
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
