@@ -608,7 +608,7 @@ rtmp://lm01.everyon.tv/ptv//phd36
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Russia Today.png" tvg-name="129",Russia Today
 rtmp://fms5.visionip.tv/live/RT_3
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\TV5Monde.png" tvg-name="130",TV5 Monde
-http://110.164.192.112:1935/LiveStream/tv5monde_live1.stream/playlist.m3u8
+http://202.106.125.17/app_2/ls_8.stream_360p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Deutsche Welle.png" tvg-name="131",DW
 http://110.164.192.112:1935/LiveStream/dw_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
@@ -616,7 +616,7 @@ http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
 rtmp://94.23.22.103:1935/live/live_1
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CNN.png" tvg-name="133",CNN
-rtmp://lm01.everyon.tv:1935/ptv/phd16
+http://202.106.125.17/app_2/ls_5.stream_360p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Bloomberg TV.png" tvg-name="134",Bloomberg
 rtmpt://cp116697.live.edgefcs.net:1935/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679
 #EXTINF:-1 $ExtFilter="News" group-title="HDTV" tvg-logo="..\Channel\logo\NHK WORLD HD.png" tvg-name="144",NHK World HD
@@ -718,7 +718,7 @@ http://m24.megafun.vn/live.vs?c=vstv069&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWN
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 rtmp://www.gggg-box.com.cn/live/CH21
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Nat Geo.png" tvg-name="125",NatGeo
-rtmp://$OPT:rtmp-raw=rtmp://ny.iguide.to/edge playpath=yszd60jgsxxtgmj swfUrl=http://player.ilive.to/secure_player_ilive_z.swf pageUrl=http://www.ilive.to/ token=I8772LDKksadhGHGagf#
+http://202.106.125.4/app_2/ls_1.stream_360p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Discovery Channel.png" tvg-name="126",Discovery Channel
 http://m24.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="125",Nat Geo Adventure HD
