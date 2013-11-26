@@ -72,7 +72,7 @@ http://117.103.224.75:1935/live/_definst_/VTCHD3/smil:VTCHD3_live.smil/playlist.
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\vtchd1.png" tvg-name="78",VTC HD1
 http://117.103.224.75:1935/live/_definst_/VTCHD1/smil:VTCHD1_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\logo\CCTV Russia.png",CCTV1 HD
-http://122.192.35.76:554/live/cctv1.stream/playlist.m3u8
+http://zb.v.qq.com:1863/?progid=2515002412
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
 http://m24.megafun.vn/live.vs?c=vstv002&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
@@ -318,13 +318,13 @@ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/des4.stream pageUrl=http://sports
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://apecn.ccgslb.net/channels/tvie/cctv5/flv:800k
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
-http://74.82.62.52:1935/liverepeater/21353.stream/playlist.m3u8
+http://221.7.252.248/m3u8/fyzq/desc.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
 rtmp://btvlive.btv.com.cn/btvlive//sports
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
 http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd/live
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
-http://m3u8.uusee.com/6B/4A/6B4A9BFD-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
+rtsp://58.248.254.9:1935/tvlive/gdty-hd.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\SiTV Sport.png" tvg-name="105",SiTV Sports
 rtsp://stream3.gzcbn.tv:1935/app_3/ls_13.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="97",Tianjin Sport
