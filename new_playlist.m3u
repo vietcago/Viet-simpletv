@@ -316,7 +316,7 @@ rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/desi3.stream pageUrl=http://sport
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/des4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600vh=450 token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
-rtmp://120.205.13.194/cctv5//cctv5.stream
+http://apecn.ccgslb.net/channels/tvie/cctv5/flv:800k
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
 http://74.82.62.52:1935/liverepeater/21353.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
