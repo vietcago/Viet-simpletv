@@ -540,7 +540,7 @@ db09254c3b593d61ad0c5f45244ceb40263f622b
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXL
 a39a24ffd79dc3ab7847efa6681538dcd71116ad
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",French Lover TV
-056e1bd6be97c56f98ffa7abb191f51bd6e7955e
+63d5b8f8ba4021737f685f23617574868a6fcde4
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global film 1
 rtmp://unirtmp.tulix.tv/globaltv6/myStream.sdp
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Film 2
