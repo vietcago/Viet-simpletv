@@ -340,7 +340,7 @@ rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\REAL MADID.png" tvg-name="110",Real Madrid TV
 http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="89",beIN Sport
-rtmp://$OPT:rtmp-raw=rtmpe://89.248.168.41:443/liveedge1/xbt1377 live=1 pageUrl=http://srvadsense.com
+rtmp://$OPT:rtmp-raw=rtmp://ny.premiumcdnlive.com/edge playpath=6a2ijwzbu2c2jlb swfUrl=http://player.ilive.to/secure_player_ilive_z.swf live=1 pageUrl=http://www.ilive.to/view/54228/watch-live-SportTV_Live-streaming-channel-for-free token=I8772LDKksadhGHGagf#
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\One World Sports.png" tvg-name="91",One World Sports
 http://src.livem3u8.na.itv.cn/live/f4f4f6b6e6574e0b99f5346ddc8ab94a.m3u8?bitrate=1500
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Futbol+.png" tvg-name="188",Futbol+
