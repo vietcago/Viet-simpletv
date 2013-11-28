@@ -322,7 +322,7 @@ http://apecn.ccgslb.net/channels/tvie/cctv5/flv:800k
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
 http://221.7.252.248/m3u8/fyzq/desc.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
-rtmp://btvlive.btv.com.cn/btvlive//sports
+http://58.68.229.69/flvss?channel=BTV6&bitrate=800000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
 rtmp://$OPT:rtmp-raw=rtmp://livertmp2-cnc.wasu.cn/shanghaisports.flv pageUrl=http://www.wasu.cn/live live=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
