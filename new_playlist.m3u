@@ -632,7 +632,11 @@ rtmp://live.vnanet.vn/Live/DRC
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vov-tv.png" tvg-name="148",VOV TV
 rtmp://123.30.50.59/live/vovtv
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\antv.png" tvg-name="147",ANTV
-http://112.197.2.11:1935/live/antv.stream/playlist.m3u8
+http://112.197.2.11:1935/live/antv.stream/playlist.
+#EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
+http://ttv-msk-torrent1.ytv.su/bbcworldnews.acelive
+#EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CNN International.png" tvg-name="133",CNN
+http://ttv-msk-torrent1.ytv.su/cnninternational.acelive
 #EXTINF:-1 $ExtFilter="News" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global IBC
 rtmp://unirtmp.tulix.tv/globaltv15/myStream.sdp
 #EXTINF:-1 $ExtFilter="News" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global VPTV
