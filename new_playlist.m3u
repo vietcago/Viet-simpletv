@@ -293,6 +293,40 @@ rtmp://stream.s15.cpanelservices.com/lstvlive/livestream
 rtmp://$OPT:rtmp-raw=rtmp://74.63.219.99:/vbsvp/ playpath=myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php?id=6&gID=0&page=1 live=1
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\settv.png",Set TV
 rtmp://206.217.221.127/set//set_1
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",But Go
+rtmp://lm01.everyon.tv/ptv//phd772
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Midnight
+rtmp://lm02.everyon.tv/ptv2//phd766
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playy 19+
+rtmp://lm03.everyon.tv/ptv3//phd769
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",VIKI Enjoy Pre
+rtmp://lm02.everyon.tv/ptv2//phd765
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",The 0
+rtmp://lm03.everyon.tv/ptv3//phd771
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
+rtmp://lm02.everyon.tv/ptv2//phd63
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Asia RED ON.png" tvg-name="203",Red On HD
+rtmp://lm02.everyon.tv/ptv2//phd60
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hotgirl
+rtmp://lm02.everyon.tv/ptv2//phd59
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Girls TV.png" tvg-name="203",Girls 4U TV
+rtmp://lm01.everyon.tv/ptv//phd501
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png" tvg-name="203",Live Ting TV
+rtsp://lm02.everyon.tv/ptv2/phd64
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Pink TV.png" tvg-name="203",Pink TV
+rtmp://lm02.everyon.tv/ptv2//phd62
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="1378",Playboy TV
+rtmp://lm03.everyon.tv/ptv3//phd499
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\SPICE TV.png" tvg-name="203",Spice TV
+rtmp://lm03.everyon.tv/ptv3//phd497
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Sakura TV.png" tvg-name="203",Sakura TV
+rtmp://lm03.everyon.tv/ptv3//pld61
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\RealTV Estate.png" tvg-name="203",Real Day
+rtmp://lm02.everyon.tv:1935/ptv2/phd871
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\RealTV Estate.png" tvg-name="203",Real Amateur
+rtmp://lm02.everyon.tv:1935/ptv2/phd869
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\RealTV Estate.png" tvg-name="203",Real Fetish
+rtmp://lm02.everyon.tv:1935/ptv2/phd870
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://112.197.2.11:1935/live/vtv3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
@@ -645,8 +679,6 @@ http://203.162.235.124:1935/yeah1tv/yeah1_fashion.stream/playlist.m3u8
 fb8dbb944cdced6fd694c0e3171e47176b41a252
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
 419f908db68bfcf81d1e452a63744d76d2e4c400
-#EXTINF:-1 $ExtFilter="Fashion" group-title="TV 18+" tvg-logo="..\Channel\logo\Sexy.png" tvg-name="203",You Diva
-rtsp://46.249.213.93/broadcast/youdivalite-tablet.3gp
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC" tvg-logo="..\Channel\logo\VTC11.png" tvg-name="40",VTC11
 http://m24.megafun.vn/live.vs?c=vstv050&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
