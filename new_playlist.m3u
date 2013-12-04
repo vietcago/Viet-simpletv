@@ -360,7 +360,7 @@ http://58.68.229.69/flvss?channel=BTV6&bitrate=800000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
 rtmp://$OPT:rtmp-raw=rtmp://livertmp2-cnc.wasu.cn/shanghaisports.flv pageUrl=http://www.wasu.cn/live live=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
-rtsp://58.248.254.9:1935/tvlive/gdty-hd.stream
+rtmp://58.221.37.171:1935/live/sport
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\SiTV Sport.png" tvg-name="105",SiTV Sports
 rtsp://stream3.gzcbn.tv:1935/app_3/ls_13.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Euro soccer.png" tvg-name="100",Euro Soccer
