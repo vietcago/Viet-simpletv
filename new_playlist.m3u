@@ -329,6 +329,8 @@ rtmp://lm02.everyon.tv:1935/ptv2/phd869
 rtmp://lm02.everyon.tv:1935/ptv2/phd870
 #EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\RealTV Estate.png" tvg-name="203",Real Erotica
 rtmp://lm02.everyon.tv:1935/ptv2/phd872
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+ PM
+rtmp://123.30.134.108/live/kplus
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://112.197.2.11:1935/live/vtv3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
