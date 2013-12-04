@@ -344,13 +344,13 @@ http://m24.megafun.vn/live.vs?c=vstv033&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWN
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://m3u8.uusee.com/81/A8/81A87E1D-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
-http://31.220.42.170:8000/pid/fe9e1a075a083dd3ea4451116937a7a3a51dff0d
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.12:1935/live playpath=HDMSKY1 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://watchyoutube.us/embedlive2.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-http://31.220.42.170:8000/pid/5c54c42b3e3e07a453899106de3813078f62d920
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.12:1935/live playpath=HDMSKY2 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://watchyoutube.us/embedlive2.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-http://31.220.42.170:8000/pid/c40835f364833a3f94e32453d64823e188d54909
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.12:1935/live playpath=HDMSKY3 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://watchyoutube.us/embedlive2.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-http://31.220.42.170:8000/pid/60337e4ef41513f4aa0b0fc83d927d5b6c079d2f
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.12:1935/live playpath=HDMSKY4 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://watchyoutube.us/embedlive2.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://apecn.ccgslb.net/channels/tvie/cctv5/flv:800k
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
