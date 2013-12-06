@@ -668,7 +668,7 @@ http://m24.megafun.vn/live.vs?c=vstv041&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWN
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="220",LifeTV Model
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream2 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
-2030b7d4fcf3af1c4c97acca28477b5248e91374
+18485567e6417d27a5bbc86348193a67ec9bd53a
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 fb8dbb944cdced6fd694c0e3171e47176b41a252
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
