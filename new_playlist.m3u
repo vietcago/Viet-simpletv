@@ -547,8 +547,10 @@ db09254c3b593d61ad0c5f45244ceb40263f622b
 0fd88781e9d403822af20de498ff04cd57ba3932
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXL
 a39a24ffd79dc3ab7847efa6681538dcd71116ad
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Temptation
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Daring TV
 1e11a8bc47dec4f0724ed8fc36fdfeebee27fa96
+#EXTINF:-1 $ExtFilter="TorrentTV" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",SCT
+7b1739843012da95112fc77b3363e959003f6e13
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global film 1
 rtmp://unirtmp.tulix.tv/globaltv6/myStream.sdp
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Film 2
