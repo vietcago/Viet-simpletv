@@ -463,6 +463,8 @@ d225be05ad5f84d3a8a21ec318641e1afffe34f1
 647e46e32e40e25ee95666b050ca54ee43ab35f2
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 60337e4ef41513f4aa0b0fc83d927d5b6c079d2f
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\1+1.png" tvg-name="189",1+1
+6ed3d98f5ec90a3cee2910a72abfb43e9c2e0445
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\2+2.png" tvg-name="189",2+2
 4bfd730f7c4ee48914dc9142595c8246162c4844
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
