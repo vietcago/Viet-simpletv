@@ -360,7 +360,7 @@ rtmp://103.246.17.252:1935/live/tsp6.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport7.png",True Sport 7
 rtmp://103.246.17.252:1935/live/tsp7.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
-http://apecn.ccgslb.net/channels/tvie/cctv5/flv:800k
+rtmp://125.39.42.129:1935/SRT_CCTV/CCTV5_N
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
 http://221.7.252.248/m3u8/fyzq/desc.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
