@@ -392,7 +392,7 @@ rtsp://stream6.gzcbn.tv:1935/app_4/ls_3.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5 HD
 http://58.215.207.178:1936/live/cctv5_bq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
-rtsp://stream2.gzcbn.tv:1935/app_3/ls_3.stream?domain=gztv
+http://ak.live.cntv.cn/i/cctveurope_1@139235/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD2
 rtmp://103.246.17.252:1935/live/tsphd2.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
