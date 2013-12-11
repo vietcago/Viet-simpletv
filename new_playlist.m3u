@@ -745,3 +745,7 @@ http://torrent-tv.ru/torrent-online.php?translation=1439
 4ef8e0355fbe096e8719e872b3d73837dc96846d
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\history channel.png" tvg-name="233",History Channel
 http://torrent-tv.ru/torrent-online.php?translation=5433
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV
+rtmp://115.146.126.204/live//livetv2
+#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vtvcab9.png" tvg-name="22",VTVcab 9
+rtmp://115.146.126.204/live//livetv1
