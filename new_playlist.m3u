@@ -350,7 +350,7 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport4 swfUrl=http
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 rtmp://125.39.42.129:1935/SRT_CCTV/CCTV5_N
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
-http://221.7.252.248/m3u8/fyzq/desc.m3u8
+http://202.102.79.115:554/live/fyzq.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
 http://58.68.229.69/flvss?channel=BTV6&bitrate=800000
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\shanghaisports.png" tvg-name="103",SMG Sports
