@@ -340,13 +340,13 @@ http://m24.megafun.vn/live.vs?c=vstv033&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWN
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://m3u8.uusee.com/81/A8/81A87E1D-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
-rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.12:1935/live playpath=HDMSKY1 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://watchyoutube.us/embedlive2.php
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.12:1935/live playpath=HDMSKY2 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://watchyoutube.us/embedlive2.php
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport2 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.12:1935/live playpath=HDMSKY3 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://watchyoutube.us/embedlive2.php
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport3 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.12:1935/live playpath=HDMSKY4 live=1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://watchyoutube.us/embedlive2.php
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 rtmp://125.39.42.129:1935/SRT_CCTV/CCTV5_N
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
