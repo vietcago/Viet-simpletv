@@ -369,8 +369,6 @@ rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
 http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\One World Sports.png" tvg-name="91",One World Sports
 http://src.livem3u8.na.itv.cn/live/f4f4f6b6e6574e0b99f5346ddc8ab94a.m3u8?bitrate=1500
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
-http://202.106.125.4/app_2/ls_4.stream_360p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport Plus HD
@@ -501,8 +499,6 @@ http://m24.megafun.vn/live.vs?c=vstv038&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWN
 http://m24.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Lotus Macau.png" tvg-name="106",Lotus Macau
 http://110.164.192.112:1935/LiveStream/lotusmacau_live1.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\HBO HITS.png" tvg-name="136",HBO Hits
-rtmp://103.246.17.252:1935/live/hbohits.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JJ Channel.png" tvg-name="231",JJ Channel
 rtmp://$OPT:rtmp-raw=rtmpe://livemedia.hayhaytv.vn:1935/hayhaytv_live/mp4:jj.720p?uid= token=na^tu12%28aqw
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
