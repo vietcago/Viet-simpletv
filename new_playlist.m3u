@@ -69,8 +69,6 @@ http://m24.megafun.vn/live.vs?c=vstv070&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWN
 http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\logo\CCTV Russia.png",CCTV1 HD
 http://zb.v.qq.com:1863/?progid=2515002412
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\STAR TV.png" tvg-name="243",Ngôi sao
-http://playcache.fptplay.net.vn/dvr/ngoisao_1000.stream/manifest.m3u8
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
 http://m24.megafun.vn/live.vs?c=vstv002&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
@@ -733,7 +731,15 @@ http://torrent-tv.ru/torrent-online.php?translation=1439
 4ef8e0355fbe096e8719e872b3d73837dc96846d
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\history channel.png" tvg-name="233",History Channel
 http://torrent-tv.ru/torrent-online.php?translation=5433
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV
-rtmp://115.146.126.204/live//livetv2
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vtvcab9.png" tvg-name="22",VTVcab 9
 rtmp://115.146.126.204/live//livetv1
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
+http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/thethaosd.m3u8?key=cdd0443541252ae10a813057261cdb2d
+#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
+http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv5.m3u8?key=cdd0443541252ae10a813057261cdb2d
+#EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab4.png" tvg-name="17",VTVcab4
+http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/m4me.m3u8?key=cdd0443541252ae10a813057261cdb2d
+#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab7.png" tvg-name="20",VTVcab7
+http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv7.m3u8?key=cdd0443541252ae10a813057261cdb2d
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
+http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/bongdasd.m3u8?key=cdd0443541252ae10a813057261cdb2d
