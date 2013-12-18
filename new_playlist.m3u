@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
 rtmp://m22.megafun.vn/hctv/vstv002?token=nothing&time=null
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
-http://123.30.53.79/w/vtv2/stream.m3u8
+rtmp://m14.megafun.vn/hctv/vstv017
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
 http://112.197.2.11:1935/live/vtv4.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\VTV5.png" tvg-name="5",VTV5
