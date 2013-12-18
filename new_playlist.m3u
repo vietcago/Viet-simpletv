@@ -1,4 +1,8 @@
 #EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
+rtmp://m22.megafun.vn/hctv/vstv002?token=nothing&time=null
+#EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
+rtmp://m14.megafun.vn/hctv/vstv017
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
 http://112.197.2.11:1935/live/vtv4.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\VTV5.png" tvg-name="5",VTV5
@@ -543,7 +547,7 @@ db09254c3b593d61ad0c5f45244ceb40263f622b
 a39a24ffd79dc3ab7847efa6681538dcd71116ad
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Daring TV
 1e11a8bc47dec4f0724ed8fc36fdfeebee27fa96
-#EXTINF:-1 $ExtFilter="TorrentTV" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",SCT
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",SCT
 7b1739843012da95112fc77b3363e959003f6e13
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global film 1
 rtmp://unirtmp.tulix.tv/globaltv6/myStream.sdp
