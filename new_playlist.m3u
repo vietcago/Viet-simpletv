@@ -545,3 +545,18 @@ http://torrent-tv.ru/torrent-online.php?translation=1439
 4ef8e0355fbe096e8719e872b3d73837dc96846d
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\history channel.png" tvg-name="233",History Channel
 http://torrent-tv.ru/torrent-online.php?translation=5433
+#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV Base.png",MTV Asia
+http://cbi02.livem3u8.me.totiptv.com/live/ebce2f5139c54eda8b111e5923af9c9e.m3u8?pt=1&code=7ff0eb1dacd57fb96d074970aad9fa75
+#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\WBTV.png" tvg-name="86",WBTV
+http://cbi02.livem3u8.me.totiptv.com/live/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8?pt=1&code=7ff0eb1dacd57fb96d074970aad9fa75
+#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\THRIL MOVIES.png" tvg-name="87",Thrill Movies
+http://cbi02.livem3u8.me.totiptv.com/live/c316ed9333e54442b25077f0bb3cc269.m3u8?pt=1&code=7ff0eb1dacd57fb96d074970aad9fa75
+#EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\MTV Live HD.png" tvg-name="111",MTV Live HD
+http://cbi02.livem3u8.me.totiptv.com/live/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?pt=1&code=7ff0eb1dacd57fb96d074970aad9fa75
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX Crime HD.png" tvg-name="136",Fox Crime HD
+http://cbi02.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?pt=1&code=7ff0eb1dacd57fb96d074970aad9fa75
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
+http://cbi02.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8?pt=1&code=7ff0eb1dacd57fb96d074970aad9fa75
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
+http://cbi02.livem3u8.me.totiptv.com/live/65f7358b813048a0898f5677e1793cf9.m3u8?pt=1&code=7ff0eb1dacd57fb96d074970aad9fa75
+
