@@ -360,7 +360,7 @@ rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/nl1yg9ant34fy93 pageUrl=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
 rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/kggplz5w9bpaaaj pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
-rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/59if9jkzx9mhedn pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
+http://m20.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=VEoLtCPawrvIGahbaX-5Tw&time=1392643073&io=LKQm4UrSeh3uHo07|LFnbQkKu7UaOxl8F5Q|4n0AcDMTXeZYw6jc5yU50|9yIyws3xXNsuQzI2W94iiyMF78bA7RYLWVAoiXlXlUyM/xRyPD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Lotus Macau.png" tvg-name="106",Lotus Macau
 http://110.164.192.112:1935/LiveStream/lotusmacau_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JJ Channel.png" tvg-name="231",JJ Channel
