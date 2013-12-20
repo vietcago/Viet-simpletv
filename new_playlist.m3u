@@ -352,7 +352,7 @@ rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=phim live=1 swfUrl=http:
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=thuanviet live=1 swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
-rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/dw657dcdmdf0vap pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
+http://m16.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=Cy1N3EQ4yqvNBooB8A-tTg&time=1392642674&io=LKQm4UrSeh3uHo07|LFnbfmJlxZY|oZqeAmCZv/sNAs8d57AKUVJXXO0tbtg/BsJKJ2S23VP5|4RxFGGGTyid5Bf0tnJtKOTgAPStb2ablXD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
 rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/4wzh39fvacgngzc pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
