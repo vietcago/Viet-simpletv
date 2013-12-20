@@ -356,7 +356,7 @@ http://m16.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=Cy1N3EQ4yqvNBooB8A-
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
 rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/4wzh39fvacgngzc pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
-rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/nl1yg9ant34fy93 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
+http://m22.megafun.vn/live.vs?c=vstv037&q=high&type=tv&token=6B27uMeUl5aDkXYClg-l0g&time=1392639074&io=LKQm4UrSeh3uHo07|LFnbamPKiMWyLzOqg9lS1jfFNFzKk8e7xNCNUkDSRx47Xgdit0yr2krSIekZG4A6cAJnKK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
 rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/kggplz5w9bpaaaj pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
