@@ -412,7 +412,7 @@ http://112.197.2.11:1935/live/sctv2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv11.png" tvg-name="55",SCTV11
 http://112.197.2.11:1935/live/sctv11.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
-rtmp://$OPT:rtmp-raw=rtmp://203.205.0.60/live/ playpath=canhac live=1 swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/
+http://m22.megafun.vn/live.vs?c=vstv072&q=high&type=tv&token=DhaNDbm-MtJYWn9CnXsm0w&time=1392646073&io=LKQm4UrSeh3uHo07|LFnbbSU6iwkPHGhayOU|N7JxO4TXeZYw6jc5yU50|9yIywsxk7B6uvHQ5HGt4Ta23nXtdLdk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
 http://main.gslb.ku6.com/broadcast/sub?channel=910
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\KissTV.png" tvg-name="113",Kiss TV
