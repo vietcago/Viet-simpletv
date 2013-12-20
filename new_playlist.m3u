@@ -243,6 +243,8 @@ rtmp://$OPT:rtmp-raw=rtmp://stream.ahamy.tv/playlist?msisdn=2192571238&pitem=PIT
 rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\REAL MADID.png" tvg-name="110",Real Madrid TV
 http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
+http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vtv3hd.m3u8?key=cdd0443541252ae10a813057261cdb2d
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport Plus HD
@@ -466,7 +468,7 @@ rtmp://live.vnanet.vn/Live/DRC
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vov-tv.png" tvg-name="148",VOV TV
 rtmp://123.30.50.59/live/vovtv
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\antv.png" tvg-name="147",ANTV
-http://112.197.2.11:1935/live/antv.stream/playlist.
+http://112.197.2.11:1935/live/antv.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global IBC
 rtmp://unirtmp.tulix.tv/globaltv15/myStream.sdp
 #EXTINF:-1 $ExtFilter="News" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global VPTV
