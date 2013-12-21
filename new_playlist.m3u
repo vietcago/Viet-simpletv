@@ -218,11 +218,11 @@ rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/2ak5l6hr16eleum pageUrl=
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://m3u8.uusee.com/81/A8/81A87E1D-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
+rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/oe6rmujopkqunry swfUrl=http://cdn.ilive.to/player/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf# live=1 pageUrl=http://www.ilive.to/view/55133/watch-live-SKY_Sport_1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport2 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport3 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
+rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/ns4qszgt1ajgyr9 swfUrl=http://cdn.ilive.to/player/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf# live=1 pageUrl=http://www.ilive.to/view/55135/watch-live-SKY_Sport_3
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
