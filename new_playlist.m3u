@@ -337,6 +337,8 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 f1e8b36841bbdc823660ca0fedfe99334308f500
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Premier Sports.png" tvg-name="89",Premier Sports
 18f6aab36a2a0309176740929e5673139de99868
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
+http://m22.megafun.vn/live.vs?c=vstv051&q=high&type=tv&token=hDUzQp95A43cjizl2jcq1A&time=1392819431&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
 rtmp://m22.megafun.vn/hctv/vstv003?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc9.png" tvg-name="38",VTC9
