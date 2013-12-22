@@ -54,7 +54,7 @@ rtmp://$OPT:rtmp-raw=rtmpe://123.29.69.69/liverepeater playpath=HTV1_HVGA_H264.s
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
 rtmp://m22.megafun.vn/hctv/vstv001?token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV4.png" tvg-name="66",HTV 4
-rtmp://$OPT:rtmp-raw=rtmpe://123.29.69.69/liverepeater playpath=HTV4_HVGA_H264.sdp live=1 swfUrl=http://hktivi.net/player2.swf
+http://m22.megafun.vn/live.vs?c=vstv089&q=high&type=tv&token=1kq1YhJ2oBzjTQ0f6YHGpw&time=1392819787&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV7.png" tvg-name="67",HTV 7
 rtmp://m22.megafun.vn/hctv/vstv015?token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv9.png" tvg-name="68",HTV 9
