@@ -226,7 +226,7 @@ rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/ns4qszgt1ajgyr9 swfUrl=h
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
-rtmp://125.39.42.129:1935/SRT_CCTV/CCTV5_N
+http://122.192.35.77:554/live/cctv5.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
 http://202.102.79.115:554/live/fyzq.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
