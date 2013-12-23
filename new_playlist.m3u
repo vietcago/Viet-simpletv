@@ -22,7 +22,7 @@ rtmp://222.255.167.149/live/livestream
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="12",VTV Phú Yên
 rtmp://113.161.4.102/live//vtvphuyen.tv
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc1.png" tvg-name="30",VTC1
-rtmp://m12.megafun.vn/hctv//vstv005?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://117.103.225.3/live//vtc11 live=1 swfUrl=http://www1.vtc.com.vn/player_6_10_2011.swf pageURL=http://www1.vtc.com.vn/live/2/VTC3.html
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc2.png" tvg-name="31",VTC2
 rtmp://m22.megafun.vn/hctv/vstv006?token=nothing&time=null
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc8.png" tvg-name="37",VTC8
