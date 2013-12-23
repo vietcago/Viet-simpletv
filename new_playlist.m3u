@@ -214,15 +214,15 @@ http://112.197.2.11:1935/glive/sctv18.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể thao
 http://m16.megafun.vn/live.vs?c=vstv047&q=high&type=tv&token=xJ9KfEWWT00z_tYZVoft2Q&time=1392647157&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
-rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/2ak5l6hr16eleum pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
+rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/2ak5l6hr16eleum pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=Uk78nino
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://m3u8.uusee.com/81/A8/81A87E1D-0000-0000-FFFF-FFFFFFFFFF14_ts_live.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/oe6rmujopkqunry swfUrl=http://cdn.ilive.to/player/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf# live=1 pageUrl=http://www.ilive.to/view/55133/watch-live-SKY_Sport_1
+rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/oe6rmujopkqunry swfUrl=http://cdn.ilive.to/player/secure_player_ilive_z.swf token=Uk78nino live=1 pageUrl=http://www.ilive.to/view/55133/watch-live-SKY_Sport_1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport2 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/ns4qszgt1ajgyr9 swfUrl=http://cdn.ilive.to/player/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf# live=1 pageUrl=http://www.ilive.to/view/55135/watch-live-SKY_Sport_3
+rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/ns4qszgt1ajgyr9 swfUrl=http://cdn.ilive.to/player/secure_player_ilive_z.swf token=Uk78nino live=1 pageUrl=http://www.ilive.to/view/55135/watch-live-SKY_Sport_3
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
@@ -364,7 +364,7 @@ http://m22.megafun.vn/live.vs?c=vstv036&q=high&type=tv&token=FOaVg3JSG5EfiW24KYU
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
 http://m22.megafun.vn/live.vs?c=vstv037&q=high&type=tv&token=6B27uMeUl5aDkXYClg-l0g&time=1392639074&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
-rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/kggplz5w9bpaaaj pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#
+rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/kggplz5w9bpaaaj pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=Uk78nino
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
 http://m20.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=VEoLtCPawrvIGahbaX-5Tw&time=1392643073&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Lotus Macau.png" tvg-name="106",Lotus Macau
