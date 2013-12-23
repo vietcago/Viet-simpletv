@@ -153,9 +153,9 @@ rtmp://113.161.218.10/live//BTV.test
 http://113.160.49.34/lives/origin01/thanhhoamb.isml/thanhhoamb-364k.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\QPVN.png" tvg-name="146",QPVN
 http://m24.megafun.vn/live.vs?c=vstv091&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
-#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab 10
+#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab10
 http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
-#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vtvcab9.png" tvg-name="22",VTVcab 9
+#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vtvcab9.png" tvg-name="22",VTVcab9
 rtmp://115.146.126.204/live//livetv1
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\Vietface.png",VietFace
 rtmp://vietfaceRTMP.giniko.com:1935/livepkgr/vietface?adbe-live-event=liveevent&adbe-record-mode=record
@@ -257,12 +257,12 @@ rtsp://stream6.gzcbn.tv:1935/app_4/ls_3.stream?domain=gztv
 http://58.215.207.178:1936/live/cctv5_bq/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 http://ak.live.cntv.cn/i/cctveurope_1@139235/index_2000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
 http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/thethaosd.m3u8?key=cdd0443541252ae10a813057261cdb2d
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
 http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/bongdasd.m3u8?key=cdd0443541252ae10a813057261cdb2d
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+ PM
-rtmp://123.30.134.108/live/kplus
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
+rtmp://115.146.126.204/live//livetv2
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol
@@ -383,7 +383,7 @@ rtmp://42.117.5.161/channels//btv4.480p?token=nothing&time=null
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\MM.png" tvg-name="244",MM
 rtmp://115.146.123.95/liveedge/lifetv3.stream
-#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab 2
+#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
 http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv5.m3u8?key=cdd0443541252ae10a813057261cdb2d
@@ -559,5 +559,3 @@ d6fc80352d3283796c0760e5c69a56bec19241d8
 4ef8e0355fbe096e8719e872b3d73837dc96846d
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\history channel.png" tvg-name="233",History Channel
 925513c91bafaa3fd3247d150c8aa20bf6bc8ac7
-
-
