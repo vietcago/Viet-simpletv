@@ -376,7 +376,7 @@ http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN HD
 http://113.160.49.36/lives/origin03/bts-axnhd.isml/bts-axnhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
-http://113.160.49.36/lives/origin03/bts-hbohd.isml/bts-hbohd-2096k.m3u8
+rtmpt://medianet.cdnviet.com:80/medianet/_definst_/hbo_hd-high
 #EXTINF:-1 $ExtFilter="Movies" group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BTV4.png" tvg-name="156",BTV4
 rtmp://42.117.5.161/channels//btv4.480p?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
@@ -540,13 +540,13 @@ http://m22.megafun.vn/live.vs?c=vstv069&q=high&type=tv&token=sXNlD6mD3RXnBeGB5cC
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
 http://m20.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=aH-ndZprU6WLCS1yfV9Z9A&time=1392646654&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Nat Geo.png" tvg-name="125",NatGeo
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.130/strm/ playpath=geonat swfUrl=http://www.zstream.eu/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.zstream.eu/embed.php
+rtmpt://medianet.cdnviet.com:80/medianet/_definst_/ngc
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 http://m20.megafun.vn/live.vs?c=vstv078&q=high&type=tv&token=IsYVD2C6R3Sm2mvGS016dQ&time=1392643778&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Animal planet.png" tvg-name="143",Animal Planet HD
 rtmp://$OPT:rtmp-raw=rtmp://s01.webport.tv/promo/mtv live=1
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo.png" tvg-name="125",Nat Geo Wild HD
-rtmp://202.1.2.18/live/3ch28000.stream
+rtmpt://medianet.cdnviet.com:80/medianet/_definst_/natwild_hd-high
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World
 986d1991885a934a59cdac526f53d5bed7fa911d
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Discovery Channel черный.png" tvg-name="126",Discovery Channel
