@@ -286,7 +286,7 @@ rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://113.160.49.34/lives/origin01/thanhhoamb.isml/thanhhoamb-364k.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\QPVN.png" tvg-name="146",QPVN
-http://m24.megafun.vn/live.vs?c=vstv091&q=high&type=tv&token=tw2pFKOXUEQTnBHGSWNPOQ&time=1380552422&io=woxtQhmVV1qWeosrsbn6jwaz25k6LydIHk|X0ZUBkciuwgp8B4y8yyNOlcRjXzMJmoLQH2QAl7Yf0Z770Zl/2IRxGPh41xekdW2UskxmKxwh0EFu|PZiKlG6cAoYzhaevoc175Ij0jkqYY/BY9ru4Yh|1CnfXRPAI2kgLN9ZFtBU|IhUv5pHGBfHanJmyE|q
+http://123.29.74.83/live.vs?c=vstv091&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\Vietface.png",VietFace
 rtmp://vietfaceRTMP.giniko.com:1935/livepkgr/vietface?adbe-live-event=liveevent&adbe-record-mode=record
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\saigon tv.png",SaiGon TV
