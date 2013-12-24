@@ -287,6 +287,8 @@ rtmp://113.161.218.10/live//BTV.test
 http://113.160.49.34/lives/origin01/thanhhoamb.isml/thanhhoamb-364k.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\QPVN.png" tvg-name="146",QPVN
 http://123.29.74.83/live.vs?c=vstv091&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Special.png" tvg-name="243",Yeah1 Special
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=yeah1_special swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\Vietface.png",VietFace
 rtmp://vietfaceRTMP.giniko.com:1935/livepkgr/vietface?adbe-live-event=liveevent&adbe-record-mode=record
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\saigon tv.png",SaiGon TV
@@ -551,6 +553,8 @@ rtmp://42.117.5.161/channels//btv4.480p?token=nothing&time=null
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\MM.png" tvg-name="244",MM
 rtmp://115.146.123.95/liveedge/lifetv3.stream
+#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Funny.png" tvg-name="242",Yeah1 Funny
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=yeah1_funny swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global film 1
 rtmp://unirtmp.tulix.tv/globaltv6/myStream.sdp
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Film 2
@@ -609,6 +613,8 @@ http://123.29.74.83/live.vs?c=vstv054&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.83/live.vs?c=vstv040&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
+#EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Music.png" tvg-name="241",Yeah1 Music
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=yeah1_music swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\vpop.png",V-Pop
 rtmp://206.217.221.127/liveStream/vpoptv_1
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MCM TOP.png" tvg-name="111",MCM Top
@@ -681,6 +687,8 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 http://110.164.192.112:1935/LiveStream/alure_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="MyTV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://123.29.74.83/live.vs?c=vstv041&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=yeah1_fashion swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="220",LifeTV Model
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream2 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
