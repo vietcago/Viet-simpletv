@@ -382,7 +382,7 @@ rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\REAL MADID.png" tvg-name="110",Real Madrid TV
 http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vtv3hd.m3u8?key=cdd0443541252ae10a813057261cdb2d
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=vtv3_hd-high swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5 HD
@@ -392,7 +392,7 @@ http://cc1.cdn.64ma.com:8000/live/flv/channel57
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\sport1 HD de.png",SportTV1 HD
 rtmp://$OPT:rtmp-raw=rtmpe://89.248.162.212:443/share playpath=live1-rbi6c live=1 swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c&autoplay=1&wmode=opaque
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/thethaosd.m3u8?key=cdd0443541252ae10a813057261cdb2d
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=thethaotv_hd-high swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
 rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=bongdatv_hd-high swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sports
@@ -480,11 +480,11 @@ f1e8b36841bbdc823660ca0fedfe99334308f500
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Premier Sports.png" tvg-name="89",Premier Sports
 18f6aab36a2a0309176740929e5673139de99868
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
-http://123.30.208.35:8080/m3ugen/rtmplive/live/vctv2?key=6d0a51773b1a7971f00516fc4c00b8e7
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=phimviet swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv5.m3u8?key=cdd0443541252ae10a813057261cdb2d
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=echannel swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab7.png" tvg-name="20",VTVcab7
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv7.m3u8?key=cdd0443541252ae10a813057261cdb2d
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=ddramas swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
 http://m22.megafun.vn/live.vs?c=vstv051&q=high&type=tv&token=hDUzQp95A43cjizl2jcq1A&time=1392819431&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
@@ -576,7 +576,7 @@ a39a24ffd79dc3ab7847efa6681538dcd71116ad
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",SCT
 7b1739843012da95112fc77b3363e959003f6e13
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/m4me.m3u8?key=cdd0443541252ae10a813057261cdb2d
+rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=kenh17 swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
 rtmp://42.117.5.161/channels//yeah1family.480p?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
