@@ -206,7 +206,7 @@ http://123.29.74.83/live.vs?c=vstv014&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab10 - O2 TV
 http://123.29.74.83/live.vs?c=vstv034&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NgheAnTV.png" tvg-name="152",NgheAnTV
-http://m16.megafun.vn/live.vs?c=vstv056&q=high&type=tv&token=bqOYrA59Z8wiVkV51ZAkXA&time=1392640276&io=LKQm4UrSeh3uHo07
+http://123.29.74.83/live.vs?c=vstv056&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 1.png" tvg-name="153",HaNoiTV 1
 rtmp://m22.megafun.vn/hctv/vstv011?token=nothing&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 2.png" tvg-name="153",HaNoiTV 2
