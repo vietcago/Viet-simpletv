@@ -68,7 +68,7 @@ rtmp://$OPT:rtmp-raw=rtmpe://123.29.69.69/liverepeater playpath=HTV1_HVGA_H264.s
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
 rtmp://m22.megafun.vn/hctv/vstv001?token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV4.png" tvg-name="66",HTV 4
-http://m22.megafun.vn/live.vs?c=vstv089&q=high&type=tv&token=1kq1YhJ2oBzjTQ0f6YHGpw&time=1392819787&io=LKQm4UrSeh3uHo07
+rtmp://113.164.15.172:80/medianet/_definst_/htv4
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV7.png" tvg-name="67",HTV 7
 rtmp://m22.megafun.vn/hctv/vstv015?token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv9.png" tvg-name="68",HTV 9
@@ -348,9 +348,9 @@ http://112.197.2.11:1935/glive/sctv15.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
 http://112.197.2.11:1935/glive/sctv18.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể thao
-http://m16.megafun.vn/live.vs?c=vstv047&q=high&type=tv&token=xJ9KfEWWT00z_tYZVoft2Q&time=1392647157&io=LKQm4UrSeh3uHo07
+rtmp://113.164.15.172:80/medianet/_definst_/htvc_the_thao
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
-rtmp://$OPT:rtmp-raw=rtmp://nyk.premiumcdnlive.com/edge/2ak5l6hr16eleum pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=Uk78nino
+http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=foxsports swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
@@ -584,7 +584,7 @@ http://112.197.2.11:1935/live/sctv2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv11.png" tvg-name="55",SCTV11
 http://112.197.2.11:1935/live/sctv11.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
-http://m22.megafun.vn/live.vs?c=vstv072&q=high&type=tv&token=DhaNDbm-MtJYWn9CnXsm0w&time=1392646073&io=LKQm4UrSeh3uHo07
+rtmp://113.164.15.172:80/medianet/_definst_/htvc_ca_nhac
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V China
 http://main.gslb.ku6.com/broadcast/sub?channel=910
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
@@ -697,8 +697,8 @@ rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=bibi 
 rtmp://$OPT:rtmp-raw=rtmp://117.103.232.3/live playpath=vtc111 live=1 swfUrl=http://www1.vtc.com.vn/player.swf pageUrl=http://www1.vtc.com.vn/live/106/VTC11.html
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
 http://112.197.2.16:1935/live/sctv3.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV3
-http://m16.megafun.vn/live.vs?c=vstv075&q=high&type=tv&token=YT4xosrhfYZmOSanoqCs3Q&time=1392651589&io=LKQm4UrSeh3uHo07
+#EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV 3
+rtmp://113.164.15.172:80/medianet/_definst_/htv3
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\disney junior.png" tvg-name="117",Disney Channel
 http://m16.megafun.vn/live.vs?c=vstv032&q=high&type=tv&token=_ayl5e_yttG3gEf-8sQO2A&time=1392648417&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Cartoon Network.png" tvg-name="118",Cartoon Network
