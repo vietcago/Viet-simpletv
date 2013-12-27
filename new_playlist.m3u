@@ -415,10 +415,8 @@ http://ttv-kv-torrent1.ytv.su/futbolplus.acelive
 878d9ed5dce1e04df5eb0112825b6e49a68f700b
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
 e5459cfb9e81f10f67ef3a611100e6092d573e74
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
-9da8938ef60e053c4b623d647727fd667479507a
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
-f1e4fd86fb01bf7170ae356d9f516ddf928389c2
+68111016c27c65c942710a79c02f547c6671bbdd
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="206",Eurosport
 http://ttv-kv-torrent1.ytv.su/eurosportintl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
@@ -426,59 +424,41 @@ http://ttv-kv-torrent1.ytv.su/eurosportintl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
 http://ttv-msk-torrent1.ytv.su/nashfutbol.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Tennis.png" tvg-name="236",NTV+ Tennis
-e8fad923438b25fbc369027d87874df1af14592d
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Motors.png" tvg-name="234",Motors TV
-0266ba1d8eb15a5979fc965f0fad5ef5009e876c
+6a55417a60ee6ba7dbc1d98fe2986508b3938ba7
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Basketball.png" tvg-name="235",NTV+ Basketball
-b37a46c343743abdcfa9537c495e4b8bc1530a97
+89a2620c900b18d4aaf9dbf80a654e6cba98c6d3
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Telekanal Futbol.png" tvg-name="190",Telekanal Futbol
 http://ttv-msk-torrent1.ytv.su/futbolrossiia.acelive
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 HD.png" tvg-name="191",Sport 1 HD
-36b3616837dbaebf080d48d6dc74a756b05e8069
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Plus
-4122c7fbb0f93c05022f0127a5c74bbfdd6e55c6
+312deaed6ac5c3f5157d31cc0bdac41aa1cc670b
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2 HD
 2af0657ffe3f5cfa2a6adeaad1b9b8f2f26e133a
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport.png" tvg-name="191",NTV+ Sport
-f1801edac34ca40e21695e926ec18c762c69a73f
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2 HD
-7d0cb5d397cb2efe9be3d099813cb8f9d5717590
+8dc3a5e64228628e2fc357c3b3bed3bfc3df5f69
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Online.png" tvg-name="194",NTV+ Sport Online
-663008291eabf948d041ebbf072edb050a3a080c
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport.png" tvg-name="194",Sport
-49eb4ac7748ea091e3c18605712eae0cbf7ad2b7
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1 UA.png" tvg-name="197",Sport 1 UA
-98aae9d624755b0962f1d41b157e3ba11c24eabb
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 2 UA.png" tvg-name="198",Sport 2 UA
-040194385b2752c0c38c451a484f6bdb5fd3aa59
+bcfaf0fda126b35655394e06fc7158f77e3d5384
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Union.png" tvg-name="194",NTV+ Sport Union
-1674b58aafb268c0962bba3a2e5152a03632d54e
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\HD Sport.png" tvg-name="194",HD Sport
-d225be05ad5f84d3a8a21ec318641e1afffe34f1
+aac63417259b0e81bb8e311eff850bbc801e1029
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol HD.png" tvg-name="199",NTV+ Futbol HD
 f99a442b5107f102018e2261dcc763d615425ee3
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Eurosport HD.png" tvg-name="107",Eurosport HD
-647e46e32e40e25ee95666b050ca54ee43ab35f2
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 60337e4ef41513f4aa0b0fc83d927d5b6c079d2f
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
-1113f1e32648b6d316cf3eaaa685414d1e6fa123
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
 fe9e1a075a083dd3ea4451116937a7a3a51dff0d
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-5553a17ec0b4f5e2aa5d312404965ad786b85294
+cfbc0eead2cbb90c419576199defa511b0a73efe
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-fbada1959049cd1051c0281044f6ea1dd4fc2bb2
+39c377e4a764fab73fc3b99e7e25b3965846ccc2
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
 http://allfon.tv/tv-torrent/Viasat_Sport_Baltic.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SkySports.png" tvg-name="145",Sky Sports F1
 a55f96dd386b7722380802b6afffc97ff98903ac
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 1
-4736b81ba75ade8c04ca4212848f3c7ee0834c85
+0a6329542da7d11695c8b09fb698fa0173d96606
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 2
-f1e8b36841bbdc823660ca0fedfe99334308f500
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Premier Sports.png" tvg-name="89",Premier Sports
-18f6aab36a2a0309176740929e5673139de99868
+933d93868434a39bb8ef19cae66a414cb4cf9415
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
+81e2ac84e14b41f76f3d69355dda29676f9b59df
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=phimviet swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
@@ -554,21 +534,23 @@ rtmp://115.146.123.95/liveedge/lifetv3.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Funny.png" tvg-name="242",Yeah1 Funny
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=yeah1_funny swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Playboy
-91cd87699b40463e0879664bb0909e14a4853c11
+7b555696bb70b33da827e22085d7ef276b63c2b1
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Private Spice
-63164018b7007346e481fd6cea5f2ac91de8e202
+3cdc80b2676bcf9e39403a166460c5c069fe15b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Platinum
-b6048aebb628dbc7d60d4bc4fe2e9568f6344f51
+199e30c74870135db136a720129708133ece04ec
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Rusnight
-db09254c3b593d61ad0c5f45244ceb40263f622b
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Night Club
-0fd88781e9d403822af20de498ff04cd57ba3932
+3cc407c79190d46ebe01c16e5ec012c1664113fb
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXL
-a39a24ffd79dc3ab7847efa6681538dcd71116ad
+961dda61c12b464b82e805914b1931a76e185fc2
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Daring TV
 1e11a8bc47dec4f0724ed8fc36fdfeebee27fa96
 #EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",SCT
-7b1739843012da95112fc77b3363e959003f6e13
+dcfd631797de4be68b126a000e1299cb5beaebf4
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png",French Lover TV
+06a33472fda9c2c93a426a24bbadc744efcc8e6d
+#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png",Dorcel TV
+cf8f7513e46635504c08eee3d920729fa9d271ed
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global film 1
 rtmp://unirtmp.tulix.tv/globaltv6/myStream.sdp
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Film 2
@@ -611,16 +593,14 @@ rtmp://europaplus.cdnvideo.ru/europaplus-live/eptv_main.sdp
 rtmp://123.30.134.108/live/nctlive
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Music.png" tvg-name="241",Yeah1 Music
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=yeah1_music swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
-#EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MCM TOP.png" tvg-name="111",MCM Top
-bc0aa18c7f35bd18be25950528e74c2d97b35965
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Rocks.png" tvg-name="111",MTV Rocks
-23892700d4219ed60ddae583208b8ab95f6f82dc
+86362befa64e405e4542b791735f28fe57c13873
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Dance.png" tvg-name="111",MTV Dance
-f44f939253af2f6587815b01889d6a06d9e34b8e
+605275a7a204271df8b5f6e661e36eb9e7ec2652
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Hits.png" tvg-name="111",MTV Hits
-a311ece379b37152c1dc7a986b73b25b06fb86f6
+5ad9313da88624547d6b75009d0b6979c8007708
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Europa Plus TV.png" tvg-name="114",Europa Plus TV
-39cdbcc5b5e22c19d11386ed500926fc47e32f66
+7d7258d8802c845cae61248992421b0a92c06574
 #EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\vpop.png",V-Pop
 rtmp://206.217.221.127/liveStream/vpoptv_1
 #EXTINF:-1 $ExtFilter="News" group-title="MyTV" tvg-logo="..\Channel\logo\Asia news.png" tvg-name="228",Asia News
@@ -686,11 +666,11 @@ rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=yeah1
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="220",LifeTV Model
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream2 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
-18485567e6417d27a5bbc86348193a67ec9bd53a
+be1841fedc76915387969b83899aa69b614c7c96
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
-fb8dbb944cdced6fd694c0e3171e47176b41a252
+f447cdf311816255e0ef909e3d2ecbbe855b4d17
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
-419f908db68bfcf81d1e452a63744d76d2e4c400
+bcc3c746560df8f317e99531c3d27f0845b4d0f5
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab8.png" tvg-name="21",VTVcab8
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=bibi swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC" tvg-logo="..\Channel\logo\VTC11.png" tvg-name="40",VTC11
@@ -709,14 +689,10 @@ http://123.29.74.83/live.vs?c=vstv075&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://m16.megafun.vn/live.vs?c=vstv032&q=high&type=tv&token=_ayl5e_yttG3gEf-8sQO2A&time=1392648417&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Cartoon Network.png" tvg-name="118",Cartoon Network
 http://m20.megafun.vn/live.vs?c=vstv031&q=high&type=tv&token=KyOlsDQRJ32dKGF78oyU5A&time=1392647266&io=LKQm4UrSeh3uHo07
-#EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Jim Jam.png" tvg-name="121",JimJam
-832551bac953eab364ad68782d42b1fd8a391871
-#EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Nick Jr..png" tvg-name="121",Nick Jr.
-51d9cac271cc94a57e240a1d3b4661853ae3b6e7
 #EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Cartoon Network.png" tvg-name="118",Cartoon Network
-bb956860589bdc7b6f959e791004f7cf8a824998
+a17d4f33a608197df88c3b927539b0e76bf63d41
 #EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
-29671d1330a5e61ca7ab113561b741b2357ea2f8
+http://ttv-msk-torrent1.ytv.su/disney.acelive
 #EXTINF:-1 $ExtFilter="Kids" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Kids
 rtmp://unirtmp.tulix.tv/globaltv7/myStream.sdp
 #EXTINF:-1 $ExtFilter="Document" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv12.png" tvg-name="56",SCTV12
@@ -743,15 +719,15 @@ http://m20.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=aH-ndZprU6WLCS1yfV9
 rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet/_definst_/ playpath=ngc swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 http://m20.megafun.vn/live.vs?c=vstv078&q=high&type=tv&token=IsYVD2C6R3Sm2mvGS016dQ&time=1392643778&io=LKQm4UrSeh3uHo07
+#EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
+http://ttv-msk-torrent1.ytv.su/animalplanet.acelive
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World
-986d1991885a934a59cdac526f53d5bed7fa911d
+http://ttv-msk-torrent1.ytv.su/discoveryworld.acelive
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
-e7bb6147f79606eab4889a59527959ad132aa33d
+http://ttv-msk-torrent1.ytv.su/discovery.acelive
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Nat Geo.png" tvg-name="125",Nat Geo
-ca35b59d4b82185da131ac438f8b37602f365ad9
+ea071a7600863cff7fcc2852a809905b99e288bf
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Travel Channel.png" tvg-name="73",Travel Channel
-d6fc80352d3283796c0760e5c69a56bec19241d8
+http://ttv-msk-torrent1.ytv.su/travelchannel.acelive
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Nat Geo WILD.png" tvg-name="125",Nat Geo Wild
-4ef8e0355fbe096e8719e872b3d73837dc96846d
-#EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\history channel.png" tvg-name="233",History Channel
-925513c91bafaa3fd3247d150c8aa20bf6bc8ac7
+http://ttv-kv-torrent1.ytv.su/natgeowild.acelive
