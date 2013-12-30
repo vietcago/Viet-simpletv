@@ -336,7 +336,7 @@ rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=bongd
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=thethaotv-high swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
-rtmp://$OPT:rtmp-raw=rtmp://117.103.225.3/live//vtc31 live=1 swfUrl=http://www1.vtc.com.vn/player_6_10_2011.swf pageURL=http://www1.vtc.com.vn/live/2/VTC3.html
+rtmp://m22.megafun.vn/hctv/vstv004?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
 http://112.197.2.11:1935/glive/sctv15.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
