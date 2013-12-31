@@ -359,14 +359,6 @@ http://123.29.74.83/live.vs?c=vstv004&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=foxsports swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
-rtmp://$OPT:rtmp-raw=rtmpe://77.81.98.164/live playpath=sky101 swfUrl=http://www.wowcast.tv/player/player.swf live=1 pageUrl=http://www.wowcast.tv/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmpe://77.81.98.174/live playpath=sky2022 live=1 swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmpe://93.120.27.94/live playpath=sky303 live=1 swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://cc1.cdn.64ma.com:8000/live/flv/channel13
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV Russia.png" tvg-name="100",CCTV Soccer
@@ -389,8 +381,6 @@ rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=vtv3_
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 http://cc1.cdn.64ma.com:8000/live/flv/channel57
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\sport1 HD de.png" tvg-name="107",SportTV1 HD
-rtmp://$OPT:rtmp-raw=rtmpe://89.248.162.212:443/share playpath=live1-rbi6c live=1 swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c&autoplay=1&wmode=opaque
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=thethaotv_hd-high swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
