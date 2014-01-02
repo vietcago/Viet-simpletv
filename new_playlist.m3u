@@ -557,8 +557,6 @@ http://123.29.74.83/live.vs?c=vstv054&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.83/live.vs?c=vstv040&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
 httprtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=mtv swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
-#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Europa Plus TV.png" tvg-name="114",Europa Plus
-rtmp://europaplus.cdnvideo.ru/europaplus-live/eptv_main.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
 http://123.29.74.83/live.vs?c=vstv043&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="150",NCT
@@ -629,14 +627,6 @@ http://123.29.74.83/live.vs?c=vstv041&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://m22.megafun.vn/live.vs?c=vstv041&q=high&type=tv&token=dzyaaRJZrUWIp8bQMsMMmw&time=1392738310&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\World Fashion Channel.png" tvg-name="116",World Fashion
 rtmp://83.229.210.89/WFC_EU/BTVwfceu0
-#EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\fashion tv.png" tvg-name="115",FTV Bikini
-rtsp://46.249.213.93/broadcast/ftvbikini-tablet.3gp
-#EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\fashion tv.png" tvg-name="115",FTV Hot
-rtsp://46.249.213.93/broadcast/ftvhot-tablet.3gp
-#EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Victoria secret.png" tvg-name="115",Victoria’s Secret Angels
-rtsp://46.249.213.93/broadcast/victoriassecretangels-tablet.3gp
-#EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Fashion&beauty.png" tvg-name="115",Fashion and Beauty
-rtsp://46.249.213.87/broadcast/fashionandbeautygerman-tablet.3gp
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sport Time.png" tvg-name="232",Sport Time
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
