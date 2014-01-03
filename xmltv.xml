@@ -100,7 +100,7 @@
 <display-name lang="vi">VTVcab4</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="17">
-<title lang="vi">M4ME - Kênh chuyên biệt về ca nhạc trẻ</title>
+<title lang="vi">Kênh 17 - Kênh giải trí tổng hợp đặc sắc</title>
 </programme>
 <channel id="18">
 <display-name lang="vi">VTVcab5</display-name>
@@ -112,7 +112,7 @@
 <display-name lang="vi">VTVcab6</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="19">
-<title lang="vi">Kênh Khoa học - Giáo dục - Giải trí</title>
+<title lang="vi">Hay TV - Kênh Khoa học - Giáo dục - Giải trí</title>
 </programme>
 <channel id="20">
 <display-name lang="vi">VTVcab7</display-name>
