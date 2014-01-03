@@ -556,7 +556,7 @@ http://123.29.74.83/live.vs?c=vstv054&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
 http://123.29.74.83/live.vs?c=vstv040&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
-httprtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=mtv swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
+rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=mtv swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
 http://123.29.74.83/live.vs?c=vstv043&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="150",NCT
