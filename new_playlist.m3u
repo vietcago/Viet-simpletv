@@ -699,3 +699,23 @@ ea071a7600863cff7fcc2852a809905b99e288bf
 http://ttv-msk-torrent1.ytv.su/travelchannel.acelive
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Nat Geo WILD.png" tvg-name="125",Nat Geo Wild
 http://ttv-kv-torrent1.ytv.su/natgeowild.acelive
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT HN
+rtmp://123.30.50.59/live//vovgt
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV1
+rtmp://123.30.50.59/live/vov1
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV2
+rtmp://123.30.50.59/live/vov2
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV3
+rtmp://123.30.50.59/live/vov3
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",Joy FM
+rtmp://202.134.19.66/live/RadioOnline
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT TP.HCM
+rtmp://123.30.50.59/live/vovgtsg
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",NHK Vietnam
+mms://wm.nhk.or.jp/rj/on_demand/wma/vietnamese.wma
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",AM 610 KHz
+mms://221.132.37.15/am
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",VOH
+mms://221.132.37.15/fm
+#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",RFI
+http://mp3.live.tv-radio.com/rfimultlingue4/all/rfimultlingue4.mp3
