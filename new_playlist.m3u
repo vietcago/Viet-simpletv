@@ -509,6 +509,24 @@ rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=yeah1
 rtmp://unirtmp.tulix.tv/globaltv6/myStream.sdp
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Film 2
 rtmp://unirtmp.tulix.tv/globaltv8/myStream.sdp
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXL
+961dda61c12b464b82e805914b1931a76e185fc2
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Platinum
+199e30c74870135db136a720129708133ece04ec
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Playboy
+7b555696bb70b33da827e22085d7ef276b63c2b1
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Private Spice
+3cdc80b2676bcf9e39403a166460c5c069fe15b2
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Rusnight
+3cc407c79190d46ebe01c16e5ec012c1664113fb
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",SCT
+dcfd631797de4be68b126a000e1299cb5beaebf4
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",French Lover TV
+06a33472fda9c2c93a426a24bbadc744efcc8e6d
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Dorcel TV
+cf8f7513e46635504c08eee3d920729fa9d271ed
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Daring TV
+1e11a8bc47dec4f0724ed8fc36fdfeebee27fa96
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=htvc_thuan_viet_hd swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
@@ -517,24 +535,6 @@ rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=hbo_h
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=starmovies_hd-high swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=starworld_hd-high swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Playboy
-7b555696bb70b33da827e22085d7ef276b63c2b1
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Private Spice
-3cdc80b2676bcf9e39403a166460c5c069fe15b2
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Platinum
-199e30c74870135db136a720129708133ece04ec
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Rusnight
-3cc407c79190d46ebe01c16e5ec012c1664113fb
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXL
-961dda61c12b464b82e805914b1931a76e185fc2
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Daring TV
-1e11a8bc47dec4f0724ed8fc36fdfeebee27fa96
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",SCT
-dcfd631797de4be68b126a000e1299cb5beaebf4
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",French Lover TV
-06a33472fda9c2c93a426a24bbadc744efcc8e6d
-#EXTINF:-1 $ExtFilter="Movies" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Dorcel TV
-cf8f7513e46635504c08eee3d920729fa9d271ed
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=kenh17 swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
@@ -633,12 +633,12 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=yeah1_fashion swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="220",LifeTV Model
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream2 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
+#EXTINF:-1 $ExtFilter="Fashion" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
+bcc3c746560df8f317e99531c3d27f0845b4d0f5
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
 be1841fedc76915387969b83899aa69b614c7c96
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 f447cdf311816255e0ef909e3d2ecbbe855b4d17
-#EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
-bcc3c746560df8f317e99531c3d27f0845b4d0f5
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab8.png" tvg-name="21",VTVcab8
 rtmp://$OPT:rtmp-raw=rtmp://113.164.15.172:80/medianet/_definst_/ playpath=bibi swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC" tvg-logo="..\Channel\logo\VTC11.png" tvg-name="40",VTC11
