@@ -52,11 +52,11 @@ http://112.197.2.11:1935/live/sctv10.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv13.png" tvg-name="57",SCTV13
 http://112.197.2.11:1935/live/sctv13.stream/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTV1.png" tvg-name="63",HTV 1
-rtmp://$OPT:rtmp-raw=rtmpe://123.29.69.69/liverepeater playpath=HTV1_HVGA_H264.sdp live=1 swfUrl=http://hktivi.net/player2.swf
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htv1.360p.stream
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
 rtmp://m22.megafun.vn/hctv/vstv001?token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV4.png" tvg-name="66",HTV 4
-http://123.29.74.83/live.vs?c=vstv089&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htv4.360p.stream
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV7.png" tvg-name="67",HTV 7
 rtmp://m22.megafun.vn/hctv/vstv015?token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv9.png" tvg-name="68",HTV 9
@@ -251,6 +251,16 @@ rtmp://m35.megafun.vn/hctv/vstv021
 rtmp://m22.megafun.vn/hctv/vstv022
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\VinhPhucTV.png" tvg-name="181",VinhPhucTV
 rtmp://117.6.162.63/live//thvp
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-name="207",CaMauTV
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/camau.360p.stream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\NinhThuanTV.png" tvg-name="210",NamDinhTV
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/namdinh.360p.stream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TraVinhTV.png" tvg-name="211",TraVinhTV
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/travinh.360p.stream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-name="234",BacGiangTV
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/bacgiang.360p.stream
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-name="204",DacLacTV
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/daclac.360p.stream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
@@ -620,7 +630,7 @@ rtmp://$OPT:rtmp-raw=rtmp://117.103.232.3/live playpath=vtc111 live=1 swfUrl=htt
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
 http://112.197.2.16:1935/live/sctv3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV 3
-http://123.29.74.83/live.vs?c=vstv075&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htv3.360p.stream
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\Logo\Cartoon Network.png" tvg-name="118",Cartoon Network
 http://123.29.74.83/live.vs?c=vstv031&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
