@@ -1219,10 +1219,10 @@
 <title lang="vi">Kênh phim người lớn cấm trẻ dưới 18 tuổi</title>
 </programme>
 <channel id="204">
-<display-name lang="vi">Trực tiếp bóng đá</display-name>
+<display-name lang="vi">DacLacTV</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="204">
-<title lang="vi">Kênh phát trực tiếp các trận đấu bóng đá chỉ lên sóng khi có trận đấu</title>
+<title lang="vi">Kênh tổng hợp - Đài PTTH Đắc Lắc</title>
 </programme>
 <channel id="205">
 <display-name lang="vi">DRT</display-name>
@@ -1237,10 +1237,10 @@
 <title lang="vi">Kênh thể thao Anh Quốc</title>
 </programme>
 <channel id="207">
-<display-name lang="vi">LigTV</display-name>
+<display-name lang="vi">CaMauTV</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="207">
-<title lang="vi">Kênh thể thao Thổ Nhĩ Kỳ tường thuật bóng đá châu Âu</title>
+<title lang="vi">Kênh tổng hợp - Đài PTTH Cà Mau</title>
 </programme>
 <channel id="208">
 <display-name lang="vi">Golf HD</display-name>
@@ -1255,16 +1255,16 @@
 <title lang="vi">Kênh thông tin kinh tế - tài chính - chứng khoán và đời sống</title>
 </programme>
 <channel id="210">
-<display-name lang="vi">Fox Sports 3</display-name>
+<display-name lang="vi">NamDinhTV</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="210">
-<title lang="vi">Kênh thể thao Hà Lan</title>
+<title lang="vi">Kênh tổng hợp - Đài PTTH Nam Định</title>
 </programme>
 <channel id="211">
-<display-name lang="vi">Fox Sports 4</display-name>
+<display-name lang="vi">TraVinhTV</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="211">
-<title lang="vi">Kênh thể thao Hà Lan</title>
+<title lang="vi">Kênh tổng hợp - Đài PTTH Trà Vinh</title>
 </programme>
 <channel id="220">
 <display-name lang="vi">LifeTV Model</display-name>
@@ -1351,10 +1351,10 @@
 <title lang="vi">Kênh khám phá lịch sử</title>
 </programme>
 <channel id="234">
-<display-name lang="vi">Motors TV</display-name>
+<display-name lang="vi">BacGiangTV</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="234">
-<title lang="vi">Kênh đua xe thể thao quốc tế</title>
+<title lang="vi">Kênh tổng hợp - Đài PTTH Bắc Giang</title>
 </programme>
 <channel id="235">
 <display-name lang="vi">NTV+ Basketball</display-name>
