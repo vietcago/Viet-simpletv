@@ -257,7 +257,7 @@ rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/camau.360p.stream
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/namdinh.360p.stream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TraVinhTV.png" tvg-name="211",TraVinhTV
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/travinh.360p.stream
-#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-name="234",BacGiangTV
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacLieuTV.png" tvg-name="234",BacGiangTV
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/bacgiang.360p.stream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-name="204",DacLacTV
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/daclac.360p.stream
@@ -289,34 +289,8 @@ rtmp://stream.s15.cpanelservices.com/lstvlive/livestream
 rtmp://$OPT:rtmp-raw=rtmp://74.63.219.99:/vbsvp/ playpath=myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php?id=6&gID=0&page=1 live=1
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\settv.png",Set TV
 rtmp://206.217.221.127/set//set_1
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",But Go
-rtmp://lm01.everyon.tv/ptv//phd772
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Midnight
-rtmp://lm02.everyon.tv/ptv2//phd766
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playy 19+
-rtmp://lm03.everyon.tv/ptv3//phd769
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",VIKI Enjoy Pre
-rtmp://lm02.everyon.tv/ptv2//phd765
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",The 0
-rtmp://lm03.everyon.tv/ptv3//phd771
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
-rtmp://lm02.everyon.tv/ptv2//phd63
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Asia RED ON.png" tvg-name="203",Red On HD
-rtmp://lm02.everyon.tv/ptv2//phd60
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hotgirl
-rtmp://lm02.everyon.tv/ptv2//phd59
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Girls TV.png" tvg-name="203",Girls 4U TV
-rtmp://lm01.everyon.tv/ptv//phd501
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png" tvg-name="203",Live Ting TV
-rtsp://lm02.everyon.tv/ptv2/phd64
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Pink TV.png" tvg-name="203",Pink TV
-rtmp://lm02.everyon.tv/ptv2//phd62
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy TV
-rtmp://lm03.everyon.tv/ptv3//phd499
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\SPICE TV.png" tvg-name="203",Spice TV
-rtmp://lm03.everyon.tv/ptv3//phd497
-#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\logo\Sakura TV.png" tvg-name="203",Sakura TV
-rtmp://lm03.everyon.tv/ptv3//pld61
+#EXTINF:-1 group-title="HẢI NGOẠI",Hài 24/7
+rtmp://50.7.104.133/liveStream/hai_1
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2.png" tvg-name="64",HTV2 HD
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htv2.720p.stream
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7.png" tvg-name="67",HTV7 HD
@@ -325,10 +299,12 @@ rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htv7.720p.stream
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htv9.720p.stream
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+ HD
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htvc_plus.720p.stream
+#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\sctv1.png" tvg-name="45",SCTV Hài HD
+http://live.accessasia.tv:1935/vnptg_channels/mp4:sctvhaihd.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://112.197.2.11:1935/live/vtv3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/thethaosd.m3u8?key=18644fe2004995bca26977932d84244c
+rtmp://115.146.126.204/live//livetv2
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 rtmp://m22.megafun.vn/hctv/vstv004?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
@@ -422,9 +398,11 @@ cfbc0eead2cbb90c419576199defa511b0a73efe
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
 39c377e4a764fab73fc3b99e7e25b3965846ccc2
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
-8159f892ace23450667c1e5f743f96c7358fe3b8
+41aa332d2d67954b899cf2c5ea23bbb07eb46b3c
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SkySports.png" tvg-name="145",Sky Sports F1
 a55f96dd386b7722380802b6afffc97ff98903ac
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Viasat Sport.png" tvg-name="192",Viasat TV3 Sport 2
+22c44d376d75823bb85ce18781ec16bf0b5dfd25
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 1
 0a6329542da7d11695c8b09fb698fa0173d96606
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 2
@@ -432,11 +410,7 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
 81e2ac84e14b41f76f3d69355dda29676f9b59df
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv2.m3u8?key=18644fe2004995bca26977932d84244c
-#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv5.m3u8?key=18644fe2004995bca26977932d84244c
-#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab7.png" tvg-name="20",VTVcab7
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv7.m3u8?key=18644fe2004995bca26977932d84244c
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
 http://m22.megafun.vn/live.vs?c=vstv051&q=high&type=tv&token=hDUzQp95A43cjizl2jcq1A&time=1392819431&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
@@ -501,6 +475,42 @@ rtmp://115.146.123.95/liveedge/lifetv3.stream
 rtmp://unirtmp.tulix.tv/globaltv6/myStream.sdp
 #EXTINF:-1 $ExtFilter="Movies" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Film 2
 rtmp://unirtmp.tulix.tv/globaltv8/myStream.sdp
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXX HD
+a1ffc0b7b9dda601071cce798c0516529770704b
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Night Club
+ee73162ab97653643b3ddea2badf74f4ca3df849
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",TeleItalia
+7657532cf3cb8b634025162b9fcce1a6f2c971d5
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Egoist TV.png" tvg-name="203",Egoist TV
+a63f9438f50d7379c2303b9de0d4f0170e6c6a29
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",But Go
+rtmp://lm01.everyon.tv/ptv//phd772
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Midnight
+rtmp://lm02.everyon.tv/ptv2//phd766
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playy 19+
+rtmp://lm03.everyon.tv/ptv3//phd769
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",VIKI Enjoy Pre
+rtmp://lm02.everyon.tv/ptv2//phd765
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",The 0
+rtmp://lm03.everyon.tv/ptv3//phd771
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
+rtmp://lm02.everyon.tv/ptv2//phd63
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Asia RED ON.png" tvg-name="203",Red On HD
+rtmp://lm02.everyon.tv/ptv2//phd60
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hotgirl
+rtmp://lm02.everyon.tv/ptv2//phd59
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Girls TV.png" tvg-name="203",Girls 4U TV
+rtmp://lm01.everyon.tv/ptv//phd501
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png" tvg-name="203",Live Ting TV
+rtsp://lm02.everyon.tv/ptv2/phd64
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Pink TV.png" tvg-name="203",Pink TV
+rtmp://lm02.everyon.tv/ptv2//phd62
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy TV
+rtmp://lm03.everyon.tv/ptv3//phd499
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SPICE TV.png" tvg-name="203",Spice TV
+rtmp://lm03.everyon.tv/ptv3//phd497
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Sakura TV.png" tvg-name="203",Sakura TV
+rtmp://lm03.everyon.tv/ptv3//pld61
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\XXL.png" tvg-name="203",XXL
 961dda61c12b464b82e805914b1931a76e185fc2
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\RedLight Platinum.png" tvg-name="203",Platinum
@@ -519,12 +529,14 @@ dcfd631797de4be68b126a000e1299cb5beaebf4
 cf8f7513e46635504c08eee3d920729fa9d271ed
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Daring TV.png" tvg-name="203",Daring TV
 1e11a8bc47dec4f0724ed8fc36fdfeebee27fa96
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
+bcc3c746560df8f317e99531c3d27f0845b4d0f5
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/thuan_viet.720p.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim HD
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htvc_movies.720p.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/m4me.m3u8?key=18644fe2004995bca26977932d84244c
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv4.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
 rtmp://42.117.5.161/channels//yeah1family.480p?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
@@ -549,8 +561,10 @@ rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/mtv.360p.stream
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/channelv.360p.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
-#EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\vpop.png",V-Pop
-rtmp://206.217.221.127/liveStream/vpoptv_1
+#EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vpop.png" tvg-name="70",V-Pop
+rtmp://50.7.104.133/liveStream/vpoptv_1
+#EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI",V-Music
+rtmp://50.7.104.133/liveStream/mtv_1
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\yousingkaraoke.png" tvg-name="137",Yousing Karaoke HD
 rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel.png" tvg-name="140",M channel HD
@@ -605,8 +619,6 @@ rtmp://ca-1.net.fivecool.org/nhkw/gwm
 http://ttv-msk-torrent1.ytv.su/bbcworldnews.acelive
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CNN International.png" tvg-name="133",CNN
 http://ttv-msk-torrent1.ytv.su/cnninternational.acelive
-#EXTINF:-1 $ExtFilter="Fashion" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab12.png" tvg-name="25",VTVcab12
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv12.m3u8?key=18644fe2004995bca26977932d84244c
 #EXTINF:-1 $ExtFilter="Fashion" group-title="MyTV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://123.29.74.83/live.vs?c=vstv041&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Fashion TV.png" tvg-name="115",Fashion TV
@@ -617,8 +629,6 @@ http://110.164.192.112:1935/LiveStream/lotusmacau_live1.stream/playlist.m3u8
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="220",LifeTV Model
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream2 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
-#EXTINF:-1 $ExtFilter="Fashion" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
-bcc3c746560df8f317e99531c3d27f0845b4d0f5
 #EXTINF:-1 $ExtFilter="Fashion" group-title="HDTV" tvg-logo="..\Channel\Logo\A'lure channel.png" tvg-name="138",A'Lure Sexy Fashion HD
 http://110.164.192.112:1935/LiveStream/alure_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
