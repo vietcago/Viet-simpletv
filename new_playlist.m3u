@@ -504,9 +504,9 @@ http://112.197.2.11:1935/live/sctv16.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv17.png" tvg-name="61",SCTV17
 http://112.197.2.11:1935/live/sctv17.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim
-http://m22.megafun.vn/live.vs?c=vstv071&q=high&type=tv&token=Zo7w1QmkZpLG9d3hnS2dvw&time=1392649879&io=LKQm4UrSeh3uHo07
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htvc_phim.360p.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
-http://m16.megafun.vn/live.vs?c=vstv048&q=high&type=tv&token=EcOj1ConkCNwgpB0GHsXTA&time=1392739845&io=LKQm4UrSeh3uHo07
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/thuan_viet.360p.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\AXN.png" tvg-name="81",AXN
 http://123.29.74.83/live.vs?c=vstv077&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\cinemax.png" tvg-name="84",Cinemax
