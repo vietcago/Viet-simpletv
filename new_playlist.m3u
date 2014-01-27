@@ -560,7 +560,7 @@ rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htvc_movies.720p.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Night Club
 ee73162ab97653643b3ddea2badf74f4ca3df849
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",TeleItalia
-7657532cf3cb8b634025162b9fcce1a6f2c971d5
+96ef4fba2fc4a356983d097c8c40e8d848aa330d
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Egoist TV.png" tvg-name="203",Egoist TV
 a63f9438f50d7379c2303b9de0d4f0170e6c6a29
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",But Go
