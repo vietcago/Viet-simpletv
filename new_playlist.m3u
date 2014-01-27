@@ -381,6 +381,28 @@ rtmp://$OPT:rtmp-raw=rtmp://stream.ahamy.tv/playlist?msisdn=2192571238&pitem=PIT
 rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\REAL MADID.png" tvg-name="110",Real Madrid TV
 http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
+rtmp://$OPT:rtmp-raw=rtmp://5.39.71.63/live playpath=ch13?token=VsZnC28VZEHD4gfA-ZjIAQ&e=1390803005 swfUrl=http://www.ziuriu.tv/res/js/flow/flowplayer.commercial-3.2.15.swf live=1 pageUrl=http://www.ziuriu.tv/demo
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 1
+http://93.120.27.90:1935/live/mobi101g0/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 11
+http://93.120.27.90:1935/live/mobi90g/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 12
+http://93.120.27.90:1935/live/mobi100g/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 2
+http://93.120.27.90:1935/live/mobi25/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 3
+http://93.120.27.90:1935/live/mobi3g0/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 4
+http://93.120.27.90:1935/live/mobi4g/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 5
+http://93.120.27.90:1935/live/mobi50g/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 6
+http://93.120.27.90:1935/live/mobi6g5/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 7
+http://93.120.27.90:1935/live/mobi70g/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 8
+http://93.120.27.90:1935/live/mobi80g/stv39.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vtv3hd.m3u8?key=cdd0443541252ae10a813057261cdb2d
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
