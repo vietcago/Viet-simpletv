@@ -311,6 +311,20 @@ rtmp://$OPT:rtmp-raw=rtmp://74.63.219.99:/vbsvp/ playpath=myStream.sdp swfUrl=ht
 rtmp://206.217.221.127/set//set_1
 #EXTINF:-1 group-title="HẢI NGOẠI",Hài 24/7
 rtmp://50.7.104.133/liveStream/hai_1
+#EXTINF:-1 group-title="HẢI NGOẠI",DamTV
+http://50.7.104.133:1935/liveStream/DAMTV_1/playlist.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI",VietTop TV
+http://50.7.104.133:1935/air_Channels/vietop_1/playlist.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI",ViệtTV 24
+rtmp://50.7.104.133/liveStream/viettv24_1
+#EXTINF:-1 group-title="HẢI NGOẠI",Sân khấu cải lương
+rtmp://50.7.104.133/liveStream/cailuong_1
+#EXTINF:-1 group-title="HẢI NGOẠI",Life World
+rtmp://50.7.104.133/liveStream/lifeworld_1
+#EXTINF:-1 group-title="HẢI NGOẠI",Tuổi thần tiên
+rtmp://50.7.104.133/liveStream/ttt_1
+#EXTINF:-1 group-title="HẢI NGOẠI",Phật từ bi
+rtmp://50.7.104.133/liveStream/ptb_1
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2.png" tvg-name="64",HTV2 HD
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htv2.720p.stream
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7.png" tvg-name="67",HTV7 HD
@@ -375,26 +389,12 @@ rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
 http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
 rtmp://$OPT:rtmp-raw=rtmp://5.39.71.63/live playpath=ch13?token=VsZnC28VZEHD4gfA-ZjIAQ&e=1390803005 swfUrl=http://www.ziuriu.tv/res/js/flow/flowplayer.commercial-3.2.15.swf live=1 pageUrl=http://www.ziuriu.tv/demo
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 1
-http://93.120.27.90:1935/live/mobi101g0/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 11
-http://93.120.27.90:1935/live/mobi90g/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 12
-http://93.120.27.90:1935/live/mobi100g/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 2
-http://93.120.27.90:1935/live/mobi25/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 3
-http://93.120.27.90:1935/live/mobi3g0/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 4
-http://93.120.27.90:1935/live/mobi4g/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 5
-http://93.120.27.90:1935/live/mobi50g/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 6
-http://93.120.27.90:1935/live/mobi6g5/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 7
-http://93.120.27.90:1935/live/mobi70g/stv39.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",Bein Sports 8
-http://93.120.27.90:1935/live/mobi80g/stv39.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Arena Sport 2.png" tvg-name="193",Arena Sport 2
+http://5.149.64.9:10000
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Arena Sport 3.png" tvg-name="193",Arena Sport 3
+http://5.149.64.9:10001
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Arena Sport 4.png" tvg-name="193",Arena Sport 4
+http://5.149.64.9:10002
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vtv3hd.m3u8?key=cdd0443541252ae10a813057261cdb2d
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
