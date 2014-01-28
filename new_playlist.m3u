@@ -342,7 +342,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=75
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=78
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=79
+http://123.30.208.35:8080/m3ugen/rtmplive/live/thethaosd?key=6286664f9e48f00708de2036a099043b
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 rtmp://m22.megafun.vn/hctv/vstv004?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
@@ -466,7 +466,7 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
 81e2ac84e14b41f76f3d69355dda29676f9b59df
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
-http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv2.480p/playlist.m3u8
+http://123.30.208.35:8080/m3ugen/rtmplive/live/vctv2?key=6286664f9e48f00708de2036a099043b
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=23
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\sctv17.png" tvg-name="61",SCTV17
