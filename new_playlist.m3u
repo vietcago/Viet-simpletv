@@ -55,16 +55,12 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=62
 rtmp://$OPT:rtmp-raw=rtmp://117.103.225.3/live//vtc11 live=1 swfUrl=http://www1.vtc.com.vn/player_6_10_2011.swf pageURL=http://www1.vtc.com.vn/live/2/VTC3.html
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc2.png" tvg-name="31",VTC2
 rtmp://m22.megafun.vn/hctv/vstv006?token=nothing&time=null
-#EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc8.png" tvg-name="37",VTC8
-http://113.160.49.36/lives/origin01/vtc8sd.isml/vtc8sd-1096k.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC10.png" tvg-name="39",VTC10
 rtmp://$OPT:rtmp-raw=rtmp://117.103.225.4/live/ playpath=vtc101 swfUrl=http://farm.vtc.vn/media/vtcnews/resources/swf/flv/flvplayer.swf live=1 pageUrl=http://farm.vtc.vn/media/vtcnews/
-#EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc12.png" tvg-name="41",VTC12
-http://113.160.49.36/lives/origin01/vtc12sd.isml/vtc12sd-1096k.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC14.png" tvg-name="43",VTC14
 rtmp://117.103.224.31/live//livestream?token=nothing&time=null
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC16.png" tvg-name="44",VTC16
-http://117.103.206.24:1935/live/_definst_/VTC16/smil:VTC16_live.smil/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://117.103.232.3/live playpath=vtc161 live=1 swfUrl=http://www1.vtc.com.vn/player.swf pageUrl=http://www1.vtc.com.vn/live/106/VTC11.html
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv4.png" tvg-name="48",SCTV4
 http://112.197.2.11:1935/live/sctv4.stream/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv5.png" tvg-name="49",SCTV5
@@ -239,14 +235,10 @@ rtmp://222.255.167.159/live/livestream
 http://112.197.2.11:1935/live/la34.stream/playlist.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\CanThoTV.png" tvg-name="159",CanThoTV
 rtmp://118.69.205.223/livepkgr/livestream1
-#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NinhThuanTV.png" tvg-name="160",NinhThuanTV
-http://113.160.49.36/lives/origin02/ninhthuansd.isml/ninhthuansd-1096k.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KienGiangTV.png" tvg-name="161",KienGiangTV
 http://123.29.69.69:1935/liverepeater/KienGiang_HVGA_H264.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiPhongTV.png" tvg-name="162",HaiPhongTV
 rtmp://203.162.238.46/live//livestream
-#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HoaBinhTV.png" tvg-name="163",HoaBinhTV
-http://113.160.49.34/lives/origin02/hbtvsd.isml/hbtvsd-1096k.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThaiNguyenTV.png" tvg-name="166",ThaiNguyenTV
 rtmp://123.30.84.242/live//tntv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HauGiangTV.png" tvg-name="167",HauGiangTV
@@ -302,7 +294,7 @@ rtmp://113.163.216.24/live/livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacLieuTV.png" tvg-name="186",BacLieuTV
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
-http://113.160.49.34/lives/origin01/thanhhoamb.isml/thanhhoamb-364k.m3u8
+http://123.29.74.83/live.vs?c=vstv108&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Australia Network.png" tvg-name="226",Australia Network
 http://m16.megafun.vn/live.vs?c=vstv080&q=high&type=tv&token=0KWSSXaFcRhqLr3HOk4Atw&time=1392739138&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\QPVN.png" tvg-name="146",QPVN
@@ -622,11 +614,13 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=55
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
 rtmp://42.117.5.161/channels//yeah1family.480p?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
-rtmp://live.kenhitv.vn/live//itvw_hhh
+rtmp://m35.megafun.vn/hctv//vstv016
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="46",SCTV2
 http://112.197.2.11:1935/live/sctv2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv11.png" tvg-name="55",SCTV11
 http://112.197.2.11:1935/live/sctv11.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+
+rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htvc_plus.360p.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htvc_music.360p.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\logo\CHANNEL V.png" tvg-name="112",Channel V
@@ -683,8 +677,6 @@ rtmp://fms5.visionip.tv/live/RT_3
 http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC Knowledge
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/bbc.360p.stream
-#EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CNN.png" tvg-name="133",CNN
-http://iptv.ascend-solutions.com/hls/cnn/cnn.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Bloomberg TV.png" tvg-name="134",Bloomberg
 rtmpt://cp116697.live.edgefcs.net:1935/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
@@ -719,8 +711,6 @@ http://123.29.74.83/live.vs?c=vstv041&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/ftv.360p.stream
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Lotus Macau.png" tvg-name="106",Lotus Macau
 http://110.164.192.112:1935/LiveStream/lotusmacau_live1.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sport Time.png" tvg-name="232",Sport Time
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="220",LifeTV Model
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream2 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Fashion" group-title="HDTV" tvg-logo="..\Channel\Logo\A'lure channel.png" tvg-name="138",A'Lure Sexy Fashion HD
@@ -777,8 +767,6 @@ http://123.29.74.83/live.vs?c=vstv069&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.83/live.vs?c=vstv084&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
 http://m20.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=aH-ndZprU6WLCS1yfV9Z9A&time=1392646654&io=LKQm4UrSeh3uHo07
-#EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Nat Geo.png" tvg-name="125",Nat Geo
-rtmp://$OPT:rtmp-raw=rtmp://medianet.cdnviet.com:80/medianet_2014/_definst_/ playpath=ngc swfUrl=http://tv.soft-full.net/images/player.swf live=1 pageUrl=http://tv.soft-full.net/
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/animal_planet.360p.stream
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Animal planet.png" tvg-name="143",Animal Planet HD
