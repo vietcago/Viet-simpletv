@@ -300,7 +300,7 @@ http://m16.megafun.vn/live.vs?c=vstv080&q=high&type=tv&token=0KWSSXaFcRhqLr3HOk4
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\QPVN.png" tvg-name="146",QPVN
 http://123.29.74.83/live.vs?c=vstv091&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\Vietface.png",VietFace
-rtmp://vietfaceRTMP.giniko.com:1935/livepkgr/vietface?adbe-live-event=liveevent&adbe-record-mode=record
+rtmp://50.7.104.133/airChannels/vface_1
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\saigon tv.png",SaiGon TV
 rtmp://$OPT:rtmp-raw=rtmp://74.63.219.99:/sgvp/ playpath=myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php?id=6&gID=0&page=1 live=1
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\little saigon.png",Little Saigon TV
