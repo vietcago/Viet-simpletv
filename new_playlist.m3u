@@ -456,7 +456,7 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 2
 933d93868434a39bb8ef19cae66a414cb4cf9415
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
-81e2ac84e14b41f76f3d69355dda29676f9b59df
+7f1386ddd431fb29d36bb1f94365d88853defc0f
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://123.30.208.35:8080/m3ugen/rtmplive/live/vctv2?key=6286664f9e48f00708de2036a099043b
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
