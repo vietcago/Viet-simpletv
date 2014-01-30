@@ -313,13 +313,13 @@ rtmp://206.217.221.127/set//set_1
 rtmp://50.7.104.133/liveStream/hai_1
 #EXTINF:-1 group-title="HẢI NGOẠI",DamTV
 http://50.7.104.133:1935/liveStream/DAMTV_1/playlist.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI",VietTop TV
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\Logo\Thuan viet.png",VietTop TV
 http://50.7.104.133:1935/air_Channels/vietop_1/playlist.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI",ViệtTV 24
 rtmp://50.7.104.133/liveStream/viettv24_1
 #EXTINF:-1 group-title="HẢI NGOẠI",Sân khấu cải lương
 rtmp://50.7.104.133/liveStream/cailuong_1
-#EXTINF:-1 group-title="HẢI NGOẠI",Life World
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="..\Channel\Logo\FOX Life HD.png",Life World
 rtmp://50.7.104.133/liveStream/lifeworld_1
 #EXTINF:-1 group-title="HẢI NGOẠI",Tuổi thần tiên
 rtmp://50.7.104.133/liveStream/ttt_1
@@ -395,6 +395,14 @@ http://5.149.64.9:10000
 http://5.149.64.9:10001
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Arena Sport 4.png" tvg-name="193",Arena Sport 4
 http://5.149.64.9:10002
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.138/live/1141123111m52dk pageUrl=http://www.9flash.tv/
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
+rtmp://$OPT:rtmp-raw=rtmpe://89.248.170.198:443/liveedge1/sfdasdfa189 pageUrl=http://srvadsense.com/
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.138/live/12341231111hk80r pageUrl=http://www.9flash.tv/
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
+rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/lub/aky1pah pageUrl=http://www.castok.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vtv3hd.m3u8?key=cdd0443541252ae10a813057261cdb2d
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
