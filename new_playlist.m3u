@@ -348,7 +348,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=75
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=78
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://123.30.208.35:8080/m3ugen/rtmplive/live/thethaosd?key=6286664f9e48f00708de2036a099043b
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=79
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 rtmp://m22.megafun.vn/hctv/vstv004?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
