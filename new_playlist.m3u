@@ -537,8 +537,6 @@ rtmp://$OPT:rtmp-raw=rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/cinemax
 rtmp://$OPT:rtmp-raw=rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/star_movies.360p.stream live=1 swfUrl=http://www.htvonline.com.vn/player/HLSDynamicPlugin.swf pageUrl=http://www.htvonline.com.vn
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
 http://m20.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=VEoLtCPawrvIGahbaX-5Tw&time=1392643073&io=LKQm4UrSeh3uHo07
-#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\JJ Channel.png" tvg-name="231",JJ Channel
-rtmp://$OPT:rtmp-raw=rtmpe://livemedia.hayhaytv.vn:1935/hayhaytv_live/mp4:jj.720p?uid= token=na^tu12%28aqw
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Comedy.png" tvg-name="135",Screen Red
 rtmp://$OPT:rtmp-raw=rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/screen_red.360p.stream live=1 swfUrl=http://www.htvonline.com.vn/player/HLSDynamicPlugin.swf pageUrl=http://www.htvonline.com.vn
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
