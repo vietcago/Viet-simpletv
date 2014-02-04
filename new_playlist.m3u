@@ -346,9 +346,9 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=16
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=75
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=78
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=17
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=79
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=15
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 rtmp://m22.megafun.vn/hctv/vstv004?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
@@ -456,7 +456,7 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
 807e582d33dfdbab3572e702089217bf28585879
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
-http://123.30.208.35:8080/m3ugen/rtmplive/live/vctv2?key=6286664f9e48f00708de2036a099043b
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=20
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=23
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\sctv17.png" tvg-name="61",SCTV17
@@ -466,9 +466,9 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=36
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=44
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv5.m3u8?key=cdd0443541252ae10a813057261cdb2d
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=21
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab7.png" tvg-name="20",VTVcab7
-http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vctv7.m3u8?key=cdd0443541252ae10a813057261cdb2d
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=19
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab1.png" tvg-name="14",VTVcab1
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=56
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\cinemax.png" tvg-name="84",Cinemax
