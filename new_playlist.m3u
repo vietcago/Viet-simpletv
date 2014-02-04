@@ -393,28 +393,12 @@ http://5.149.64.9:10000
 http://5.149.64.9:10001
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Arena Sport 4.png" tvg-name="193",Arena Sport 4
 http://5.149.64.9:10002
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport1.png" tvg-name="93",True Sport 1
-rtmp://fmaster.servep2p.com:1935/live/fitsp1.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport2.png" tvg-name="93",True Sport 2
-rtmp://fmaster.servep2p.com:1935/live/totsp2.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport3.png" tvg-name="93",True Sport 3
-rtmp://fmaster.servep2p.com:1935/live/frtsp3.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
-rtmp://fmaster.servep2p.com:1935/live/frtsp4.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport5.png" tvg-name="93",True Sport 5
-rtmp://fmaster.servep2p.com:1935/live/frtsp5.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport6.png" tvg-name="93",True Sport 6
-rtmp://fmaster.servep2p.com:1935/live/eftsp6.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport7.png" tvg-name="93",True Sport 7
-rtmp://fmaster.servep2p.com:1935/live/tutsp7.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://123.30.208.35:8081/Segments/HLS_TS/broadcast/live01/rtsplive/rtmplive/live/vtv3hd.m3u8?key=cdd0443541252ae10a813057261cdb2d
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 http://vtime1.cntv.chinacache.net:8000/live/flv/channel257
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD2
-rtmp://fmaster.servep2p.com:1935/live?/diihd2.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
@@ -424,13 +408,13 @@ http://ttv-kv-torrent1.ytv.su/futbolplus.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 878d9ed5dce1e04df5eb0112825b6e49a68f700b
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-923ad7f29c1825a5040ace669f85209e19f939a2
+43aa23b06fc3bdada1b0bf3f500624fca17fe8fa
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
 68111016c27c65c942710a79c02f547c6671bbdd
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="206",Eurosport
 http://ttv-kv-torrent1.ytv.su/eurosportintl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
-http://allfon.tv/tv-torrent/НТВ-ПЛЮС_Футбол_2.acelive
+6545902391b91059645799b09469bd4b02e58f10
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
 http://ttv-msk-torrent1.ytv.su/nashfutbol.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Tennis.png" tvg-name="236",NTV+ Tennis
@@ -470,7 +454,7 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 2
 933d93868434a39bb8ef19cae66a414cb4cf9415
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
-7f1386ddd431fb29d36bb1f94365d88853defc0f
+807e582d33dfdbab3572e702089217bf28585879
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://123.30.208.35:8080/m3ugen/rtmplive/live/vctv2?key=6286664f9e48f00708de2036a099043b
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
