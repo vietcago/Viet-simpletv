@@ -383,12 +383,14 @@ http://123.29.74.83/live.vs?c=vstv004&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 http://vtime1.cntv.chinacache.net:8000/live/flv/channel257
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD2
+http://ballzeez.pointto.us:1935/live/tsphd2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Sport 1 Select.png" tvg-name="226",Sport 1
 http://88.150.196.74:8080/sport1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
-http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+http://ballzeez.pointto.us:1935/live/starsport.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
-http://123.29.74.83/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+http://ballzeez.pointto.us:1935/live/foxsport.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://vtime1.cntv.chinacache.net:8000/live/flv/channel212
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
@@ -415,6 +417,14 @@ rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=23700 swfUrl=
 http://193.232.151.130/hls-live/livepkgr/_1026_/1026/1026-40.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
 http://193.232.151.130/hls-live/livepkgr/_1024_/1024/1024-40.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="93",GMM Football Max
+http://ballzeez.pointto.us:1935/live/gmm_fbmax.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Supe Sport 2
+http://ballzeez.pointto.us:1935/live/assp2.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 1
+http://ballzeez.pointto.us:1935/live/assp.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 3
+http://ballzeez.pointto.us:1935/live/assp3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
