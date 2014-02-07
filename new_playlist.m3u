@@ -344,9 +344,9 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=16
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=75
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=78
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=17
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=79
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=15
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 rtmp://m22.megafun.vn/hctv/vstv004?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
@@ -435,6 +435,8 @@ http://112.121.151.27:3935/livenine//po06bbb.stream/playlist.m3u8?username=001E3
 http://112.121.151.27:3935/livenine//po07bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png",MUTV
 http://112.121.151.27:3935/livenine//ko68gkzpbbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 1
+http://video.vpop.vn:1935/live/_definst_/11.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
@@ -444,7 +446,7 @@ http://ttv-kv-torrent1.ytv.su/futbolplus.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 878d9ed5dce1e04df5eb0112825b6e49a68f700b
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-923ad7f29c1825a5040ace669f85209e19f939a2
+61eb3af8bbbee37b13b0932668fc4830fc1876a8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
 68111016c27c65c942710a79c02f547c6671bbdd
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="206",Eurosport
@@ -510,9 +512,9 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=56
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\cinemax.png" tvg-name="84",Cinemax
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=74
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=76
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=22
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=77
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=18
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
 http://m22.megafun.vn/live.vs?c=vstv051&q=high&type=tv&token=hDUzQp95A43cjizl2jcq1A&time=1392819431&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
