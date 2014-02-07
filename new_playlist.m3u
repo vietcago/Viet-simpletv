@@ -367,14 +367,20 @@ http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.83/live.vs?c=vstv096&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://123.29.74.83/live.vs?c=vstv004&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 http://vtime1.cntv.chinacache.net:8000/live/flv/channel257
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD2
 http://ballzeez.pointto.us:1935/live/tsphd2.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Sport 1 Select.png" tvg-name="226",Sport 1
-http://88.150.196.74:8080/sport1
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
+http://112.121.151.27:3935/livenine//po08bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+ PC.png" tvg-name="13",K+ PC
+http://112.121.151.27:3935/livenine//po28bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+ PM
+http://112.121.151.27:3935/livenine//po29bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 1
+http://112.121.151.27:3935/livenine//po27bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://ballzeez.pointto.us:1935/live/starsport.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
@@ -406,13 +412,29 @@ http://193.232.151.130/hls-live/livepkgr/_1026_/1026/1026-40.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
 http://193.232.151.130/hls-live/livepkgr/_1024_/1024/1024-40.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="93",GMM Football Max
-http://ballzeez.pointto.us:1935/live/gmm_fbmax.stream/playlist.m3u8
+http://112.121.151.27:3935/livenine//ko05lodrbbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 2
 http://ballzeez.pointto.us:1935/live/assp2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 1
 http://ballzeez.pointto.us:1935/live/assp.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 3
 http://ballzeez.pointto.us:1935/live/assp3.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport1.png" tvg-name="93",True Sport 1
+http://112.121.151.27:3935/livenine//po01bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport2.png" tvg-name="93",True Sport 2
+http://112.121.151.27:3935/livenine//po02bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport3.png" tvg-name="93",True Sport 3
+http://112.121.151.27:3935/livenine//po03bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
+http://112.121.151.27:3935/livenine//po04bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport5.png" tvg-name="93",True Sport 5
+http://112.121.151.27:3935/livenine//po05bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport6.png" tvg-name="93",True Sport 6
+http://112.121.151.27:3935/livenine//po06bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport7.png" tvg-name="93",True Sport 7
+http://112.121.151.27:3935/livenine//po07bbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png",MUTV
+http://112.121.151.27:3935/livenine//ko68gkzpbbb.stream/playlist.m3u8?username=001E33CBE4C0&password=0823145600
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
@@ -541,10 +563,6 @@ rtmp://$OPT:rtmp-raw=rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htvc_mo
 http://202.76.72.141:30080/Entry/8138?m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
 http://202.76.72.141:30080/Entry/8130?m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX Crime HD.png" tvg-name="136",Fox Crime HD
-http://iptv.natz.bl.ee/live/fox_crime_hd.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
-http://iptv.natz.bl.ee/live/fx_hd.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\LIFETV.png" tvg-name="244",LifeTV 911
@@ -565,10 +583,6 @@ rtmp://$OPT:rtmp-raw=rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/star_mo
 http://m20.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=VEoLtCPawrvIGahbaX-5Tw&time=1392643073&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Comedy.png" tvg-name="135",Screen Red
 rtmp://$OPT:rtmp-raw=rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/screen_red.360p.stream live=1 swfUrl=http://www.htvonline.com.vn/player/HLSDynamicPlugin.swf pageUrl=http://www.htvonline.com.vn
-#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ANIMAX.png" tvg-name="124",Animax
-http://iptv.natz.bl.ee/live/animax.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\WBTV.png" tvg-name="86",WBTV
-http://iptv.natz.bl.ee/live/wbtv.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXX HD
 16b76b0fc6797d3e740b08ea140c8ad20ef8d8d7
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Night Club
@@ -791,10 +805,6 @@ http://123.29.74.83/live.vs?c=vstv044&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.83/live.vs?c=vstv069&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Document" group-title="MyTV" tvg-logo="..\Channel\Logo\TLC.png" tvg-name="227",TLC
 http://123.29.74.83/live.vs?c=vstv084&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
-#EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Nat Geo HD.png",Nat Geo Aventure HD
-http://iptv.natz.bl.ee/live/nat_geo_adventure_hd.m3u8
-#EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="125",Nat Geo Wild HD
-http://iptv.natz.bl.ee/live/nat_geo_wild_hd.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Animal planet.png" tvg-name="143",Animal Planet HD
 rtmp://$OPT:rtmp-raw=rtmp://s01.webport.tv/promo/mtv live=1
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
