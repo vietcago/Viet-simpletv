@@ -375,12 +375,6 @@ http://vtime1.cntv.chinacache.net:8000/live/flv/channel257
 http://ballzeez.pointto.us:1935/live/tsphd2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
 http://ballzeez.pointto.us:1935/live/tsphd1.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+ PC.png" tvg-name="13",K+ PC
-http://video.vpop.vn:1935/live/_definst_/12.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+ PM
-http://freetv-07.dyndns.tv:1135/live_sv1/Sport2-HD.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 1
-http://video.vpop.vn:1935/live/_definst_/11.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://ballzeez.pointto.us:1935/live/starsport.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
@@ -481,8 +475,14 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 933d93868434a39bb8ef19cae66a414cb4cf9415
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
 807e582d33dfdbab3572e702089217bf28585879
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png",Chelsea vs Newcastler
-rtmp://$OPT:rtmp-raw=rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/htvc_the_thao.360p.stream live=1 swfUrl=http://www.htvonline.com.vn/player/HLSDynamicPlugin.swf pageUrl=http://www.htvonline.com.vn
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png",Live 4
+http://video.vpop.vn:1935/live/_definst_/12.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 3
+http://video.vpop.vn:1935/live/_definst_/11.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 1
+http://210.211.99.202:1935/live/1.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 2
+http://210.211.99.202:1935/live/2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=20
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
@@ -815,19 +815,19 @@ ea071a7600863cff7fcc2852a809905b99e288bf
 http://ttv-msk-torrent1.ytv.su/travelchannel.acelive
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Nat Geo WILD.png" tvg-name="125",Nat Geo Wild
 http://ttv-kv-torrent1.ytv.su/natgeowild.acelive
-#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",NHK Vietnam
+#EXTINF:-1 $ExtFilter="Radio" group-title="Torrent TV" tvg-logo="..\Channel\logo\Icons\Radio.png",NHK Vietnam
 mms://wm.nhk.or.jp/rj/on_demand/wma/vietnamese.wma
-#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",RFI Vietnam
+#EXTINF:-1 $ExtFilter="Radio" group-title="Torrent TV" tvg-logo="..\Channel\logo\Icons\Radio.png",RFI Vietnam
 http://95.81.147.3/2584/rfi_en_vietnamien/rfivietnamien.mp3
-#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",VOH
+#EXTINF:-1 $ExtFilter="Radio" group-title="Torrent TV" tvg-logo="..\Channel\logo\Icons\Radio.png",VOH
 mms://221.132.37.15/fm
-#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT HN
+#EXTINF:-1 $ExtFilter="Radio" group-title="Torrent TV" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT HN
 rtmp://123.30.50.59/live//vovgt
-#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT TP.HCM
+#EXTINF:-1 $ExtFilter="Radio" group-title="Torrent TV" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT TP.HCM
 rtmp://123.30.50.59/live/vovgtsg
-#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV1
+#EXTINF:-1 $ExtFilter="Radio" group-title="Torrent TV" tvg-logo="..\Channel\Logo\vov-tv.png",VOV1
 rtmp://123.30.50.59/live/vov1
-#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV2
+#EXTINF:-1 $ExtFilter="Radio" group-title="Torrent TV" tvg-logo="..\Channel\Logo\vov-tv.png",VOV2
 rtmp://123.30.50.59/live/vov2
-#EXTINF:-1 $ExtFilter="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV3
+#EXTINF:-1 $ExtFilter="Radio" group-title="Torrent TV" tvg-logo="..\Channel\Logo\vov-tv.png",VOV3
 rtmp://123.30.50.59/live/vov3
