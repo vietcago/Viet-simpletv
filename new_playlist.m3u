@@ -375,8 +375,10 @@ http://vtime1.cntv.chinacache.net:8000/live/flv/channel257
 http://ballzeez.pointto.us:1935/live/tsphd2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
 http://ballzeez.pointto.us:1935/live/tsphd1.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
+rtmp://toniptv.no-ip.biz/live/dtyuh.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
-http://ballzeez.pointto.us:1935/live/starsport.stream/playlist.m3u8
+rtmp://toniptv.no-ip.biz/live/gthhyd.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://ballzeez.pointto.us:1935/live/foxsport.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
@@ -408,11 +410,11 @@ http://193.232.151.130/hls-live/livepkgr/_1024_/1024/1024-40.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="93",GMM Football Max
 http://ballzeez.pointto.us:1935/live/gmm_fbmax.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 2
-http://ballzeez.pointto.us:1935/live/assp2.stream/playlist.m3u8
+rtmp://toniptv.no-ip.biz/live/uiciyd.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 1
 http://ballzeez.pointto.us:1935/live/assp.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 3
-http://ballzeez.pointto.us:1935/live/assp3.stream/playlist.m3u8
+rtmp://toniptv.no-ip.biz/live/47c85d.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="13",Digi Sport 1
 http://205.196.209.208:55001
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="13",Digi Sport 2
