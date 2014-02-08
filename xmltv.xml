@@ -1177,10 +1177,10 @@
 <title lang="vi">Kênh thể thao Đức</title>
 </programme>
 <channel id="197">
-<display-name lang="vi">Sport 1 (UA)</display-name>
+<display-name lang="vi">Live Football</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="197">
-<title lang="vi">Kênh thể thao Ukraina</title>
+<title lang="vi">Kênh tường thuật trực tiếp bóng đá chỉ lên sóng khi có trận đấu</title>
 </programme>
 <channel id="198">
 <display-name lang="vi">Sport 2 (UA)</display-name>
