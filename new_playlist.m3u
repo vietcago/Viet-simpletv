@@ -484,7 +484,7 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png",Liverpool vs Arsenal (Server 1)
 http://210.211.99.202:1935/live/1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png",Liverpool vs Arsenal (Server 2)
-rtmp://btvlive.btv.com.cn/btvlive//sports
+http://210.211.99.202:1935/live/1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=20
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
