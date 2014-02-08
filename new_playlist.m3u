@@ -380,7 +380,7 @@ http://video.vpop.vn:1935/live/_definst_/12.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+ PM
 http://freetv-07.dyndns.tv:1135/live_sv1/Sport2-HD.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 1
-http://freetv-07.dyndns.tv:1135/live_sv1/Sport1-HD.stream/playlist.m3u8
+http://video.vpop.vn:1935/live/_definst_/11.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://ballzeez.pointto.us:1935/live/starsport.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
