@@ -375,12 +375,14 @@ http://vtime1.cntv.chinacache.net:8000/live/flv/channel257
 rtmp://27.254.63.109:1935/live/dwehd2.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
 rtmp://27.254.63.109:1935/live/dvbhd1.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport Plus HD
+rtmp://27.254.63.109/live/ftrtgd.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
 rtmp://toniptv.no-ip.biz/live/dtyuh.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 rtmp://toniptv.no-ip.biz/live/gthhyd.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
-http://ballzeez.pointto.us:1935/live/foxsport.stream/playlist.m3u8
+http://123.29.74.83/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 rtmp://livelb.wasu.cn/live8/cctv5
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
