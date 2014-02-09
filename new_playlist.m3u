@@ -450,13 +450,13 @@ http://ttv-kv-torrent1.ytv.su/futbolplus.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 878d9ed5dce1e04df5eb0112825b6e49a68f700b
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-61eb3af8bbbee37b13b0932668fc4830fc1876a8
+923ad7f29c1825a5040ace669f85209e19f939a2
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
 68111016c27c65c942710a79c02f547c6671bbdd
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="206",Eurosport
 http://ttv-kv-torrent1.ytv.su/eurosportintl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
-6545902391b91059645799b09469bd4b02e58f10
+383defba0a353b1e47a9da15aa84f3f8d20e434c
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
 http://ttv-msk-torrent1.ytv.su/nashfutbol.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Tennis.png" tvg-name="236",NTV+ Tennis
