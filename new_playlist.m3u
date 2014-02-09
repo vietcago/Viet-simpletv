@@ -450,13 +450,13 @@ http://ttv-kv-torrent1.ytv.su/futbolplus.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 878d9ed5dce1e04df5eb0112825b6e49a68f700b
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-923ad7f29c1825a5040ace669f85209e19f939a2
+61eb3af8bbbee37b13b0932668fc4830fc1876a8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
 68111016c27c65c942710a79c02f547c6671bbdd
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="206",Eurosport
 http://ttv-kv-torrent1.ytv.su/eurosportintl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
-383defba0a353b1e47a9da15aa84f3f8d20e434c
+6545902391b91059645799b09469bd4b02e58f10
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
 http://ttv-msk-torrent1.ytv.su/nashfutbol.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Tennis.png" tvg-name="236",NTV+ Tennis
@@ -499,15 +499,17 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 807e582d33dfdbab3572e702089217bf28585879
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 4
 http://video.vpop.vn:1935/live/_definst_/12.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 3 
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 3
 http://video.vpop.vn:1935/live/_definst_/11.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 5
 http://210.211.99.202:1935/live/3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 6
 http://210.211.99.202:1935/live/4.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 7
+http://210.211.99.202:1935/live/5.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 1
 http://210.211.99.202:1935/live/1.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 2 
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 2
 http://210.211.99.202:1935/live/1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=20
