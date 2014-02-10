@@ -392,7 +392,11 @@ rtmp://$OPT:rtmp-raw=rtmp://livertmp2-cnc.wasu.cn/shanghaisports.flv pageUrl=htt
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
 http://livertmp2-cnc.wasu.cn:1935/guangdongsports.flv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Arsenal tv.png" tvg-name="108",Arsenal TV
-rtmp://$OPT:rtmp-raw=rtmp://stream.ahamy.tv/playlist?msisdn=2192571238&pitem=PITEM_4&pdata=[PDATA_4]&os=AHA_HTML5&operator=BAKRIE&stamp=3583900099&sign=cb68caa53a1ef4ae6f6c82ecd15e6779 playpath=ARSENAL_LOOP.sdp?msisdn=2192571238&pitem=PITEM_4&pdata=[PDATA_4]&os=AHA_HTML5&operator=BAKRIE&stamp=3583900099&sign=cb68caa53a1ef4ae6f6c82ecd15e6779 swfUrl=http://ahamy.tv:8080/AHA-WEB/js/PlayerHtml.swf pageUrl=http://widih live=1
+rtmp://$OPT:rtmp-raw=rtmp://stream.ahamy.tv/playlist?msisdn=2192571238&pitem=PITEM_4&pdata=[PDATA_4]&os=AHA_HTML5&operator=BAKRIE&stamp=3583900099&sign=cb68caa53a1ef4ae6f6c82ecd15e6779 
+
+playpath=ARSENAL_LOOP.sdp?msisdn=2192571238&pitem=PITEM_4&pdata=[PDATA_4]&os=AHA_HTML5&operator=BAKRIE&stamp=3583900099&sign=cb68caa53a1ef4ae6f6c82ecd15e6779 
+
+swfUrl=http://ahamy.tv:8080/AHA-WEB/js/PlayerHtml.swf pageUrl=http://widih live=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CHELSEATV.png" tvg-name="109",CHELSEA TV
 rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\REAL MADID.png" tvg-name="110",Real Madrid TV
@@ -415,32 +419,6 @@ rtmp://toniptv.no-ip.biz/live/uiciyd.stream
 http://203.151.162.12:1935/live2/live2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 3
 rtmp://toniptv.no-ip.biz/live/47c85d.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="13",Digi Sport 1
-http://205.196.209.208:55001
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="13",Digi Sport 2
-http://205.196.209.208:55002
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Muzikas Video.png" tvg-name="13",Digi Sport 3
-http://205.196.209.208:55003
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a1 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 2
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a2 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 3
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a3 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 4
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a4 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 5
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a5 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 6
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a6 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 7
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a7 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 8
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a8 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 11
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a11 pageUrl=http://www.castok.com
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport 12
-rtmp://$OPT:rtmp-raw=rtmp://77.81.98.136/fot/a12 pageUrl=http://www.castok.com
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
@@ -615,6 +593,8 @@ ee73162ab97653643b3ddea2badf74f4ca3df849
 96ef4fba2fc4a356983d097c8c40e8d848aa330d
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Egoist TV.png" tvg-name="203",Egoist TV
 a63f9438f50d7379c2303b9de0d4f0170e6c6a29
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXX
+rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream1
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",But Go
 rtmp://lm01.everyon.tv/ptv//phd772
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Midnight
@@ -699,6 +679,8 @@ rtmp://123.30.134.108/live/nctlive
 rtmp://50.7.104.133/liveStream/vpoptv_1
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\LIFETV.png" tvg-name="150",LifeTV Music
 rtmp://115.146.123.95/liveedge/lifetv1.stream
+#EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\MTV HD.png" tvg-name="70",Viet MTV
+rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream1
 #EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI",V-Music
 rtmp://50.7.104.133/liveStream/mtv_1
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
