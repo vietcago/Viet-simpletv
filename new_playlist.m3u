@@ -370,7 +370,7 @@ http://123.29.74.83/live.vs?c=vstv004&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
-http://vtime1.cntv.chinacache.net:8000/live/flv/channel257
+rtsp://stream2.gzcbn.tv:1935/app_2/ls_1.stream?domain=gztv
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD2
 rtmp://27.254.63.109:1935/live/dwehd2.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
@@ -392,11 +392,7 @@ rtmp://$OPT:rtmp-raw=rtmp://livertmp2-cnc.wasu.cn/shanghaisports.flv pageUrl=htt
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
 http://livertmp2-cnc.wasu.cn:1935/guangdongsports.flv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Arsenal tv.png" tvg-name="108",Arsenal TV
-rtmp://$OPT:rtmp-raw=rtmp://stream.ahamy.tv/playlist?msisdn=2192571238&pitem=PITEM_4&pdata=[PDATA_4]&os=AHA_HTML5&operator=BAKRIE&stamp=3583900099&sign=cb68caa53a1ef4ae6f6c82ecd15e6779 
-
-playpath=ARSENAL_LOOP.sdp?msisdn=2192571238&pitem=PITEM_4&pdata=[PDATA_4]&os=AHA_HTML5&operator=BAKRIE&stamp=3583900099&sign=cb68caa53a1ef4ae6f6c82ecd15e6779 
-
-swfUrl=http://ahamy.tv:8080/AHA-WEB/js/PlayerHtml.swf pageUrl=http://widih live=1
+rtmp://$OPT:rtmp-raw=rtmp://stream.ahamy.tv/playlist?msisdn=2192571238&pitem=PITEM_4&pdata=[PDATA_4]&os=AHA_HTML5&operator=BAKRIE&stamp=3583900099&sign=cb68caa53a1ef4ae6f6c82ecd15e6779
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CHELSEATV.png" tvg-name="109",CHELSEA TV
 rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\REAL MADID.png" tvg-name="110",Real Madrid TV
@@ -475,6 +471,10 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 933d93868434a39bb8ef19cae66a414cb4cf9415
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
 807e582d33dfdbab3572e702089217bf28585879
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="105",ESPN
+5581bbb6b2ee6f20cda7e618da0f850e6625e6e1
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport 2
+874b7823c03fd957efa6955bcbf503994b52e773
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 4
 http://video.vpop.vn:1935/live/_definst_/12.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 3
