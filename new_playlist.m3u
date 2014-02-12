@@ -479,8 +479,8 @@ a55f96dd386b7722380802b6afffc97ff98903ac
 5581bbb6b2ee6f20cda7e618da0f850e6625e6e1
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport 2
 874b7823c03fd957efa6955bcbf503994b52e773
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 4
-http://video.vpop.vn:1935/live/_definst_/12.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 4-> Arsenal vs Manchester United
+rtmp://btvlive.btv.com.cn/btvlive//sports
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 3-> Arsenal vs Manchester United
 http://video.vpop.vn:1935/live/_definst_/11.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 5
