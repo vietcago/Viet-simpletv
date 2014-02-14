@@ -382,7 +382,7 @@ http://123.30.208.35:8081/m3ugen/rtmplive/live/vtv3hd?key=8f71e898ba5c5b3397d159
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
 http://123.30.208.35:8081/m3ugen/rtmplive/live/thethaosd?key=8f71e898ba5c5b3397d15944f995e6cf
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-rtmp://toniptv.no-ip.biz/live/dtyuh.stream
+rtmp://123.29.68.140/live/kplus
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 rtmp://toniptv.no-ip.biz/live/gthhyd.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
