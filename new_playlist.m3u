@@ -423,6 +423,16 @@ rtmp://toniptv.no-ip.biz/live/47c85d.stream
 rtmp://$OPT:rtmp-raw=rtmp://77.81.98.134/tv/bt1h28qn?v=ceb88e08632785af704cb53f7b4b15e4 pageUrl=http://www.castok.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://77.81.98.137/tv/bt2eduxc?v=83ec22dd2085ac004fb9b15976f4505c pageUrl=http://www.castok.com/
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport1.png" tvg-name="93",True Sport 1
+rtmp://27.254.84.3/live/mdusp1.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
+rtmp://27.254.84.3/live/vdxsp4.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport5.png" tvg-name="93",True Sport 5
+rtmp://27.254.84.3/live/ndvsp5.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport6.png" tvg-name="93",True Sport 6
+rtmp://27.254.84.3/live/drsp6.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport7.png" tvg-name="93",True Sport 7
+rtmp://27.254.84.3/live/dyusp7.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
