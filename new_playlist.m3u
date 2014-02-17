@@ -602,7 +602,7 @@ ee73162ab97653643b3ddea2badf74f4ca3df849
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Egoist TV.png" tvg-name="203",Egoist TV
 a63f9438f50d7379c2303b9de0d4f0170e6c6a29
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXX
-rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream1
+rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream2
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",But Go
 rtmp://lm01.everyon.tv/ptv//phd772
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Midnight
