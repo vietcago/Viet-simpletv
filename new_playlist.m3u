@@ -348,7 +348,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=17
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=15
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
-rtmp://m22.megafun.vn/hctv/vstv004?token=nothing&time=null
+rtmp://m22.megafun.vn/hctv/vstv007?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
 http://112.197.2.11:1935/glive/sctv15.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
