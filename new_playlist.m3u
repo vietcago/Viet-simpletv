@@ -772,7 +772,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=58
 #EXTINF:-1 $ExtFilter="Fashion" group-title="MyTV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://123.29.74.83/live.vs?c=vstv041&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Fashion" group-title="HDTV" tvg-logo="..\Channel\Logo\A'lure channel.png" tvg-name="138",A'Lure Sexy Fashion HD
-http://110.164.192.112:1935/LiveStream/alure_live1.stream/playlist.m3u8
+http://110.164.192.112:1935/LiveStream/alure_2mugjdlripbmgtrpjvsugmvcadtlkmnvryjgdde9423587168493047.stream/thai.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="220",LifeTV Model
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream2 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Fashion TV.png" tvg-name="115",Fashion TV
