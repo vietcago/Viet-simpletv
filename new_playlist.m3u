@@ -436,53 +436,49 @@ http://ttv-kv-torrent1.ytv.su/futbolplus.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 878d9ed5dce1e04df5eb0112825b6e49a68f700b
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-54955eacefec1f56a8fcd409f215098382207e76
+187f96588ec6dc278e5fb97605f95aa8b9a631b4
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
-68111016c27c65c942710a79c02f547c6671bbdd
+d50cdf13571d5fbf1cb63683ced348a6daee6ab4
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="206",Eurosport
 http://ttv-kv-torrent1.ytv.su/eurosportintl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
-61595d709a9c1721b150f143058227dbe54a6b3f
+38aa23fedc30c42e2a8f9181ec40e251502d7b25
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Nash Futbol.png" tvg-name="201",NTV+ Nash Futbol
 http://ttv-msk-torrent1.ytv.su/nashfutbol.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Tennis.png" tvg-name="236",NTV+ Tennis
-6a55417a60ee6ba7dbc1d98fe2986508b3938ba7
+697a70189f14c3d39b1563f86688ef40a6e155fe
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Basketball.png" tvg-name="235",NTV+ Basketball
-89a2620c900b18d4aaf9dbf80a654e6cba98c6d3
+3f993ea557bd519f5235e5740b6895d0dd4c74d9
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Telekanal Futbol.png" tvg-name="190",Telekanal Futbol
 http://ttv-msk-torrent1.ytv.su/futbolrossiia.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Plus
 312deaed6ac5c3f5157d31cc0bdac41aa1cc670b
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2 HD
-2af0657ffe3f5cfa2a6adeaad1b9b8f2f26e133a
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport.png" tvg-name="191",NTV+ Sport
 8dc3a5e64228628e2fc357c3b3bed3bfc3df5f69
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Online.png" tvg-name="194",NTV+ Sport Online
-bcfaf0fda126b35655394e06fc7158f77e3d5384
+8be01e4866db880a218c831395db9cc1c4ddd815
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Union.png" tvg-name="194",NTV+ Sport Union
 aac63417259b0e81bb8e311eff850bbc801e1029
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Futbol HD.png" tvg-name="199",NTV+ Futbol HD
-f4adab7702ee1af5290e437b75efd3915f592f70
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 60337e4ef41513f4aa0b0fc83d927d5b6c079d2f
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-e8aaae9e187e1264029e387ad337c9c971595e14
+5f6f4514d3edab5b76f6df5c2ed30fae22b897e1
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-5695c9f0b1886fdace6875061557a9c76b4ed0b5
+4d3d6d77a403e6f67a801370883cd11eefcd89a5
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-39c377e4a764fab73fc3b99e7e25b3965846ccc2
+4895f56028cd41e10b42d236f1e6ff261e6bd6f1
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
-3e4bf81d1717bea464ff172f419351d1e21badaf
+8bf1d7a4328d2cccfc83b3a27951c682a785912d
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SkySports.png" tvg-name="145",Sky Sports F1
 a55f96dd386b7722380802b6afffc97ff98903ac
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Viasat Sport.png" tvg-name="192",Viasat TV3 Sport 2
-8d88b2367294bd72b6a25d09542a710cfe1d983d
+1c37339ddac887331377f4c63f5d65a42330d1fb
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 1
 e7b11dc50d0f8a94037b6353971681a267f25944
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 2
 933d93868434a39bb8ef19cae66a414cb4cf9415
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+ Sport Plus.png" tvg-name="191",NTV+ Sport Hits
-807e582d33dfdbab3572e702089217bf28585879
+c3cb7399c890a5c3f2ea3ef77b88a624e5680a95
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="145",ESPN
 5581bbb6b2ee6f20cda7e618da0f850e6625e6e1
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport 2
@@ -604,9 +600,7 @@ rtmp://27.254.84.1:1935/live/_definst_/h222.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Night Club
 ee73162ab97653643b3ddea2badf74f4ca3df849
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",TeleItalia
-96ef4fba2fc4a356983d097c8c40e8d848aa330d
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Egoist TV.png" tvg-name="203",Egoist TV
-a63f9438f50d7379c2303b9de0d4f0170e6c6a29
+8eb04b5b48f9958c7e6ecd13de232a822a56164f
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXX
 rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream2
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",But Go
@@ -644,19 +638,17 @@ rtmp://lm03.everyon.tv/ptv3//pld61
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy
 7b555696bb70b33da827e22085d7ef276b63c2b1
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Private Spice.png" tvg-name="203",Private Spice
-3cdc80b2676bcf9e39403a166460c5c069fe15b2
+7f4db3acc64d51521e55f9c3c0841c5725f309c8
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Rusnight.png" tvg-name="203",Rusnight
 3cc407c79190d46ebe01c16e5ec012c1664113fb
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\SCT.png" tvg-name="203",SCT
-dcfd631797de4be68b126a000e1299cb5beaebf4
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\FrenchLover TV.png" tvg-name="203",French Lover TV
-06a33472fda9c2c93a426a24bbadc744efcc8e6d
+455e620dafeea1e1cdc7da1d77be806fadde630c
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Dorcel TV.png" tvg-name="203",Dorcel TV
-cf8f7513e46635504c08eee3d920729fa9d271ed
+ba7f8b98aaac17c3f7dc91404fd40b535be1e428
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Daring TV.png" tvg-name="203",Daring TV
-1e11a8bc47dec4f0724ed8fc36fdfeebee27fa96
+67d1c2985e12deb281d33e3cf27ffb650f697bb2
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
-bcc3c746560df8f317e99531c3d27f0845b4d0f5
+04e9d0146789633628ecfa9010b5ddd85fbb7246
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=7
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="46",SCTV2
