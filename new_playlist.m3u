@@ -370,7 +370,7 @@ http://123.29.74.83/live.vs?c=vstv004&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
-rtsp://stream2.gzcbn.tv:1935/app_2/ls_1.stream?domain=gztv
+http://121.15.12.93:1554/36060_52660
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://123.30.208.35:8081/m3ugen/rtmplive/live/vtv3hd?key=8f71e898ba5c5b3397d15944f995e6cf
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
