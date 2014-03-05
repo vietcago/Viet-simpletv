@@ -522,9 +522,9 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=56
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\cinemax.png" tvg-name="84",Cinemax
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=74
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=22
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=76
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=18
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=77
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
 http://m22.megafun.vn/live.vs?c=vstv051&q=high&type=tv&token=hDUzQp95A43cjizl2jcq1A&time=1392819431&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
