@@ -338,15 +338,15 @@ rtmp://m24.megafun.vn/hctv//vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=14
+http://media-tv.vn-hd.com/media_tv/_definst_/investtv/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sports
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=16
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=75
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=17
+http://media-tv.vn-hd.com/media_tv/_definst_/bongdatv_hd-high/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=15
+http://media-tv.vn-hd.com/media_tv/_definst_/thethaotv_hd-high/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 rtmp://m22.megafun.vn/hctv/vstv007?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
@@ -421,16 +421,6 @@ rtmp://toniptv.no-ip.biz/live/47c85d.stream
 rtmp://$OPT:rtmp-raw=rtmpe://play.finecast.tv/live/hqbt1 pageUrl=http://www.finecast.tv/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="212",BT Sport 2
 rtmp://$OPT:rtmp-raw=rtmpe://play.finecast.tv/live/hqbt2 pageUrl=http://www.finecast.tv/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport1.png" tvg-name="93",True Sport 1
-rtmp://27.254.84.3/live/mdusp1.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
-rtmp://27.254.84.3/live/vdxsp4.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport5.png" tvg-name="93",True Sport 5
-rtmp://27.254.84.3/live/ndvsp5.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport6.png" tvg-name="93",True Sport 6
-rtmp://27.254.84.3/live/drsp6.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport7.png" tvg-name="93",True Sport 7
-rtmp://27.254.84.3/live/dyusp7.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
@@ -595,10 +585,6 @@ http://frdlzsmb.cdnviet.com/psczntp/_definst_/star_movies.360p.stream/playlist.m
 http://m20.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=VEoLtCPawrvIGahbaX-5Tw&time=1392643073&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Comedy.png" tvg-name="135",Screen Red
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/screen_red.360p.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\HBO SIGNATURE.png" tvg-name="135",HBO Signature
-rtmp://27.254.63.109:1935/live/tidhbo.stream
-#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\HBO HITS.png" tvg-name="136",HBO Hits
-rtmp://27.254.84.1:1935/live/_definst_/h222.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXX HD
 16b76b0fc6797d3e740b08ea140c8ad20ef8d8d7
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Night Club
@@ -793,8 +779,6 @@ http://123.29.74.83/live.vs?c=vstv032&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.83/live.vs?c=vstv075&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Kids" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global Kids
 rtmp://unirtmp.tulix.tv/globaltv7/myStream.sdp
-#EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Kids Co.png" tvg-name="122",KidsCo
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/kidsco.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/disney_channel.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Cartoon Network.png" tvg-name="118",Cartoon Network
@@ -826,7 +810,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s01.webport.tv/promo/mtv live=1
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
 http://m20.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=aH-ndZprU6WLCS1yfV9Z9A&time=1392646654&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
-rtmp://$OPT:rtmp-raw=rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/animal_planet.360p.stream live=1 swfUrl=http://www.htvonline.com.vn/player/HLSDynamicPlugin.swf pageUrl=http://www.htvonline.com.vn
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/animal_planet.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 http://ttv-msk-torrent1.ytv.su/animalplanet.acelive
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World
