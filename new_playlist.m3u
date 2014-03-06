@@ -382,9 +382,9 @@ rtmp://103.7.57.211/live/sport2.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+ PC.png" tvg-name="13",K+ PC
 rtmp://103.7.57.211/live/sport3.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
-rtmp://toniptv.no-ip.biz/live/gthhydfu.stream
+http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
-rtmp://toniptv.no-ip.biz/live/dtyuhfu.stream
+http://123.29.74.83/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://120.192.81.24/live/5/30/06c11d0b6c4a436e9133329b719e737d.m3u8?type=tv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
