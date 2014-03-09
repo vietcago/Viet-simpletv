@@ -1416,4 +1416,10 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="244">
 <title lang="vi">Kênh pháp luật và xã hội</title>
 </programme>
+<channel id="245">
+<display-name lang="vi">MUTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="245">
+<title lang="vi">Kênh truyền hình CLB bóng đá Manchester United</title>
+</programme>
 </tv>
