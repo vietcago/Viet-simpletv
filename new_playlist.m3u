@@ -1,16 +1,16 @@
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
-rtmp://m22.megafun.vn/hctv/vstv002?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv1_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
-rtmp://m22.megafun.vn/hctv/vstv017?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv2_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
-http://112.197.2.11:1935/live/vtv4.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv4_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\VTV5.png" tvg-name="5",VTV5
 http://123.30.53.80/w/vtv5/stream.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
-rtmp://m22.megafun.vn/hctv/vstv014?token=nothing&time=null
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv6_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
-http://112.197.2.11:1935/live/vtv9.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv9_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="8",VTV Huế
 rtmp://m22.megafun.vn/hctv/vstv024
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="9",VTV Cần Thơ 1
@@ -216,7 +216,7 @@ rtmp://m22.megafun.vn/hctv/vstv011?token=nothing&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 2.png" tvg-name="153",HaNoiTV 2
 rtmp://m22.megafun.vn/hctv/vstv012?token=nothing&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL1
-http://112.197.2.11:1935/live/thvl1.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//thvl_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\THVL2.png" tvg-name="154",THVL2
 rtmp://123.30.108.77/livepkgr//livestream2
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\btv1.png" tvg-name="155",BTV1
@@ -232,7 +232,7 @@ rtmp://$OPT:rtmp-raw=rtmp://123.29.75.131:1935/thdn/ playpath=dn2.stream swfUrl=
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DRT.png" tvg-name="205",DRT1
 rtmp://222.255.167.159/live/livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LongAnTV.png" tvg-name="158",LongAnTV
-http://112.197.2.11:1935/live/la34.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//la34_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\CanThoTV.png" tvg-name="159",CanThoTV
 rtmp://118.69.205.223/livepkgr/livestream1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KienGiangTV.png" tvg-name="161",KienGiangTV
@@ -716,7 +716,7 @@ http://123.30.50.59:1935/live/vovtv/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\FBNC.png" tvg-name="209",FBNC
 rtmp://clpzccpc.cdnviet.com:80/nblhsyp_ED/_definst_/fbnc.720p.stream
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\antv.png" tvg-name="147",ANTV
-http://112.197.2.11:1935/live/antv.stream/playlist.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//antv_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="News" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global IBC
 rtmp://unirtmp.tulix.tv/globaltv15/myStream.sdp
 #EXTINF:-1 $ExtFilter="News" group-title="HẢI NGOẠI" tvg-logo="..\Channel\logo\global tv.png",Global VPTV
