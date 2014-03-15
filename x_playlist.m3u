@@ -1,0 +1,55 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",But Go
+rtmp://lm01.everyon.tv/ptv//phd772
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Daring TV.png" tvg-name="203",Daring TV
+67d1c2985e12deb281d33e3cf27ffb650f697bb2
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
+rtmp://lm02.everyon.tv/ptv2//phd63
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Dorcel TV.png" tvg-name="203",Dorcel TV
+ba7f8b98aaac17c3f7dc91404fd40b535be1e428
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Girls TV.png" tvg-name="203",Girls 4U TV
+rtmp://lm01.everyon.tv/ptv//phd501
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hotgirl
+rtmp://lm02.everyon.tv/ptv2//phd59
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png" tvg-name="203",Live Ting TV
+rtsp://lm02.everyon.tv/ptv2/phd64
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Midnight
+rtmp://lm02.everyon.tv/ptv2//phd766
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",Night Club
+ee73162ab97653643b3ddea2badf74f4ca3df849
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",NuArt
+04e9d0146789633628ecfa9010b5ddd85fbb7246
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Pink TV.png" tvg-name="203",Pink TV
+rtmp://lm02.everyon.tv/ptv2//phd62
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\RedLight Platinum.png" tvg-name="203",Platinum
+199e30c74870135db136a720129708133ece04ec
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy
+7b555696bb70b33da827e22085d7ef276b63c2b1
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy TV
+rtmp://lm03.everyon.tv/ptv3//phd499
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playy 19+
+rtmp://lm03.everyon.tv/ptv3//phd769
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Private Spice.png" tvg-name="203",Private Spice
+7f4db3acc64d51521e55f9c3c0841c5725f309c8
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Asia RED ON.png" tvg-name="203",Red On HD
+rtmp://lm02.everyon.tv/ptv2//phd60
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Rusnight.png" tvg-name="203",Rusnight
+3cc407c79190d46ebe01c16e5ec012c1664113fb
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Sakura TV.png" tvg-name="203",Sakura TV
+rtmp://lm03.everyon.tv/ptv3//pld61
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\SCT.png" tvg-name="203",SCT
+455e620dafeea1e1cdc7da1d77be806fadde630c
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SPICE TV.png" tvg-name="203",Spice TV
+rtmp://lm03.everyon.tv/ptv3//phd497
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",TeleItalia
+8eb04b5b48f9958c7e6ecd13de232a822a56164f
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",The 0
+rtmp://lm03.everyon.tv/ptv3//phd771
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",VIKI Enjoy Pre
+rtmp://lm02.everyon.tv/ptv2//phd765
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\XXL.png" tvg-name="203",XXL
+961dda61c12b464b82e805914b1931a76e185fc2
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXX
+rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream2
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\18.png" tvg-name="203",XXX HD
+16b76b0fc6797d3e740b08ea140c8ad20ef8d8d7
