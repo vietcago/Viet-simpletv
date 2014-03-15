@@ -379,8 +379,6 @@ http://123.30.208.35:8081/m3ugen/rtmplive/live/thethaosd?key=8f71e898ba5c5b3397d
 http://202.172.20.38:1135/live_sv1/Sport2-HD.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+ PM
 http://202.172.20.38:1135/live_sv1/Sport6-HD.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+ PC.png" tvg-name="13",K+ PC
-http://202.172.20.38:1135/live_sv1/Sport4-HD.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
@@ -393,14 +391,6 @@ rtmp://btvlive.btv.com.cn/btvlive//sports
 rtmp://$OPT:rtmp-raw=rtmp://livertmp2-cnc.wasu.cn/shanghaisports.flv pageUrl=http://www.wasu.cn/live live=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
 http://livertmp2-cnc.wasu.cn:1935/guangdongsports.flv
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
-http://stb:xbmc@141.0.169.245:443/ManUnTV
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Arsenal tv.png" tvg-name="108",Arsenal TV
-rtmp://$OPT:rtmp-raw=rtmp://stream.ahamy.tv/playlist?msisdn=2192571238&pitem=PITEM_4&pdata=[PDATA_4]&os=AHA_HTML5&operator=BAKRIE&stamp=3583900099&sign=cb68caa53a1ef4ae6f6c82ecd15e6779
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CHELSEATV.png" tvg-name="109",CHELSEA TV
-rtmp://cp96798.live.edgefcs.net:1935/live/ChelTV_Ch01_1000k@26291
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\REAL MADID.png" tvg-name="110",Real Madrid TV
-http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
 rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
@@ -409,10 +399,6 @@ rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=33698 swfUrl=
 rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Futbol.png" tvg-name="199",NTV+ Futbol
-http://193.232.151.130/hls-live/livepkgr/_1026_/1026/1026-40.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+ Futbol 2.png" tvg-name="200",NTV+ Futbol 2
-http://193.232.151.130/hls-live/livepkgr/_1024_/1024/1024-40.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 2
 rtmp://toniptv.no-ip.biz/live/uiciyd.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="13",Astro Super Sport 1
@@ -492,7 +478,7 @@ http://goo.gl/sKLykn
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 8
 http://goo.gl/msRFo5
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 1
-http://210.211.99.202:1935/live/1.stream/playlist.m3u8
+http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/01.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Icons\soccer.png" tvg-name="197",Live 2
 http://210.211.99.202:1935/live/2.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
@@ -623,7 +609,7 @@ rtmp://123.30.134.108/live/nctlive
 rtmp://50.7.104.133/liveStream/vpoptv_1
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\LIFETV.png" tvg-name="150",LifeTV Music
 rtmp://115.146.123.95/liveedge/lifetv1.stream
-#EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\MTV HD.png" tvg-name="70",Viet MTV
+#EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
 rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream1
 #EXTINF:-1 $ExtFilter="Music" group-title="HẢI NGOẠI",V-Music
 rtmp://50.7.104.133/liveStream/mtv_1
@@ -681,8 +667,6 @@ http://202.76.72.141:30080/Entry/8133?m3u8
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
 rtmp://lm01.everyon.tv/ptv//phd36
-#EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Russia Today.png" tvg-name="129",Russia Today
-rtmp://fms5.visionip.tv/live/RT_3
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
 http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC Knowledge
@@ -703,8 +687,6 @@ http://110.164.192.112:1935/LiveStream/alure_2mugjdlripbmgtrpjvsugmvcadtlkmnvryj
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream2 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Fashion TV.png" tvg-name="115",Fashion TV
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/ftv.360p.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Lotus Macau.png" tvg-name="106",Lotus Macau
-http://110.164.192.112:1935/LiveStream/lotusmacau_live1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
 be1841fedc76915387969b83899aa69b614c7c96
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
