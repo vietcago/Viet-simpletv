@@ -317,6 +317,8 @@ http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=11
 rtmp://$OPT:rtmp-raw=rtmp://74.63.219.99:/vbsvp/ playpath=myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php?id=6&gID=0&page=1 live=1
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\saigon tv.png" tvg-name="248",SaiGon TV
 rtmp://$OPT:rtmp-raw=rtmp://74.63.219.99:/sgvp/ playpath=myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php?id=6&gID=0&page=1 live=1
+#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Vietface.png" tvg-name="248",Vietface TV
+rtmp://50.7.104.130/airChannels/vface_1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv3_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
@@ -585,8 +587,6 @@ http://123.29.74.83/live.vs?c=vstv040&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
-#EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vpop.png" tvg-name="70",V-Pop
-rtmp://50.7.104.133/liveStream/vpoptv_1
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\LIFETV.png" tvg-name="150",LifeTV Music
 rtmp://115.146.123.95/liveedge/lifetv1.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
