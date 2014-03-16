@@ -1434,4 +1434,10 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="247">
 <title lang="vi">Kênh  giải trí, phim truyện, thời trang và cuộc sống</title>
 </programme>
+<channel id="248">
+<display-name lang="vi">Global TV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="248">
+<title lang="vi">Kênh  truyền hình người Việt hải ngoại</title>
+</programme>
 </tv>
