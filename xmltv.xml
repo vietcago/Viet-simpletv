@@ -1447,7 +1447,7 @@
 <title lang="vi">Kênh  tổng hợp đài TH Bình Định</title>
 </programme>
 <channel id="250">
-<display-name lang="vi">HaTinhTVTV</display-name>
+<display-name lang="vi">HaTinhTV</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="250">
 <title lang="vi">Kênh  tổng hợp đài TH Hà Tĩnh</title>
@@ -1465,13 +1465,13 @@
 <title lang="vi">Kênh  tổng hợp đài TH Bến Tre</title>
 </programme>
 <channel id="253">
-<display-name lang="vi">DacNongTVTV</display-name>
+<display-name lang="vi">DacNongTV</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="253">
 <title lang="vi">Kênh  tổng hợp đài TH Đắc Nông</title>
 </programme>
 <channel id="254">
-<display-name lang="vi">LaoCaiTVTV</display-name>
+<display-name lang="vi">LaoCaiTV</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="254">
 <title lang="vi">Kênh  tổng hợp đài truyền hình Lào Cai</title>
