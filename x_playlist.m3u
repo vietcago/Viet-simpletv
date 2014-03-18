@@ -11,7 +11,7 @@ rtmp://lm02.everyon.tv/ptv2//phd63
 rtmp://lm01.everyon.tv/ptv//phd501
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hotgirl
 rtmp://lm02.everyon.tv/ptv2//phd59
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD" tvg-name="203",JAV HD
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD.png" tvg-name="203",JAV HD
 http://www.youtube.com/playlist?list=PLa6JxDuf-__oWr8wCfFcpdfDXjJF4I6yT
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png" tvg-name="203",Live Ting TV
 rtsp://lm02.everyon.tv/ptv2/phd64
@@ -19,7 +19,7 @@ rtsp://lm02.everyon.tv/ptv2/phd64
 rtmp://lm02.everyon.tv/ptv2//phd766
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Night Club.png" tvg-name="203",Night Club
 http://torrent-tv.ru/torrent-online.php?translation=1826
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Nuart TV" tvg-name="203",NuArt
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Nuart TV.png" tvg-name="203",NuArt
 04e9d0146789633628ecfa9010b5ddd85fbb7246
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Pink TV.png" tvg-name="203",Pink TV
 rtmp://lm02.everyon.tv/ptv2//phd62
