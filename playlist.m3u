@@ -360,7 +360,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=16
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=75
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://media-tv.vn-hd.com/media_tv/_definst_/bongdatv_hd-high/playlist.m3u8
+http://tv.hdviet.com/kenh-6/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 rtmp://m22.megafun.vn/hctv/vstv007?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
