@@ -74,7 +74,7 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv10_3 live=1 swfUrl=http://tv
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv13.png" tvg-name="57",SCTV13
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv13_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTV1.png" tvg-name="63",HTV 1
-http://clpzccpc.cdnviet.com/nblhsyp_ED/_definst_/htv1.360p.stream/playlist.m3u8
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv1.360p.stream/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
 rtmp://m22.megafun.vn/hctv/vstv001?token=nothing&time=null
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV4.png" tvg-name="66",HTV 4
