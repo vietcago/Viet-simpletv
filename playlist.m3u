@@ -1,12 +1,12 @@
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv1_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+http://123.29.73.66/live.vs?c=vstv002&q=high
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv2_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+http://123.29.73.66/live.vs?c=vstv017&q=high
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv4_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+http://123.29.73.66/live.vs?c=vstv035&q=high
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv6_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+http://123.29.73.66/live.vs?c=vstv014&q=high
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv9_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="8",VTV Huế
@@ -356,7 +356,7 @@ http://vpoptv.com:1935/liveStream/viettv24_1/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\eL Garage TV.png" tvg-name="248",BBBG
 http://50.7.104.130:1935/liveStream/BBBG_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv3_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+http://123.29.73.66/live.vs?c=vstv004&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://123.30.208.35:8081/m3ugen/rtmplive/live/thethaosd?key=8f71e898ba5c5b3397d15944f995e6cf
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
