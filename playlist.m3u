@@ -348,13 +348,13 @@ rtmp://$OPT:rtmp-raw=rtmp://74.63.219.99:/sgvp/ playpath=myStream.sdp swfUrl=htt
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Vietface.png" tvg-name="248",Vietface TV
 rtmp://50.7.104.130/airChannels/vface_1
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\settv.png" tvg-name="248",SET
-http://50.7.104.130:1935/airChannels/set_1/playist.m3u8
+http://bichthuvan.com:1935/airChannels/set_1/playist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\Life HD.png" tvg-name="248",Life World
-http://50.7.104.130:1935/liveStream/lifeworld_1/playlist.m3u8
+http://bichthuvan.com:1935/liveStream/lifeworld_1/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\VietTV24.png" tvg-name="248",Viettv24
-http://vpoptv.com:1935/liveStream/viettv24_1/playlist.m3u8
+http://bichthuvan.com:1935/liveStream/viettv24_1/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\eL Garage TV.png" tvg-name="248",BBBG
-http://50.7.104.130:1935/liveStream/BBBG_1/playlist.m3u8
+http://bichthuvan.com:1935/liveStream/BBBG_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://123.29.73.66/live.vs?c=vstv004&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
@@ -567,12 +567,10 @@ rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http:/
 rtmp://115.146.123.95/liveedge/lifetv3.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Family.png" tvg-name="247",Yeah1 Family
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=418
-#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\global tv.png" tvg-name="248",Global film 1
-rtmp://unirtmp.tulix.tv/globaltv6/myStream.sdp
-#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\global tv.png" tvg-name="248",Global Film 2
+#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\global tv.png" tvg-name="248",Global Film
 rtmp://unirtmp.tulix.tv/globaltv8/myStream.sdp
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\4 Fun TV.png" tvg-name="248",Hài 247
-http://50.7.104.130:1935/liveStream/hai_1/playlist.m3u8
+http://bichthuvan.com:1935/liveStream/hai_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/axn.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
@@ -624,11 +622,11 @@ rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream1
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Music.png" tvg-name="241",Yeah1 Music
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=422
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vpop.png" tvg-name="248",VPop
-http://50.7.104.130:1935/liveStream/vpoptv_1/playlist.m3u8
+http://bichthuvan.com:1935/liveStream/vpoptv_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\Deluxemusic.png" tvg-name="248",VMusic
-http://50.7.104.130:1935/liveStream/mtv_1/playlist.m3u8
+http://bichthuvan.com:1935/liveStream/mtv_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\JCTV.png" tvg-name="248",DamTV
-http://50.7.104.130:1935/liveStream/DAMTV_1/playlist.m3u8
+http://bichthuvan.com:1935/liveStream/DAMTV_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/mtv.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
