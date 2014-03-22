@@ -467,22 +467,6 @@ http://torrent-tv.ru/torrent-online.php?translation=6844
 http://torrent-tv.ru/torrent-online.php?translation=6845
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+ Sport Hits
 http://torrent-tv.ru/torrent-online.php?translation=7017
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 2
-http://video.vpop.vn:1935/live/_definst_/12.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 1: Chelsea - Arsenal
-http://video.vpop.vn:1935/live/_definst_/11.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 5
-http://goo.gl/YA2reE
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 6
-http://goo.gl/Zg90mi
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 7
-http://goo.gl/sKLykn
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 8
-http://goo.gl/msRFo5
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 3
-http://210.211.99.202:1935/live/1.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4: Chelsea - Arsenal
-rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=ca2162f4bb31439acf3cc7ba4062209f/nguyenxuandat_12345678 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?07262013 pageUrl=http://tv.csmtalk.vn
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=20
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
