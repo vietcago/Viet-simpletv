@@ -726,7 +726,7 @@ http://123.29.74.98/live.vs?c=vstv084&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Animal planet.png" tvg-name="143",Animal Planet HD
 rtmp://$OPT:rtmp-raw=rtmp://s01.webport.tv/promo/mtv live=1
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
-http://m20.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=aH-ndZprU6WLCS1yfV9Z9A&time=1392646654&io=LKQm4UrSeh3uHo07
+http://202.76.72.141:30080/Entry/8130?m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/animal_planet.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
