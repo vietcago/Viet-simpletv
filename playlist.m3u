@@ -1,3 +1,4 @@
+
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
 http://123.29.73.66/live.vs?c=vstv002&q=high
@@ -60,19 +61,19 @@ rtmp://117.103.224.31/live//livestream?token=nothing&time=null
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC16.png" tvg-name="44",VTC16
 http://123.29.73.66/live.vs?c=vstv042&q=high
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv4.png" tvg-name="48",SCTV4
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv4_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv4_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv5.png" tvg-name="49",SCTV5
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv5_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv5_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv6.png" tvg-name="50",SCTV6
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv6_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv6_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv7.png" tvg-name="51",SCTV7
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv7_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv7_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv8.png" tvg-name="52",SCTV8
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv8_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv8_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv10.png" tvg-name="54",SCTV10
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv10_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv10_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv13.png" tvg-name="57",SCTV13
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv13_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv13_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTV1.png" tvg-name="63",HTV 1
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv1.360p.stream/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
@@ -232,7 +233,7 @@ rtmp://m22.megafun.vn/hctv/vstv011?token=nothing&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 2.png" tvg-name="153",HaNoiTV 2
 rtmp://m22.megafun.vn/hctv/vstv012?token=nothing&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL1
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//thvl_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//thvl_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\THVL2.png" tvg-name="154",THVL2
 rtmp://123.30.108.77/livepkgr//livestream2
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\btv1.png" tvg-name="155",BTV1
@@ -248,7 +249,7 @@ rtmp://$OPT:rtmp-raw=rtmp://123.29.75.131:1935/thdn/ playpath=dn2.stream swfUrl=
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DRT.png" tvg-name="205",DRT1
 rtmp://222.255.167.159/live/livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LongAnTV.png" tvg-name="158",LongAnTV
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//la34_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//la34_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\CanThoTV.png" tvg-name="159",CanThoTV
 rtmp://118.69.205.223/livepkgr/livestream1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KienGiangTV.png" tvg-name="161",KienGiangTV
@@ -372,9 +373,9 @@ http://tv.hdviet.com/kenh-6/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 http://123.29.73.66/live.vs?c=vstv096&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/glive//sctv15_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//sctv15_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/glive//sctvhdthethao_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//sctvhdthethao_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể thao
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_the_thao.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",True Sport HD
@@ -496,15 +497,15 @@ rtmp://m22.megafun.vn/hctv/vstv003?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc9.png" tvg-name="38",VTC9
 rtmp://m22.megafun.vn/hctv/vstv010?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv1.png" tvg-name="45",SCTV1
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv1_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv1_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="53",SCTV9
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv9_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv9_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv14.png" tvg-name="58",SCTV14
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv14_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv14_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv16.png" tvg-name="60",SCTV16
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv16_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv16_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv17.png" tvg-name="61",SCTV17
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv17_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv17_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_phim.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
@@ -576,9 +577,9 @@ rtmp://42.117.5.161/channels//yeah1family.480p?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="46",SCTV2
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv2_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv2_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv11.png" tvg-name="55",SCTV11
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv11_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv11_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC+.png" tvg-name="77",HTVC+
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_plus.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
@@ -686,7 +687,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=59
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC" tvg-logo="..\Channel\logo\VTC11.png" tvg-name="40",VTC11
 http://123.29.73.66/live.vs?c=vstv050&q=high
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv3_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv3_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV 3
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv3.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\Logo\Cartoon Network.png" tvg-name="118",Cartoon Network
@@ -712,7 +713,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=48
 #EXTINF:-1 $ExtFilter="Document" group-title="VTVcab" tvg-logo="..\Channel\Logo\Nat Geo.png" tvg-name="125",Nat Geo
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=50
 #EXTINF:-1 $ExtFilter="Document" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv12.png" tvg-name="56",SCTV12
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//sctv12_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv12_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Document" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Du lich.png" tvg-name="73",HTVC Du lịch
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/du_lich.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="MyTV" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
