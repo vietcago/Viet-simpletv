@@ -395,10 +395,6 @@ rtmp://m22.megafun.vn/hctv/vstv018
 http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel256
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://123.30.208.35:8081/m3ugen/rtmplive/live/vtv3hd1?key=598dff3e7546e018510dac49f47bda57
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-rtmp://103.7.57.211/live/sport1.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+PM.png" tvg-name="13",K+PM
-rtmp://103.7.57.211/live/sport2.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
@@ -432,7 +428,7 @@ http://torrent-tv.ru/torrent-online.php?translation=5116
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 http://torrent-tv.ru/torrent-online.php?translation=4951
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol
-http://allfon.tv/tv-torrent/НТВ-ПЛЮС_Футбол.acelive
+http://torrent-tv.ru/torrent-online.php?translation=6308
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
 http://torrent-tv.ru/torrent-online.php?translation=383
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="107",Eurosport
