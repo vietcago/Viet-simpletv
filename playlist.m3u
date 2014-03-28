@@ -394,7 +394,7 @@ rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
 http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel256
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
-http://123.30.208.35:8081/m3ugen/rtmplive/live/vtv3hd1?key=598dff3e7546e018510dac49f47bda57
+http://123.30.208.35:8081/m3ugen/rtmplive/live/vtv3hd2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
@@ -603,6 +603,10 @@ http://123.29.74.98/live.vs?c=vstv054&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.98/live.vs?c=vstv040&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\yousingkaraoke.png" tvg-name="137",Yousing Karaoke HD
 rtmp://unirtmp.tulix.tv/globaltv5/myStream.sdp
+#EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\wow music hd.png" tvg-name="141",Wow Music HD
+http://110.164.192.112:1935/LiveStream/wow_1fhu5522525362152136aonnid2156824.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel.png" tvg-name="140",M Channel HD
+http://himedia.site50.net/tot.php?8237601ce3ea4bae8332ebb0d88dba87
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\LIFETV.png" tvg-name="150",LifeTV Music
@@ -643,8 +647,6 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=61
 http://123.29.74.98/live.vs?c=vstv083&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="News" group-title="MyTV" tvg-logo="..\Channel\logo\Deutsche Welle.png" tvg-name="131",DW
 http://123.29.74.98/live.vs?c=vstv085&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
-#EXTINF:-1 $ExtFilter="News" group-title="HDTV" tvg-logo="..\Channel\logo\NHK WORLD HD.png" tvg-name="144",NHK World HD
-rtmp://ca-1.net.fivecool.org/nhkw/gwm
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
 rtmp://live.vnanet.vn/Live/DRC
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\vov-tv.png" tvg-name="148",VOV TV
@@ -659,8 +661,12 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//antv_2 live=1 swfUrl=http://tv24
 rtmp://lm04.everyon.tv:1935/ptv4/phd16
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
 http://202.75.23.33:8800/live/ch28/01.m3u8
+#EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\TV5Monde.png" tvg-name="130",TV5 Monde Asie
+http://110.164.192.112:1935/LiveStream/tv5monde_1fkdjfgfdyfytafdastrdadxdasxrsadadqw876646.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Deutsche Welle.png" tvg-name="131",DW
+http://110.164.192.112:1935/LiveStream/dw_1kigkgkigkgiggk586555.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
+http://110.164.192.112:1935/LiveStream/aljazeera_1ghjkhjuiuiiuioo778909.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
 rtmp://lm01.everyon.tv/ptv//phd36
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
