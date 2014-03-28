@@ -8,7 +8,7 @@ http://123.29.73.66/live.vs?c=vstv035&q=high
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 http://123.29.73.66/live.vs?c=vstv014&q=high
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
-rtmp://$OPT:rtmp-raw=rtmp://112.197.2.155/live//vtv9_3 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//vtv9_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="8",VTV Huế
 rtmp://m22.megafun.vn/hctv/vstv024
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="9",VTV Cần Thơ 1
@@ -58,7 +58,7 @@ http://123.29.73.66/live.vs?c=vstv055&q=high
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC14.png" tvg-name="43",VTC14
 rtmp://117.103.224.31/live//livestream?token=nothing&time=null
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC16.png" tvg-name="44",VTC16
-http://123.29.73.66/live.vs?c=vstv042&q=high
+http://123.29.73.66/live.vs?c=vstv046&q=high
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv4.png" tvg-name="48",SCTV4
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv4_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv5.png" tvg-name="49",SCTV5
@@ -210,7 +210,7 @@ http://123.29.74.98/live.vs?c=vstv050&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\VTC14.png" tvg-name="43",VTC14
 http://123.29.74.98/live.vs?c=vstv049&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\VTC16.png" tvg-name="44",VTC16
-http://123.29.74.98/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+http://123.29.74.98/live.vs?c=vstv046&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtc2.png" tvg-name="31",VTC2
 http://123.29.74.98/live.vs?c=vstv006&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
@@ -280,9 +280,9 @@ rtmp://$OPT:rtmp-raw=rtmpt://210.245.89.40:1935/live/ playpath=livestream live=1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TienGiangTV.png" tvg-name="178",TienGiangTV
 rtsp://123.30.141.4/rtv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangNinhTV.png" tvg-name="179",QuangNinhTV 1
-rtmp://m35.megafun.vn/hctv/vstv020
+rtmp://m35.megafun.vn/hctv/vstv020?token=noting&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangNinhTV.png" tvg-name="179",QuangNinhTV 3
-rtmp://m35.megafun.vn/hctv/vstv021
+rtmp://m35.megafun.vn:1935/hctv/vstv021?token=noting&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LamDongTV.png" tvg-name="180",LamDongTV
 rtmp://m22.megafun.vn/hctv/vstv022
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\VinhPhucTV.png" tvg-name="181",VinhPhucTV
@@ -398,7 +398,7 @@ http://123.30.208.35:8081/m3ugen/rtmplive/live/vtv3hd2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
-http://123.29.74.83/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+http://123.29.73.66/live.vs?c=vstv042&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
 http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel211
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\btv sports.png" tvg-name="102",BTV Sports
