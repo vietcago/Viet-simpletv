@@ -773,3 +773,5 @@ rtmp://123.30.50.59/live/vov1
 rtmp://123.30.50.59/live/vov2
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV3
 rtmp://123.30.50.59/live/vov3
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1 (Phát khi có trận đấu)
+rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/nguyenxuandat_0123 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?07262013 pageUrl=http://tv.csmtalk.vn
