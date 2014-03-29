@@ -424,9 +424,9 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=bt2rx swfUrl=http://
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
-http://torrent-tv.ru/torrent-online.php?translation=5115
+http://ttv-kv-torrent1.ytv.su/trkfutbol.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol+.png" tvg-name="188",Futbol 2
-http://torrent-tv.ru/torrent-online.php?translation=5116
+http://ttv-kv-torrent1.ytv.su/futbolplus.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 http://torrent-tv.ru/torrent-online.php?translation=4951
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol
