@@ -1,4 +1,3 @@
-
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
 http://123.29.73.66/live.vs?c=vstv002&q=high
@@ -420,14 +419,8 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect/23700 swfurl=http://97ff0
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bt1rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt1rx&vw=620&vh=490
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=bt2rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2rx&vw=620&vh=490
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol
-http://api-vk.kulertv.ru/suki_ne_troz.php?ch=245
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="200",NTV+ Futbol 2
-http://api-vk.kulertv.ru/suki_ne_troz.php?ch=250
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Futbol.png" tvg-name="189",Futbol 1
 http://api-vk.kulertv.ru/suki_ne_troz.php?ch=115
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Futbol+.png" tvg-name="188",Futbol 2
-http://api-vk.kulertv.ru/suki_ne_troz.php?ch=250
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
