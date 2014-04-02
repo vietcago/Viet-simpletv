@@ -423,6 +423,8 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bt1rx swfUrl=http://
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=bt2rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2rx&vw=620&vh=490
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Futbol.png" tvg-name="189",Futbol 1
 http://api-vk.kulertv.ru/suki_ne_troz.php?ch=115
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\WealthTV HD.png" tvg-name="69",WWE
+rtmp://$OPT:rtmp-raw=rtmp://37.220.32.44:443/liverepeater/stream28 live=1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream1.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
