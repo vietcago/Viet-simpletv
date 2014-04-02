@@ -613,7 +613,7 @@ http://bichthuvan.com:1935/liveStream/DAMTV_1/playlist.m3u8
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/mtv.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/channelv.360p.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="141",B4U Music
+#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="255",B4U Music
 http://110.164.192.112:1935/LiveStream/b4umusic_1kieognskleo684283.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Rocks.png" tvg-name="111",MTV Rocks
 http://torrent-tv.ru/torrent-online.php?translation=1795
