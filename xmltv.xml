@@ -1480,6 +1480,13 @@
 <display-name lang="vi">B4U Music</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="255">
-<title lang="vi">Kênh  Âm nhạc Âns Độ</title>
+<title lang="vi">Kênh  Âm nhạc Ấn Độ</title>
+</programme>
+</programme>
+<channel id="256">
+<display-name lang="vi">VETV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="256">
+<title lang="vi">Kênh Game TV</title>
 </programme>
 </tv>
