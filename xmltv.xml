@@ -1476,4 +1476,10 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="254">
 <title lang="vi">Kênh  tổng hợp đài truyền hình Lào Cai</title>
 </programme>
+<channel id="255">
+<display-name lang="vi">B4U Music</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="255">
+<title lang="vi">Kênh  Âm nhạc Âns Độ</title>
+</programme>
 </tv>
