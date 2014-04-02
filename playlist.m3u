@@ -353,6 +353,8 @@ http://bichthuvan.com:1935/liveStream/lifeworld_1/playlist.m3u8
 http://bichthuvan.com:1935/liveStream/viettv24_1/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\eL Garage TV.png" tvg-name="248",BBBG
 http://bichthuvan.com:1935/liveStream/BBBG_1/playlist.m3u8
+#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\HD Process.png" tvg-name="256",VETV
+http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://123.29.73.66/live.vs?c=vstv004&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
