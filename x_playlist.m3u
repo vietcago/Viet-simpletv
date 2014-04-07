@@ -20,7 +20,7 @@ rtmp://lm02.everyon.tv/ptv2//phd766
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Night Club.png" tvg-name="203",Night Club
 http://torrent-tv.ru/torrent-online.php?translation=1826
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Nuart TV.png" tvg-name="203",NuArt
-04e9d0146789633628ecfa9010b5ddd85fbb7246
+http://torrent-tv.ru/torrent-online.php?translation=8208
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Pink TV.png" tvg-name="203",Pink TV
 rtmp://lm02.everyon.tv/ptv2//phd62
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\RedLight Platinum.png" tvg-name="203",Platinum
