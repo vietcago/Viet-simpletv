@@ -413,6 +413,8 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=bt2rx swfUrl=http://
 http://api-vk.kulertv.ru/suki_ne_troz.php?ch=115
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\WealthTV HD.png" tvg-name="69",WWE
 rtmp://$OPT:rtmp-raw=rtmp://37.220.32.44:443/liverepeater/stream28 live=1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream1.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",beIN Sport 1
+rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_1
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
@@ -616,7 +618,7 @@ rtmp://unirtmp.tulix.tv:1935/globaltv2/myStream.sdp
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\antv.png" tvg-name="147",ANTV
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//antv_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CNN.png" tvg-name="133",CNN
-rtmp://lm04.everyon.tv:1935/ptv4/phd16
+http://61.93.247.210:80/hls/cnn/cnn.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
 http://202.75.23.33:8800/live/ch28/01.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\TV5Monde.png" tvg-name="130",TV5 Monde Asie
@@ -625,10 +627,12 @@ http://110.164.192.112:1935/LiveStream/tv5monde_1fkdjfgfdyfytafdastrdadxdasxrsad
 http://110.164.192.112:1935/LiveStream/dw_1kigkgkigkgiggk586555.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Russia Today.png" tvg-name="129",Russia Today
 rtmp://62.213.85.137/en-stream/primetime
+#EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
+http://88.212.11.206:5000/live/22/22.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
 http://110.164.192.112:1935/LiveStream/aljazeera_1ghjkhjuiuiiuioo778909.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
-rtmp://lm01.everyon.tv/ptv//phd36
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
 http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC Knowledge.png" tvg-name="230",BBC Knowledge
