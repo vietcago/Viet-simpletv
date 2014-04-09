@@ -38,7 +38,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=42
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="148",VOVTV
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=51
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\logo\Yeah1 Special.png" tvg-name="29",VTVcab17
-http://tv.hdviet.com/kenh-40/vietsimpletv.html
+http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=417
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab10
 http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc1.png" tvg-name="30",VTC1
