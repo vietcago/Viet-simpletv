@@ -40,7 +40,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=51
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\logo\Yeah1 Special.png" tvg-name="29",VTVcab17
 http://tv.hdviet.com/kenh-40/vietsimpletv.html
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab10
-http://tv.hdviet.com/kenh-28/vietsimpletv.html
+http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc1.png" tvg-name="30",VTC1
 rtmp://m22.megafun.vn/hctv/vstv005?token=nothing&time=null
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc2.png" tvg-name="31",VTC2
@@ -458,7 +458,7 @@ http://torrent-tv.ru/torrent-online.php?translation=6845
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+ Sport Hits
 http://torrent-tv.ru/torrent-online.php?translation=7017
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
-http://tv.hdviet.com/kenh-30/vietsimpletv.html
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
 http://tv.hdviet.com/kenh-41/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
@@ -550,7 +550,7 @@ http://tvthai123.com/tottv/c316ed9333e54442b25077f0bb3cc269.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\WBTV.png" tvg-name="86",WBTV
 http://tvthai123.com/tottv/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
-http://tv.hdviet.com/kenh-25/vietsimpletv.html
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
 rtmp://42.117.5.161/channels//yeah1family.480p?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
