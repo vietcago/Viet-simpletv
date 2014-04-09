@@ -383,6 +383,10 @@ rtmp://m22.megafun.vn/hctv/vstv018
 http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel256
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\Sun Channel.png" tvg-name="93",Sun Channel HD
 http://tvthai123.com/tottv/ce4efc6a833f424f8d6cdcad5573f369.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="97",CCTV5 HD
+http://jxlive02.jx.ysten.com:8080/ysten-businessmobile/live/cctv-5/longtv.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
+http://203.162.235.26/lives/origin03/vtc3hd.isml/vtc3hd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.74.83/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
@@ -513,16 +517,18 @@ rtmp://42.117.5.161/channels//btv4.480p?token=nothing&time=null
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/thuan_viet.720p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_movies.720p.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\AXN HD.png" tvg-name="81",AXN HD
-http://202.76.72.141:30080/Entry/8138?m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/star_movies.360p.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
-http://117.103.224.75:1935/live/_definst_/VTCHD3/VTCHD3_840x480_1200kbps.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\AXN HD.png" tvg-name="81",AXN HD
+http://203.162.235.26/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX Crime HD.png" tvg-name="136",Fox Crime HD
 http://tvthai123.com/tottv/5028f7ff1d1b4d5f8189690233364737.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
 http://tvthai123.com/tottv/2e0e4b05aa6e428593f3b45b710045b7.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\vtchd2.png" tvg-name="79",VTC HD2
+http://203.162.235.26/lives/origin03/vtchd2hd.isml/vtchd2hd-2096k.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
+http://117.103.224.75:1935/live/_definst_/VTCHD3/VTCHD3_840x480_1200kbps.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\LIFETV.png" tvg-name="244",LifeTV 911
@@ -577,6 +583,8 @@ http://110.164.192.112:1935/LiveStream/wow_1fhu5522525362152136aonnid2156824.str
 http://tvthai123.com/tottv/8237601ce3ea4bae8332ebb0d88dba87.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\MTV Live HD.png" tvg-name="111",MTV Live HD
 http://tvthai123.com/tottv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+#EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\ITV HD.png" tvg-name="42",ITV HD
+http://203.162.235.26/lives/origin03/itvhd.isml/itvhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
