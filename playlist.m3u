@@ -324,7 +324,7 @@ http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_plus.720p.stream/playlist.m3u
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\sctv1.png" tvg-name="45",SCTV Hài HD
 http://live.accessasia.tv:1935/vnptg_channels/mp4:sctvhaihd.480p/playlist.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\VTC1 HD.png" tvg-name="30",VTC1 HD
-http://117.103.224.75:1935/live/_definst_/VTCHD1/VTCHD1_840x480_1200kbps.stream/playlist.m3u8
+http://117.103.224.75:1935/live/_definst_/VTCHD1/smil:VTCHD1_live.smil/chunklist-b3100000.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Special.png" tvg-name="243",Yeah1 Special
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=424
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1TV.png" tvg-name="246",Yeah1 TV
@@ -534,7 +534,7 @@ http://203.162.235.26/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\vtchd2.png" tvg-name="79",VTC HD2
 http://203.162.235.26/lives/origin03/vtchd2hd.isml/vtchd2hd-2096k.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
-http://117.103.224.75:1935/live/_definst_/VTCHD3/VTCHD3_840x480_1200kbps.stream/playlist.m3u8
+http://117.103.224.75:1935/live/_definst_/VTCHD3/smil:VTCHD3_live.smil/chunklist-b3100000.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\LIFETV.png" tvg-name="244",LifeTV 911
