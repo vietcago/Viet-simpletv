@@ -415,6 +415,12 @@ rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 rtmp://$OPT:rtmp-raw=rtmpe://89.46.102.70:443/liveedge playpath=bt1 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
 rtmp://$OPT:rtmp-raw=rtmpe://89.46.102.70:443/liveedge playpath=bt2 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
+http://94.74.65.15/share/channels/channel/id/269/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
+http://94.74.65.15/share/channels/channel/id/275/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sport
+http://tv.goweb.com/share/channels/channel/id/111/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Eurosport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
@@ -591,6 +597,8 @@ http://123.29.73.66/live.vs?c=vstv043&q=high
 http://110.164.192.112:1935/LiveStream/b4umusic_1kieognskleo684283.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV Hits.png" tvg-name="111",MTV Hits
 http://tv.goweb.com/share/channels/channel/id/445/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
+#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Music Box SK.png" tvg-name="111",Music Box
+http://94.74.65.15/share/channels/channel/id/238/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Rocks.png" tvg-name="111",MTV Rocks
 http://torrent-tv.ru/torrent-online.php?translation=1795
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Dance.png" tvg-name="111",MTV Dance
@@ -628,7 +636,7 @@ http://110.164.192.112:1935/LiveStream/dw_1kigkgkigkgiggk586555.stream/playlist.
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Russia Today.png" tvg-name="129",Russia Today
 rtmp://62.213.85.137/en-stream/primetime
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
-http://88.212.11.206:5000/live/22/22.m3u8
+http://tv.goweb.com/share/channels/channel/id/448/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\France 24.png" tvg-name="130",France 24
 http://94.74.65.15/share/channels/channel/id/262/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
