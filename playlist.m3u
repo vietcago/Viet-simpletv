@@ -350,7 +350,7 @@ http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://123.29.73.66/live.vs?c=vstv004&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://tv.hdviet.com/kenh-37/vietsimpletv.html
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTVCab3.smil/chunklist_w45608289_b3000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
@@ -385,6 +385,10 @@ http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel256
 http://jxlive02.jx.ysten.com:8080/ysten-businessmobile/live/cctv-5/longtv.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
 http://203.162.235.26/lives/origin03/vtc3hd.isml/vtc3hd-2096k.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTV3HD.smil/chunklist_w635899367_b2000.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport+ HD
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/FOXSportPlusHD.smil/chunklist_w1107766643_b3000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.73.66/live.vs?c=vstv033&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
@@ -655,6 +659,8 @@ http://torrent-tv.ru/torrent-online.php?translation=3089
 http://tv.hdviet.com/kenh-36/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Fashion" group-title="MyTV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://123.29.74.98/live.vs?c=vstv041&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:-1 $ExtFilter="Fashion" group-title="HDTV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV HD
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/FashionTVHD.smil/chunklist_w1102490953_b3000.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="HDTV" tvg-logo="..\Channel\Logo\A'lure channel.png" tvg-name="138",A'Lure Channel HD
 http://110.164.192.112:1935/LiveStream/alure_2mugjdlripbmgtrpjvsugmvcadtlkmnvryjgdde9423587168493047.stream/thai.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
