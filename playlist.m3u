@@ -350,13 +350,13 @@ http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://123.29.73.66/live.vs?c=vstv004&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTVCab3.smil/chunklist_w45608289_b3000.m3u8
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTVCab3.smil/chunklist_w45608289_b800.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
 http://tv.hdviet.com/kenh-24/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://tv.hdviet.com/kenh-6/vietsimpletv.html
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTVCab16.smil/chunklist_w654484198_b800.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 http://123.29.73.66/live.vs?c=vstv096&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
