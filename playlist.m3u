@@ -398,7 +398,7 @@ rtmp://$OPT:rtmp-raw=rtmp://livertmp2-cnc.wasu.cn/shanghaisports.flv pageUrl=htt
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
 http://livertmp2-cnc.wasu.cn:1935/guangdongsports.flv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Futbol.png" tvg-name="189",Futbol 1
-http://api-vk.kulertv.ru/suki_ne_troz.php?ch=115
+http://94.74.65.15/share/channels/channel/id/7/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\c+futbol.png" tvg-name="28",C+ Futbol
 http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/04.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
@@ -629,6 +629,8 @@ http://110.164.192.112:1935/LiveStream/dw_1kigkgkigkgiggk586555.stream/playlist.
 rtmp://62.213.85.137/en-stream/primetime
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
 http://88.212.11.206:5000/live/22/22.m3u8
+#EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\France 24.png" tvg-name="130",France 24
+http://94.74.65.15/share/channels/channel/id/262/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
 http://110.164.192.112:1935/LiveStream/aljazeera_1ghjkhjuiuiiuioo778909.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
