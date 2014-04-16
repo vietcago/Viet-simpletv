@@ -356,7 +356,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
 http://tv.hdviet.com/kenh-24/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTVCab16.smil/chunklist_w654484198_b800.m3u8
+http://tv.hdviet.com/kenh-6/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 http://123.29.73.66/live.vs?c=vstv096&q=high
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
@@ -385,8 +385,6 @@ http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel256
 http://jxlive02.jx.ysten.com:8080/ysten-businessmobile/live/cctv-5/longtv.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
 http://203.162.235.26/lives/origin03/vtc3hd.isml/vtc3hd-2096k.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
-http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTV3HD.smil/chunklist_w635899367_b2000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport+ HD
 http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/FOXSportPlusHD.smil/chunklist_w1107766643_b3000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
