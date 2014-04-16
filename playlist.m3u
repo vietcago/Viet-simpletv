@@ -326,7 +326,7 @@ http://live.accessasia.tv:1935/vnptg_channels/mp4:sctvhaihd.480p/playlist.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\VTC1 HD.png" tvg-name="30",VTC1 HD
 http://117.103.224.75:1935/live/_definst_/VTCHD1/smil:VTCHD1_live.smil/chunklist-b3100000.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\logo\LigTV.png" tvg-name="97",LeTV Sport HD
-http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=fyzq
+http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_sports
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\logo\HIT Music TV.png" tvg-name="111",LeTV Music HD
 http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_mv
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Special.png" tvg-name="243",Yeah1 Special
