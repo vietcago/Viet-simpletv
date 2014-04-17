@@ -325,10 +325,6 @@ http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_plus.720p.stream/playlist.m3u
 http://live.accessasia.tv:1935/vnptg_channels/mp4:sctvhaihd.480p/playlist.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\VTC1 HD.png" tvg-name="30",VTC1 HD
 http://117.103.224.75:1935/live/_definst_/VTCHD1/smil:VTCHD1_live.smil/chunklist-b3100000.m3u8
-#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\logo\LigTV.png" tvg-name="97",LeTV Sport HD
-http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_sports
-#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\logo\HIT Music TV.png" tvg-name="111",LeTV Music HD
-http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_mv
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Special.png" tvg-name="243",Yeah1 Special
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=424
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1TV.png" tvg-name="246",Yeah1 TV
@@ -381,6 +377,8 @@ http://123.29.74.98/live.vs?c=vstv033&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.98/live.vs?c=vstv096&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://123.29.74.98/live.vs?c=vstv004&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\LigTV.png" tvg-name="97",LeTV Sport HD
+http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_sports
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\CCTV5.png" tvg-name="98",CCTV5+ HD
@@ -579,6 +577,8 @@ http://123.29.74.98/live.vs?c=vstv072&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://123.29.74.98/live.vs?c=vstv054&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
 http://123.29.74.98/live.vs?c=vstv040&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
+#EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\logo\HIT Music TV.png" tvg-name="111",LeTV Music HD
+http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_mv
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\wow music hd.png" tvg-name="141",Wow Music HD
 http://110.164.192.112:1935/LiveStream/wow_1fhu5522525362152136aonnid2156824.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
