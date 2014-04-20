@@ -211,10 +211,6 @@ http://123.29.74.98/live.vs?c=vstv091&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb6
 http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 #EXTINF:-1 group-title="Torrent TV" tvg-logo="..\Channel\Logo\OPT1.png" tvg-name="225",OPT 1
 http://torrent-tv.ru/torrent-online.php?translation=7662
-#EXTINF:-1 group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 2
-rtmp://$OPT:rtmp-raw=rtmpe://94.242.228.24:443/liveedge/skiuuu3469 live=1 swfUrl=http://zingo.tv/jwplayer/jwplayer.flash.swf pageUrl=http://zingo.tv/watch.php
-#EXTINF:-1 group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 1
-763f1eb66866110b2f09e8a70b579a55423a8800
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/vtv3.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
@@ -333,6 +329,10 @@ http://torrent-tv.ru/torrent-online.php?translation=6844
 http://torrent-tv.ru/torrent-online.php?translation=6845
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+ Sport Hits
 http://torrent-tv.ru/torrent-online.php?translation=7017
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 2
+rtmp://$OPT:rtmp-raw=rtmpe://94.242.228.24:443/liveedge/skiuuu3469 live=1 swfUrl=http://zingo.tv/jwplayer/jwplayer.flash.swf pageUrl=http://zingo.tv/watch.php
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 1
+763f1eb66866110b2f09e8a70b579a55423a8800
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
