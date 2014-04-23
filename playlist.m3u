@@ -80,7 +80,7 @@ http://m24.megafun.vn/live.vs?c=vstv073&q=high&type=tv&token=3zM8rhlQCKSQHMQMsI5
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phu nu.png" tvg-name="75",HTVC Phụ nữ
 http://m16.megafun.vn/live.vs?c=vstv070&q=high&type=tv&token=hnoM63JVgEUUjbj5JbfHbw&time=1398178190&io=LKQm4UrSeh3uHo07|LFnbTHnASeUdTpvj1RMmWnI8iMTYk6z7/w73Jhd4KDOjv0gEwN|yhjXFBOhKoxaHrmzCBkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NgheAnTV.png" tvg-name="152",NgheAnTV
-http://m24.megafun.vn/live.vs?c=vstv056&q=high&type=tv&token=2wP2AlGaOVFZ0-uyRdeuXw&time=1398189407&io=LKQm4UrSeh3uHo07|LFnbc|ukEaZ/JkrrzWRSKIRwkQJ9lAiWoaBPdMBMiBKjJh/XuJdX2CfBkMjdFPPoL6cx0zqgfurhpILHz7kCrFo403D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m16.megafun.vn/live.vs?c=vstv056&q=high&type=tv&token=wx60ARn0Lstg5tcD9QqS-w&time=1398381557&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 1.png" tvg-name="153",HaNoiTV 1
 rtmp://m22.megafun.vn/hctv/vstv011?token=nothing&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 2.png" tvg-name="153",HaNoiTV 2
@@ -106,7 +106,7 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//la34_2 live=1 swfUrl=http://tv24
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\CanThoTV.png" tvg-name="159",CanThoTV
 rtmp://118.69.205.223/livepkgr/livestream1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KienGiangTV.png" tvg-name="161",KienGiangTV
-http://m22.megafun.vn/live.vs?c=vstv100&q=high&type=tv&token=RPluyTMVQrBSEQPaErZ3CA&time=1398225468&io=LKQm4UrSeh3uHo07|LFnbQv3hV5U2ihDswLOtAEYt|2oKAHlwwGna92xxlWZ44pAMpkSbx/GV7JDMEMw|cyduYvS3ZTCGinxMOiegdPyWpHD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m16.megafun.vn/live.vs?c=vstv100&q=high&type=tv&token=p5v72fOIJeumT1i6ukspMw&time=1398382483&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiPhongTV.png" tvg-name="162",HaiPhongTV
 rtmp://203.162.238.46/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThaiNguyenTV.png" tvg-name="166",ThaiNguyenTV
@@ -164,9 +164,9 @@ http://hatinhtv.vn/liveevent.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\SCI.png" tvg-name="223",GiaLaiTV
 rtmp://222.255.169.132/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaNamTV.png" tvg-name="237",HaNamTV
-http://m22.megafun.vn/live.vs?c=vstv099&q=high&type=tv&token=SIMI9HXAm2xPlrUxAyuhEw&time=1398225223&io=LKQm4UrSeh3uHo07|LFnbQv3hV5U2ihDswLOtAEYt|00qBKePk4ZC0grbnnjfH0sSumw1oLHQxg3RhNJp7|xb3Q4MiOpphsbW2xQgT5APizD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m16.megafun.vn/live.vs?c=vstv099&q=high&type=tv&token=Rn5CrtBXGJupxoeUkrt39w&time=1398382217&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangBinhTV.png" tvg-name="238",QuangBinhTV
-http://m22.megafun.vn/live.vs?c=vstv105&q=high&type=tv&token=ywZpQVgYD8VbmwTsim9zWQ&time=1398225885&io=LKQm4UrSeh3uHo07|LFnbQv3hV5U2ihDswLOtAEYt|0G0VzXrbM17fy/ClhvD21Hiku3/iZeI2BS4kvM15vzLRkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m16.megafun.vn/live.vs?c=vstv105&q=high&type=tv&token=-5i1KDH1WFNDdLvPuf-WNw&time=1398382039&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
@@ -180,7 +180,7 @@ rtmp://113.163.216.24/live/livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacLieuTV.png" tvg-name="186",BacLieuTV
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
-http://203.162.235.26/lives/origin01/thanhhoasd.isml/thanhhoasd-1096k.m3u8
+http://m16.megafun.vn/live.vs?c=vstv108&q=high&type=tv&token=PHsSatuik6AjvUNCpF6o5w&time=1398381740&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Australia Network.png" tvg-name="226",Australia Network
 http://m16.megafun.vn/live.vs?c=vstv080&q=high&type=tv&token=abCrgFKyuuo_o2vFjNYdTA&time=1398377447&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
@@ -467,6 +467,8 @@ http://tv.goweb.com/share/channels/channel/id/448/sign/18dc548a05abb23b014800dac
 http://94.74.65.15/share/channels/channel/id/262/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\RAI.png" tvg-name="224",Rai
 http://m22.megafun.vn/live.vs?c=vstv092&q=high&type=tv&token=znVOmZA_8L11tXDo2j3IDw&time=1398225946&io=LKQm4UrSeh3uHo07|LFnbQv3hV5U2ihDswLOtAEYt|1IAvyJU/bGwEHtAGdTnk0ddpf6WS8XW467vzN6bvFj2pBf0tnJtKOTgAPStb2ablXD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+#EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Asia news.png" tvg-name="228",Asia News
+http://m16.megafun.vn/live.vs?c=vstv083&q=high&type=tv&token=t2lVnWXU-aAuIPXP72HgAw&time=1398381007&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
 http://110.164.192.112:1935/LiveStream/aljazeera_1ghjkhjuiuiiuioo778909.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
