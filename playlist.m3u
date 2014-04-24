@@ -291,6 +291,16 @@ http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel256
 http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel211
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\LigTV.png" tvg-name="97",LeTV Soccer HD
 http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_zuqiu
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/THETHAO_HD_3000.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/BONGDATV_HD_3000.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport+ HD
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/FOX_SPORT_HD_3000.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\sctv18.png",SCTV Thethao HD
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/SCTV_THETHAO_HD_3000.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
+http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTV3_HD_3000.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
