@@ -297,7 +297,7 @@ http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/THETHAO_HD_3000.stream/playlist.m3
 http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/BONGDATV_HD_3000.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport+ HD
 http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/FOX_SPORT_HD_3000.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\sctv18.png",SCTV Thethao HD
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\sctv18.png" tvg-name="62",SCTV Thethao HD
 http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/SCTV_THETHAO_HD_3000.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTV3_HD_3000.stream/playlist.m3u8
