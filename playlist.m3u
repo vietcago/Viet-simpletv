@@ -167,6 +167,10 @@ rtmp://222.255.169.132/live//livestream
 http://m22.megafun.vn/live.vs?c=vstv099&q=high&type=tv&token=wZQs1PqHWblqQY6xlJ7JAQ&time=1398468925&io=LKQm4UrSeh3uHo07|LFnbVU1z5qWK9YQ41aAMu2Dnm/fCVqcnmqPxie0bZtUvnqZZE4a7TZOV1WfQ2RAzG|XiA7RYLWVAoiXlXlUyM/xRyPD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangBinhTV.png" tvg-name="238",QuangBinhTV
 http://m24.megafun.vn/live.vs?c=vstv105&q=high&type=tv&token=v7_oBE2n502hdSG3n9PsxQ&time=1398469217&io=LKQm4UrSeh3uHo07|LFnbc6dUeFQfewKklLw1XssENYm7xe6zDoVfSXbS1Dw1HNsjyR78yi3AEgSKQpdkJ9ckXQ4MiOpphsbW2xQgT5APizD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DRT.png" tvg-name="205",DRT2
+http://m16.megafun.vn/live.vs?c=vstv061&q=high&type=tv&token=kTixuxkTLScsPwe1hN-J-w&time=1398524005&io=LKQm4UrSeh3uHo07|LFnbWEBCFDCF/1NBbdlTSrZ0xfGndbHM/hpSlImZ|AP5hzB3U32CSwu3BYJ|dW1YdWmSRzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacNinhTV.png" tvg-name="164",BacNinhTV
+http://m22.megafun.vn/live.vs?c=vstv067&q=high&type=tv&token=jTqBlPzEhi208gBpvxbO_Q&time=1398523655&io=LKQm4UrSeh3uHo07|LFnbXeK2fE3V7OA84tyqwsFmrueoAr0DgduNdnbJSJcaxPyulnxd/u0RN4ASMdyi6OaoRzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
@@ -183,6 +187,8 @@ rtmp://113.161.218.10/live//BTV.test
 http://m22.megafun.vn/live.vs?c=vstv108&q=high&type=tv&token=w7V5Z0kazNN46RzIAz1gwA&time=1398469335&io=LKQm4UrSeh3uHo07|LFnbc6dUeFQfewKklLw1XssENaMC82yWfR3Vc55fP1vM2XtkCiPsjdNJAQhKl9J2rjcYqK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Australia Network.png" tvg-name="226",Australia Network
 http://m24.megafun.vn/live.vs?c=vstv080&q=high&type=tv&token=-WoEVkM6wwt2_4sWdMR8Vw&time=1398468674&io=LKQm4UrSeh3uHo07|LFnbVU1z5qWK9YQ41aAMu2Dnm88d57AKUVJXXO0tbtg/BsJaHuDELL/JJ6YgS2z|BafitLdk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\NHK World.png" tvg-name="144",NHK World
+http://m24.megafun.vn/live.vs?c=vstv076&q=high&type=tv&token=Nc4yVypdchv0ClWCat8DpA&time=1398524193&io=LKQm4UrSeh3uHo07|LFnbWEBCFDCF/1NBbdlTSrZ0xcqxZFvdWBAVBDwqcUrffTvbiohy5VGP4nWaXcmFFjyzpBf0tnJtKOTgAPStb2ablXD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv2.720p.stream/playlist.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7 HD.png" tvg-name="67",HTV7 HD
@@ -221,6 +227,8 @@ http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 http://m24.megafun.vn/live.vs?c=vstv086&q=high&type=tv&token=f_UZKtmgmVUwOhAT9Gdaaw&time=1398469484&io=LKQm4UrSeh3uHo07|LFnbc6dUeFQfewKklLw1XssENYpNR01cmW3MCgwjHoIHn5Km9s6y9KfVyj5|0Mr6USa8kzqgfurhpILHz7kCrFo403D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\HiTV.png" tvg-name="221",HiTV
 http://m22.megafun.vn/live.vs?c=vstv088&q=high&type=tv&token=fbx4bMCWNRZQcochogZ0Dg&time=1398469568&io=LKQm4UrSeh3uHo07|LFnbc6dUeFQfewKklLw1XssENa5dJUi5BXbYKioYhcX41bRbvr4GwbTiMWGg4ZDJXfUShzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+#EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\TVM.png" tvg-name="222",TVM
+http://m16.megafun.vn/live.vs?c=vstv087&q=high&type=tv&token=j1BBkcPAeyaX4ef8iDy6pA&time=1398524784&io=LKQm4UrSeh3uHo07|LFnbWEBCFDCF/1NBbdlTSrZ0xfuJhZQyRLFiqcwYs4r4hRe6Yp1EXM1G|wQxE|i77bkpovS3ZTCGinxMOiegdPyWpHD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="Torrent TV" tvg-logo="..\Channel\Logo\OPT1.png" tvg-name="225",OPT 1
 http://torrent-tv.ru/torrent-online.php?translation=7662
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
@@ -409,54 +417,6 @@ rtmp://115.146.123.95/liveedge/lifetv3.stream
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=418
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\4 Fun TV.png" tvg-name="248",Hài 247
 http://bichthuvan.com:1935/liveStream/hai_1/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Blue Hustler.png" tvg-name="203",Blue Hustler
-http://torrent-tv.ru/torrent-online.php?translation=5265
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Porn.png" tvg-name="203",But Go
-rtmp://lm01.everyon.tv/ptv//phd772
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Daring TV.png" tvg-name="203",Daring TV
-http://torrent-tv.ru/torrent-online.php?translation=2591
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
-rtmp://lm02.everyon.tv/ptv2//phd63
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Girls TV.png" tvg-name="203",Girls 4U TV
-rtmp://lm01.everyon.tv/ptv//phd501
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hotgirl
-rtmp://lm02.everyon.tv/ptv2//phd59
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD.png" tvg-name="203",JAV HD
-http://www.youtube.com/playlist?list=PLa6JxDuf-__oWr8wCfFcpdfDXjJF4I6yT
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png" tvg-name="203",Live Ting TV
-rtsp://lm02.everyon.tv/ptv2/phd64
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Midnight.png" tvg-name="203",Midnight
-rtmp://lm02.everyon.tv/ptv2//phd766
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Night Club.png" tvg-name="203",Night Club
-http://torrent-tv.ru/torrent-online.php?translation=1826
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Nuart TV.png" tvg-name="203",NuArt
-http://torrent-tv.ru/torrent-online.php?translation=5617
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Pink TV.png" tvg-name="203",Pink TV
-rtmp://lm02.everyon.tv/ptv2//phd62
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\RedLight Platinum.png" tvg-name="203",Platinum
-http://torrent-tv.ru/torrent-online.php?translation=4967
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy
-http://torrent-tv.ru/torrent-online.php?translation=416
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy Korea
-rtmp://lm03.everyon.tv/ptv3//phd499
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playy.png" tvg-name="203",Playy 19+
-rtmp://lm03.everyon.tv/ptv3//phd769
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Asia RED ON.png" tvg-name="203",Red On HD
-rtmp://lm02.everyon.tv/ptv2//phd60
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Rusnight.png" tvg-name="203",Rusnight
-http://torrent-tv.ru/torrent-online.php?translation=1209
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Sakura TV.png" tvg-name="203",Sakura TV
-rtmp://lm03.everyon.tv/ptv3//pld61
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SPICE TV.png" tvg-name="203",Spice TV
-rtmp://lm03.everyon.tv/ptv3//phd497
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\2 HOT.png" tvg-name="203",The 0
-rtmp://lm03.everyon.tv/ptv3//phd771
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\21+.png" tvg-name="203",Viet Sex TV
-rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream2
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SEX 1 tv.png" tvg-name="203",XXX HD
-http://torrent-tv.ru/torrent-online.php?translation=7405
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SEX 2 tv.png" tvg-name="203",XXX HD2
-http://torrent-tv.ru/torrent-online.php?translation=7797
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
 http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
