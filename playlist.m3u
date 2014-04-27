@@ -254,7 +254,7 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//sctvhdthethao_2 live=1 swfUrl=h
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể thao
 http://m40.megafun.vn/live.vs?c=vstv047&q=high&type=tv&token=B923clyRLvTls7BDDQpZ1Q&time=1399304374&io=LKQm4UrSeh3uHo07|LFnbYNyBpacKvgqPwKipx||L7FUFEXEO14yTuTsFT3|akJLjOqDBcujX68LiBa|Xz8Abw7RYLWVAoiXlXlUyM/xRyPD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
-http://m22.megafun.vn/live.vs?c=vstv033&q=high&type=tv&token=oT0u2XxOGYWXydI0kvdH-g&time=1398467528&io=LKQm4UrSeh3uHo07|LFnbYs9AUjgZ6LVcCGmWyEhEAZBIAi4TA5v7aaGEBibR//ath7KnsQ|2LT05owc|QpY7tLdk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m22.megafun.vn/live.vs?c=vstv033&q=high&type=tv&token=mq-tdqRaXPMQ-MbdsJ2z2w&time=1398672397&io=LKQm4UrSeh3uHo07|LFnbXKr2pN/g|54X2u8hhCTafcVpfGxlexnSFk8ZJyihUJ46gJay|IIKQkI0dd19pQnRtLdk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://m22.megafun.vn/live.vs?c=vstv042&q=high&type=tv&token=uC8o_b-MuBc72_Fj2TKyUg&time=1398565214&io=LKQm4UrSeh3uHo07|LFnbamfK55YcNQeGUUH7Z35EkYzLIl6SCDVve9hG/u|TY/ofA6K1Jj9|CsDMZwCKtuwixkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CCTV5.png" tvg-name="97",CCTV5
@@ -281,8 +281,6 @@ rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bt1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490 live=true timeout=10
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 live=true timeout=10
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
-http://94.74.65.15/share/channels/channel/id/269/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\LigTV.png" tvg-name="97",LeTV Sport HD
 http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_sports
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
