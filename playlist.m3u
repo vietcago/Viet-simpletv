@@ -283,10 +283,6 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bt1x swfUrl=http://w
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 live=true timeout=10
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 http://94.74.65.15/share/channels/channel/id/269/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
-http://94.74.65.15/share/channels/channel/id/275/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sport
-http://tv.goweb.com/share/channels/channel/id/111/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\LigTV.png" tvg-name="97",LeTV Sport HD
 http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_sports
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
@@ -399,8 +395,6 @@ http://m16.megafun.vn/live.vs?c=vstv037&q=high&type=tv&token=tUZ2A6sf0mLQ0a8ETW2
 http://m40.megafun.vn/live.vs?c=vstv038&token=ahYH6gZmLHQEz2wMiz214A&time=1398935017&q=high&type=tv&tk=1af967ddb3e3ce2fb0faf8dfd688cde1
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
 http://m16.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=T0hWKIIjjq7A7ydbDRTvYA&time=1401124880&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
-#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX.png" tvg-name="136",Fox
-http://94.74.65.15/share/channels/channel/id/62/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/thuan_viet.720p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
@@ -435,12 +429,6 @@ http://m22.megafun.vn/live.vs?c=vstv040&q=high&type=tv&token=xRCI9UEQEbRMYpc6HdN
 http://m22.megafun.vn/live.vs?c=vstv043&q=high&type=tv&token=qDoDmMHIBawyh3MfyRIHAg&time=1401614861&io=LKQm4UrSeh3uHo07|
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="255",B4U Music
 http://110.164.192.112:1935/LiveStream/b4umusic_1kieognskleo684283.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV Hits.png" tvg-name="111",MTV Hits
-http://tv.goweb.com/share/channels/channel/id/445/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
-#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Music Box SK.png" tvg-name="111",Music Box
-http://94.74.65.15/share/channels/channel/id/238/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
-#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV Rocks.png" tvg-name="111",MTV Rock
-http://202.75.23.35:8800/live/ch42/01.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\wow music hd.png" tvg-name="141",Wow Music HD
 http://110.164.192.112:1935/LiveStream/wow_1fhu5522525362152136aonnid2156824.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
@@ -541,8 +529,6 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv12_2 live=1 swfUrl=http://tv
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/du_lich.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\TLC.png" tvg-name="227",TLC
 http://m24.megafun.vn/live.vs?c=vstv084&q=high&type=tv&token=Zf0KyCM4MAeag3S2swqX0g&time=1398565530&io=LKQm4UrSeh3uHo07|LFnbamfK55YcNQeGUUH7Z35EkYhZgDRR3fbeINXoCh3EcHDumaz6vpQoF2xcFzwA11BKRzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
-#EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Nat Geo WILD.png" tvg-name="125",Nat Geo Wild
-http://94.74.65.15/share/channels/channel/id/214/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Nat Geo.png" tvg-name="125",NatGeo
 http://tv.hdviet.com/kenh-27/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
