@@ -231,9 +231,9 @@ http://m16.megafun.vn/live.vs?c=vstv088&q=high&type=tv&token=U75VFBcsUMEhzXcp4Ss
 http://m16.megafun.vn/live.vs?c=vstv087&q=high&type=tv&token=j1BBkcPAeyaX4ef8iDy6pA&time=1398524784&io=LKQm4UrSeh3uHo07|LFnbWEBCFDCF/1NBbdlTSrZ0xfuJhZQyRLFiqcwYs4r4hRe6Yp1EXM1G|wQxE|i77bkpovS3ZTCGinxMOiegdPyWpHD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="Torrent TV" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
 http://torrent-tv.ru/torrent-online.php?translation=7662
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday All Match 1
-763f1eb66866110b2f09e8a70b579a55423a8800
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday All Match 2
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 1
+c0df7c0c64d8f94eace5a3e313ef2a766e51d5d3
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 2
 rtmp://$OPT:rtmp-raw=rtmp://37.220.32.44:443/liverepeater/23697 live=1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://m22.megafun.vn/live.vs?c=vstv004&q=high&type=tv&token=Yray4JSTrsnW3JW3Lt1Tjg&time=1398492557&io=LKQm4UrSeh3uHo07|LFnbZpks2biSNpoqLQilryNG5imSpPIT2vnHHx58TW1lA6IjU3r5QphBoub/Z1NdQAiN9Ldk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
