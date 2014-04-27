@@ -234,7 +234,9 @@ http://torrent-tv.ru/torrent-online.php?translation=7662
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 1
 c0df7c0c64d8f94eace5a3e313ef2a766e51d5d3
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 2
-rtmp://$OPT:rtmp-raw=rtmp://37.220.32.44:443/liverepeater/23697 live=1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw
+763f1eb66866110b2f09e8a70b579a55423a8800
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 3
+rtmp://$OPT:rtmp-raw=rtmpe://94.242.228.20:443/liveedge/sky19431 live=1 swfUrl=http://zingo.tv/jwplayer/jwplayer.flash.swf pageUrl=http://zingo.tv/watch.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://m22.megafun.vn/live.vs?c=vstv004&q=high&type=tv&token=Yray4JSTrsnW3JW3Lt1Tjg&time=1398492557&io=LKQm4UrSeh3uHo07|LFnbZpks2biSNpoqLQilryNG5imSpPIT2vnHHx58TW1lA6IjU3r5QphBoub/Z1NdQAiN9Ldk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
