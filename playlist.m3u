@@ -565,3 +565,13 @@ rtmp://123.30.50.59/live/vov1
 rtmp://123.30.50.59/live/vov2
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV3
 rtmp://123.30.50.59/live/vov3
+#EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst/discovery.720p.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport+ HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst/espn.720p.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\National Geographic HD.png" tvg-name="125",National Geographic HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst/natgeo.720p.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst/starmovies.720p.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst/starworld.720p.stream/playlist.m3u8
