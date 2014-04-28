@@ -231,12 +231,10 @@ http://m16.megafun.vn/live.vs?c=vstv088&q=high&type=tv&token=U75VFBcsUMEhzXcp4Ss
 http://m16.megafun.vn/live.vs?c=vstv087&q=high&type=tv&token=j1BBkcPAeyaX4ef8iDy6pA&time=1398524784&io=LKQm4UrSeh3uHo07|LFnbWEBCFDCF/1NBbdlTSrZ0xfuJhZQyRLFiqcwYs4r4hRe6Yp1EXM1G|wQxE|i77bkpovS3ZTCGinxMOiegdPyWpHD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="Torrent TV" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
 http://torrent-tv.ru/torrent-online.php?translation=7662
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 1
-c0df7c0c64d8f94eace5a3e313ef2a766e51d5d3
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 2
-763f1eb66866110b2f09e8a70b579a55423a8800
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Sunday 3
-rtmp://$OPT:rtmp-raw=rtmpe://94.242.228.20:443/liveedge/sky19431 live=1 swfUrl=http://zingo.tv/jwplayer/jwplayer.flash.swf pageUrl=http://zingo.tv/watch.php
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Arsenal - Newcastle United
+http://tv.hdviet.com/kenh-6/vietsimpletv.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Arsenal - Newcastle United
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//sctv15_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://m22.megafun.vn/live.vs?c=vstv004&q=high&type=tv&token=Yray4JSTrsnW3JW3Lt1Tjg&time=1398492557&io=LKQm4UrSeh3uHo07|LFnbZpks2biSNpoqLQilryNG5imSpPIT2vnHHx58TW1lA6IjU3r5QphBoub/Z1NdQAiN9Ldk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
@@ -293,16 +291,6 @@ http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel256
 http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel211
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\LigTV.png" tvg-name="97",LeTV Soccer HD
 http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_zuqiu
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
-http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/THETHAO_HD_800.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
-http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/BONGDATV_HD_800.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport+ HD
-http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/FOX_SPORT_HD_800.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\sctv18.png" tvg-name="62",SCTV Thethao HD
-http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/SCTV_THETHAO_HD_800.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
-http://yxtlrjzz.cdnviet.com/cgfqdcl/_definst_/VTV3_HD_800.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
