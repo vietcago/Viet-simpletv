@@ -198,7 +198,9 @@ rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://m22.megafun.vn/live.vs?c=vstv108&q=high&type=tv&token=w7V5Z0kazNN46RzIAz1gwA&time=1398469335&io=LKQm4UrSeh3uHo07|LFnbc6dUeFQfewKklLw1XssENaMC82yWfR3Vc55fP1vM2XtkCiPsjdNJAQhKl9J2rjcYqK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=1
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=
+#EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD S2
+http://tv.hdviet.com/kenh-47/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 rtmp://m35.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
