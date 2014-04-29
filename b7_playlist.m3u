@@ -200,7 +200,7 @@ http://m22.megafun.vn/live.vs?c=vstv108&q=high&type=tv&token=w7V5Z0kazNN46RzIAz1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-http://m22.megafun.vn/live.vs?c=vstv004&q=high&type=tv&token=Yray4JSTrsnW3JW3Lt1Tjg&time=1398492557&io=LKQm4UrSeh3uHo07|LFnbZpks2biSNpoqLQilryNG5imSpPIT2vnHHx58TW1lA6IjU3r5QphBoub/Z1NdQAiN9Ldk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+rtmp://m35.megafun.vn/hctv/vstv004
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://tv.hdviet.com/kenh-37/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
