@@ -486,7 +486,7 @@ http://frdlzsmb.cdnviet.com/psczntp/_definst_/du_lich.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\National Geographic.png" tvg-name="125",National Geographic
 http://tv.hdviet.com/kenh-27/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
-http://m16.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=dI6v8yZwmcoYoTyRDPDhog&time=1398756957&io=LKQm4UrSeh3uHo07|LFnbVJjEGL2JxjJRC2hmMEbHo68hiLEATKeOe3YLbEA9In8zlcGtvOzZ7aCTaNK6YSMbXQ4MiOpphsbW2xQgT5APizD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m22.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=_D7j9KS_KudF6P4qq5Z-Fg&time=1398901644&io=LKQm4UrSeh3uHo07|LFnbUJYyUuJHldVOEZvPeAGbqXPJ|kgKp5m7uxUHZQiOncD53CK3cqNV8PXbr7vViJV|cPEr4XnXe6D2l1TEeWfTH7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 http://m40.megafun.vn/live.vs?c=vstv078&q=high&type=tv&token=FOCuJxpuW9LlkE43IdbvNg&time=1401115652&io=LKQm4UrSeh3uHo07|LFnbR|6mIluLg51x1HP8SsbjZb/fzf534|jTsXCTSyb|
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
