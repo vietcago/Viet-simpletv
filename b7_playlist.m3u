@@ -11,6 +11,8 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=3
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=4
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=5
+#EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD S2
+http://tv.hdviet.com/kenh-49/vietsimpletv.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=6
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="9",VTV Cần Thơ 1
