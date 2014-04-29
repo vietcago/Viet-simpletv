@@ -94,7 +94,7 @@
 <display-name lang="vi">VTVcab3</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="16">
-<title lang="vi">Thể thao TV - Kênh chuyên biệt về thể thao</title>
+<title lang="vi">Thể thao TV - Kênh chuyên đề thể thao - Truyền hình cáp Việt Nam</title>
 </programme>
 <channel id="17">
 <display-name lang="vi">VTVcab4</display-name>
@@ -166,7 +166,7 @@
 <display-name lang="vi">VTVcab16</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="28">
-<title lang="vi">Bóng đá TV phát sóng trực tiếp Ngoại hạng Anh, Tây Ban Nha, Đức, Ý và Pháp</title>
+<title lang="vi">Kênh chuyên đề bóng đá - Truyền hình cáp Việt Nam</title>
 </programme>
 <channel id="29">
 <display-name lang="vi">VTVcab17</display-name>
@@ -1183,10 +1183,10 @@
 <title lang="vi">Kênh tường thuật trực tiếp bóng đá</title>
 </programme>
 <channel id="198">
-<display-name lang="vi">Sport 2 (UA)</display-name>
+<display-name lang="vi">Super Sport</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="198">
-<title lang="vi">Kênh thể thao Ukraina</title>
+<title lang="vi">Kênh thể thao Malaysia</title>
 </programme>
 <channel id="199">
 <display-name lang="vi">NTV+ Futbol</display-name>
