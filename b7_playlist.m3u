@@ -204,7 +204,7 @@ http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD S2
 http://tv.hdviet.com/kenh-47/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-rtmp://m35.megafun.vn/hctv/vstv004
+http://www.htvonline.com.vn/livetv/vtv3-32306E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://tv.hdviet.com/kenh-37/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
