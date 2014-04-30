@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>                                                          
-<tv generator-info-name="Viet-simpletv" site="mytv.com.vn">
- <channel update="i" site="mytv.com.vn" site_id="1" xmltv_id="VTV1">
-<display-name lang="vi">VTV1</display-name>
-</channel>
-</tv>
