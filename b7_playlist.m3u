@@ -336,7 +336,7 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv17_2 live=1 swfUrl=http://tv
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim
 http://m40.megafun.vn/live.vs?c=vstv071&q=high&type=tv&token=l2xXRkLf5Jyr0bfhhaazdQ&time=1401174463&io=LKQm4UrSeh3uHo07|LFnbSYJQNV6YqqiD05eyizMCF7g1I4NU3nXlC4pF47sehuuAj4HobPlkspUiF27cdbLLJBf0tnJtKOTgAPStb2ablXD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
-http://m22.megafun.vn/live.vs?c=vstv048&q=high&type=tv&token=J0QASNdArxQVRmBIDIJGnA&time=1401174641&io=LKQm4UrSeh3uHo07|LFnbSYJQNV6YqqiD05eyizMCF4QHp/|f|lKmudcboXriGrJjjSg8aFK2zl7GIfcUCZ91RzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m16.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=OmdvY_wOuUNEnTYmLLidfQ&time=1398999615&io=LKQm4UrSeh3uHo07|LFnbRNIN4gkeZ|Ctw9ezzyf|b4oydICy2lntNTP01MkeCN/BVGOjFOruSh1fTW2tAZn/qK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
 http://m24.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=mY1mhYH1KWkCeBU942WEnQ&time=1398825449&io=LKQm4UrSeh3uHo07|LFnbejrj82FZO0YwP/n5p4hlk0LiGTfs1aGRaYFVm|5auBJYv4m|EsOV2M6azn9V/M2ycPEr4XnXe6D2l1TEeWfTH7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
@@ -482,7 +482,7 @@ http://frdlzsmb.cdnviet.com/psczntp/_definst_/du_lich.360p.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\National Geographic.png" tvg-name="125",National Geographic
 http://tv.hdviet.com/kenh-27/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
-http://m22.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=_D7j9KS_KudF6P4qq5Z-Fg&time=1398901644&io=LKQm4UrSeh3uHo07|LFnbUJYyUuJHldVOEZvPeAGbqXPJ|kgKp5m7uxUHZQiOncD53CK3cqNV8PXbr7vViJV|cPEr4XnXe6D2l1TEeWfTH7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m24.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=vbY6ESPexCrnunrnFcN1og&time=1398999430&io=LKQm4UrSeh3uHo07|LFnbRNIN4gkeZ|Ctw9ezzyf|b6tQc16Dj|TN8AFYnV0MMjkC8prmsRdk1faJHfeSInth0zqgfurhpILHz7kCrFo403D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
 http://m40.megafun.vn/live.vs?c=vstv078&q=high&type=tv&token=FOCuJxpuW9LlkE43IdbvNg&time=1401115652&io=LKQm4UrSeh3uHo07|LFnbR|6mIluLg51x1HP8SsbjZb/fzf534|jTsXCTSyb|
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
