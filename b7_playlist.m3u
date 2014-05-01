@@ -348,7 +348,7 @@ http://m40.megafun.vn/live.vs?c=vstv036&q=high&type=tv&token=s-OYOPWkDEOgCYZlrhF
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
 http://123.29.73.227/ilive.m3u8?c=vstv037&token=nS1oFAGBUXEjJBqOr4dO1g&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
-http://m40.megafun.vn/live.vs?c=vstv038&token=ahYH6gZmLHQEz2wMiz214A&time=1398935017&q=high&type=tv&tk=1af967ddb3e3ce2fb0faf8dfd688cde1
+http://m24.megafun.vn/live.vs?c=vstv038&q=high&type=tv&token=fIbyzDeN_BUucz-uZ5X3mA&time=1399052897&io=LKQm4UrSeh3uHo07|LFnba|DG3x3j8IYVH8jxEqC0WlMuGH6BfUz/YGn0ZXWsOXJri7NwUOoOyjKgn5RnxfPIIvS3ZTCGinxMOiegdPyWpHD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
 http://m16.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=T0hWKIIjjq7A7ydbDRTvYA&time=1401124880&io=LKQm4UrSeh3uHo07|LFnbeGXz0j6q9ThUGEo|MLV8lLw34nfv|bUNzbPLWkfZ7|
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
