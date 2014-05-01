@@ -4,17 +4,17 @@ http://www.htvonline.com.vn/livetv/vtv6-37336E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="8",VTV Huế
 rtmp://m22.megafun.vn/hctv/vstv024
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=2
+http://www.htvonline.com.vn/livetv/vtv1-32316E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="2",VTV2
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=3
+http://www.htvonline.com.vn/livetv/vtv2-37326E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=4
+http://www.htvonline.com.vn/livetv/vtv4-3131396E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=5
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD S2
 http://tv.hdviet.com/kenh-49/vietsimpletv.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=6
+http://www.htvonline.com.vn/livetv/vtv9-37346E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="9",VTV Cần Thơ 1
 rtmp://113.161.204.167/livepkgr/livestream
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="10",VTV Cần Thơ 2
@@ -56,11 +56,11 @@ http://m40.megafun.vn/live.vs?c=vstv074&q=high&type=tv&token=IalHYREEFgz03oYYxO_
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
 http://m40.megafun.vn/live.vs?c=vstv001&q=high&type=tv&token=kmw9fVRYg9STOUkqRpXG5A&time=1401172402&io=LKQm4UrSeh3uHo07|LFnbVwXDPIIMH1wIxxNr71gNOpKKwWf/62ydHSfvvDELu9glvv|vTzCp9e2kNKxXc05uovS3ZTCGinxMOiegdPyWpHD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV4.png" tvg-name="66",HTV 4
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=42
+http://www.htvonline.com.vn/livetv/htv4-35306E61.html
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\HTV7.png" tvg-name="67",HTV 7
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=37
+http://www.htvonline.com.vn/livetv/htv7-sd-3131336E61.html
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv9.png" tvg-name="68",HTV 9
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=38
+http://www.htvonline.com.vn/livetv/htv9-sd-3131346E61.html
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Gia dinh.png" tvg-name="72",HTVC Gia đình
 http://m24.megafun.vn/live.vs?c=vstv073&q=high&type=tv&token=3zM8rhlQCKSQHMQMsI5mcg&time=1401173707&io=LKQm4UrSeh3uHo07|LFnbVf7r840g7m6d2YwMgNUgfmSfYnQ4Cm29qhzJkjCoap2idbe8TBOMFtGYHmwMgepFHQ4MiOpphsbW2xQgT5APizD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phu nu.png" tvg-name="75",HTVC Phụ nữ
@@ -214,7 +214,7 @@ http://tv.hdviet.com/kenh-6/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16 S2
 http://tv.hdviet.com/kenh-7/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/vtc3.360p.stream/playlist.m3u8
+http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//sctv15_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
@@ -222,7 +222,7 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//sctvhdthethao_2 live=1 swfUrl=h
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15 - 2
 http://tv.hdviet.com/kenh-32/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể Thao S2
-http://tv.hdviet.com/kenh-21/vietsimpletv.html
+http://www.htvonline.com.vn/livetv/htv-the-thao-34386E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể thao
 http://m40.megafun.vn/live.vs?c=vstv047&q=high&type=tv&token=B923clyRLvTls7BDDQpZ1Q&time=1399304374&io=LKQm4UrSeh3uHo07|LFnbYNyBpacKvgqPwKipx||L7FUFEXEO14yTuTsFT3|akJLjOqDBcujX68LiBa|Xz8Abw7RYLWVAoiXlXlUyM/xRyPD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR SPORTS.png" tvg-name="88",Star Sports
@@ -318,11 +318,11 @@ http://tv.hdviet.com/kenh-9/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab1.png" tvg-name="14",VTVcab1
 http://tv.hdviet.com/kenh-39/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/vtc6.360p.stream/playlist.m3u8
+http://www.htvonline.com.vn/livetv/vtc6-3131376E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc9.png" tvg-name="38",VTC9
-http://tv.hdviet.com/kenh-44/vietsimpletv.html
+http://www.htvonline.com.vn/livetv/vtc9-(lets-viet)-3131326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
-http://tv.hdviet.com/kenh-43/vietsimpletv.html
+http://www.htvonline.com.vn/livetv/vtc7--today-tv-3131316E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv1.png" tvg-name="45",SCTV1
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv1_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="53",SCTV9
@@ -336,9 +336,9 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv17_2 live=1 swfUrl=http://tv
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim
 http://m40.megafun.vn/live.vs?c=vstv071&q=high&type=tv&token=l2xXRkLf5Jyr0bfhhaazdQ&time=1401174463&io=LKQm4UrSeh3uHo07|LFnbSYJQNV6YqqiD05eyizMCF7g1I4NU3nXlC4pF47sehuuAj4HobPlkspUiF27cdbLLJBf0tnJtKOTgAPStb2ablXD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
-http://m16.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=OmdvY_wOuUNEnTYmLLidfQ&time=1398999615&io=LKQm4UrSeh3uHo07|LFnbRNIN4gkeZ|Ctw9ezzyf|b4oydICy2lntNTP01MkeCN/BVGOjFOruSh1fTW2tAZn/qK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
-http://m24.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=mY1mhYH1KWkCeBU942WEnQ&time=1398825449&io=LKQm4UrSeh3uHo07|LFnbejrj82FZO0YwP/n5p4hlk0LiGTfs1aGRaYFVm|5auBJYv4m|EsOV2M6azn9V/M2ycPEr4XnXe6D2l1TEeWfTH7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m16.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=OmdvY_wOuUNEnTYmLLidfQ&time=1398999615&io=LKQm4UrSeh3uHo07|LFnbRNIN4gkeZ|Ctw9ezzyf|b4oydICy2lntNTP01MkeCN/BVGOjFOruSh1fTW2tAZn/qK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
 http://m40.megafun.vn/live.vs?c=vstv036&q=high&type=tv&token=s-OYOPWkDEOgCYZlrhFwGA&time=1402315091&io=LKQm4UrSeh3uHo07|LFnbdRq/nc1rgwG7Cc1L/j/bjlL6aj5O/xbqpzFafHn|
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
@@ -376,7 +376,7 @@ rtmp://42.117.5.161/channels//btv4.480p?token=nothing&time=null
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
 http://tv.hdviet.com/kenh-25/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/vtc4.360p.stream/playlist.m3u8
+http://www.htvonline.com.vn/livetv/vtc4-3131366E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="46",SCTV2
@@ -384,7 +384,7 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv2_2 live=1 swfUrl=http://tv2
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv11.png" tvg-name="55",SCTV11
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv11_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC+.png" tvg-name="77",HTVC+
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_plus.360p.stream/playlist.m3u8
+http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-35316E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
 http://m24.megafun.vn/live.vs?c=vstv072&q=high&type=tv&token=Q-twao_vuITSYnLK4YoaAQ&time=1401173897&io=LKQm4UrSeh3uHo07|LFnbVf7r840g7m6d2YwMgNUgflMuGH6BfUz/YGn0ZXWsOXJmKCg527A2vrZXIoNwaFc5xkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
@@ -464,7 +464,7 @@ rtmp://117.103.225.3/live//vtc11_public
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv3_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV 3
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=39
+http://www.htvonline.com.vn/livetv/htv3-34396E61.html
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ANIMAX.png" tvg-name="124",Animax
 http://totiptv.duapp.com/live_proxy/totiptv/live?d3edb48a8bb847c78432270e23ddca73
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
