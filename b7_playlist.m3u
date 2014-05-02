@@ -342,7 +342,7 @@ http://m40.megafun.vn/live.vs?c=vstv071&q=high&type=tv&token=l2xXRkLf5Jyr0bfhhaa
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
-http://m16.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=OmdvY_wOuUNEnTYmLLidfQ&time=1398999615&io=LKQm4UrSeh3uHo07|LFnbRNIN4gkeZ|Ctw9ezzyf|b4oydICy2lntNTP01MkeCN/BVGOjFOruSh1fTW2tAZn/qK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://123.29.73.67/ilive.m3u8?c=vstv077&token=JJSnmhR7kU6sTLAvnuL30Q&time=1400590925&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
 http://m40.megafun.vn/live.vs?c=vstv036&q=high&type=tv&token=s-OYOPWkDEOgCYZlrhFwGA&time=1402315091&io=LKQm4UrSeh3uHo07|LFnbdRq/nc1rgwG7Cc1L/j/bjlL6aj5O/xbqpzFafHn|
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
