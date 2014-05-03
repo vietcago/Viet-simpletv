@@ -436,7 +436,7 @@ http://tv.hdviet.com/kenh-4/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CNN International.png" tvg-name="133",CNN
 http://tv.hdviet.com/kenh-8/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Asia news.png" tvg-name="228",Asia News
-http://cna_hls-lh.akamaihd.net/i/cna_en@8000/index_584_av-b.m3u8
+http://110.164.192.112:1935/LiveStream/chnewsasia_3mcvsefefeaw974542.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
 http://110.164.192.112:1935/LiveStream/aljazeera_1ghjkhjuiuiiuioo778909.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
