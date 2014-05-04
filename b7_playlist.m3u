@@ -275,7 +275,7 @@ http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_zuqiu
 http://www.htvonline.com.vn/livetv/espn-hd-3132346E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Sky Sports 1.png" tvg-name="197",Super Sunday 2
 rtmp://$OPT:rtmp-raw=rtmpe://5.135.128.157:1935/ula/sky19431 live=1 swfUrl=http://zingo.tv/jwplayer/jwplayer.flash.swf pageUrl=http://zingo.tv/watch.php
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\viasat sport baltic.png",Super Sunday 1
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\viasat sport baltic.png" tvg-name="197",Super Sunday 1
 50e891310e24c5939313297e62d3d0afb662d008
 #EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Arena Sport 1.png" tvg-name="197",Super Sunday 3
 66c802c071c173a13214c9e234e08a839bfc3081
