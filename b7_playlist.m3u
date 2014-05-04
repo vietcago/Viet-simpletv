@@ -199,8 +199,6 @@ rtmp://113.163.216.24/live/livestream
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://m22.megafun.vn/live.vs?c=vstv108&q=high&type=tv&token=w7V5Z0kazNN46RzIAz1gwA&time=1398469335&io=LKQm4UrSeh3uHo07|LFnbc6dUeFQfewKklLw1XssENaMC82yWfR3Vc55fP1vM2XtkCiPsjdNJAQhKl9J2rjcYqK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\K+1.png" tvg-name="197",Super Saturday
-66c802c071c173a13214c9e234e08a839bfc3081
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD S2
@@ -236,19 +234,19 @@ rtmp://$OPT:rtmp-raw=rtmp://livertmp2-cnc.wasu.cn/shanghaisports.flv pageUrl=htt
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\GD SPORTS.png" tvg-name="104",GD Sports
 http://livertmp2-cnc.wasu.cn:1935/guangdongsports.flv
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-rtmp://198.50.226.53:1935/send/_definst_/sky1
+rtmp://$OPT:rtmp-raw=rtmp://37.220.32.44:443/liverepeater/23697 live=1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://198.50.226.53:1935/send/_definst_/sky2
+rtmp://$OPT:rtmp-raw=rtmp://37.220.32.44:443/liverepeater/33698 live=1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://198.50.226.53:1935/send/_definst_/sky3
+rtmp://$OPT:rtmp-raw=rtmp://37.220.32.44:443/liverepeater/23699 live=1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://198.50.226.53:1935/send/_definst_/sky4
+rtmp://$OPT:rtmp-raw=rtmp://37.220.32.44:443/liverepeater/23700 live=1 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
 rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 1
-rtmp://198.50.226.53:1935/send/_definst_/bt1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bt1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490 live=true timeout=10
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
-rtmp://198.50.226.53:1935/send/_definst_/bt2
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 live=true timeout=10
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://tv.hdviet.com/kenh-11/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="198",Super Sport 1
@@ -275,6 +273,12 @@ http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel211
 http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_zuqiu
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
 http://www.htvonline.com.vn/livetv/espn-hd-3132346E61.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Sky Sports 1.png" tvg-name="197",Super Sunday 2
+rtmp://$OPT:rtmp-raw=rtmpe://5.135.128.157:1935/ula/sky19431 live=1 swfUrl=http://zingo.tv/jwplayer/jwplayer.flash.swf pageUrl=http://zingo.tv/watch.php
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\viasat sport baltic.png",Super Sunday 1
+50e891310e24c5939313297e62d3d0afb662d008
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Arena Sport 1.png" tvg-name="197",Super Sunday 3
+66c802c071c173a13214c9e234e08a839bfc3081
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
@@ -369,8 +373,6 @@ http://tv.hdviet.com/kenh-31/vietsimpletv.html
 http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
-http://totiptv.duapp.com/live_proxy/totiptv/live?2e0e4b05aa6e428593f3b45b710045b7
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\911.png" tvg-name="244",911
@@ -397,14 +399,10 @@ http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-35316E61.html
 http://m24.megafun.vn/live.vs?c=vstv072&q=high&type=tv&token=Q-twao_vuITSYnLK4YoaAQ&time=1401173897&io=LKQm4UrSeh3uHo07|LFnbVf7r840g7m6d2YwMgNUgflMuGH6BfUz/YGn0ZXWsOXJmKCg527A2vrZXIoNwaFc5xkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
 http://m22.megafun.vn/live.vs?c=vstv043&q=high&type=tv&token=qDoDmMHIBawyh3MfyRIHAg&time=1401614861&io=LKQm4UrSeh3uHo07|
-#EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="255",B4U Music
-http://110.164.192.112:1935/LiveStream/b4umusic_1kieognskleo684283.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
 http://tv.hdviet.com/kenh-26/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\wow music hd.png" tvg-name="141",Wow Music HD
 http://110.164.192.112:1935/LiveStream/wow_1fhu5522525362152136aonnid2156824.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel HD.png" tvg-name="140",M Channel HD
-http://totiptv.duapp.com/live_proxy/totiptv/live?8237601ce3ea4bae8332ebb0d88dba87
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
@@ -475,8 +473,6 @@ rtmp://117.103.225.3/live//vtc11_public
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/live//sctv3_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV 3
 http://www.htvonline.com.vn/livetv/htv3-34396E61.html
-#EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\ANIMAX.png" tvg-name="124",Animax
-http://totiptv.duapp.com/live_proxy/totiptv/live?d3edb48a8bb847c78432270e23ddca73
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
 http://123.29.74.83/ilive.m3u8?c=vstv032&token=ACZYAJZOHEz54FabNU4KFA&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Cartoon Network.png" tvg-name="118",Cartoon Network
