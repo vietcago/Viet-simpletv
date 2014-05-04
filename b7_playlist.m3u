@@ -273,12 +273,6 @@ http://vtime1.cntv.cloudcdn.net:8000/live/flv/channel211
 http://121.199.22.39/blumedia/blueberry_tek/le.php?ch=letv_zuqiu
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
 http://www.htvonline.com.vn/livetv/espn-hd-3132346E61.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Sky Sports 1.png" tvg-name="197",Super Sunday 2
-rtmp://$OPT:rtmp-raw=rtmpe://5.135.128.157:1935/ula/sky19431 live=1 swfUrl=http://zingo.tv/jwplayer/jwplayer.flash.swf pageUrl=http://zingo.tv/watch.php
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\viasat sport baltic.png" tvg-name="197",Super Sunday 1
-50e891310e24c5939313297e62d3d0afb662d008
-#EXTINF:-1 $ExtFilter="Sports" group-title="Trực tiếp bóng đá" tvg-logo="..\Channel\logo\Arena Sport 1.png" tvg-name="197",Super Sunday 3 HD
-66c802c071c173a13214c9e234e08a839bfc3081
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
