@@ -67,6 +67,8 @@ http://m24.megafun.vn/live.vs?c=vstv073&q=high&type=tv&token=3zM8rhlQCKSQHMQMsI5
 http://m16.megafun.vn/live.vs?c=vstv070&q=high&type=tv&token=hnoM63JVgEUUjbj5JbfHbw&time=1398178190&io=LKQm4UrSeh3uHo07|LFnbTHnASeUdTpvj1RMmWnI8iMTYk6z7/w73Jhd4KDOjv0gEwN|yhjXFBOhKoxaHrmzCBkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
 http://tv.hdviet.com/kenh-29/vietsimpletv.html
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Australia Network.png" tvg-name="226",Australia Network
+http://123.29.71.51/ilive.m3u8?c=vstv080&token=tlF2_IGNyURhlKPkfbUElg&time=1400590926&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
 http://www.htvonline.com.vn/livetv/htv2-31336E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7 HD.png" tvg-name="67",HTV7 HD
@@ -396,7 +398,7 @@ http://m24.megafun.vn/live.vs?c=vstv072&q=high&type=tv&token=Q-twao_vuITSYnLK4Yo
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
 http://m22.megafun.vn/live.vs?c=vstv043&q=high&type=tv&token=qDoDmMHIBawyh3MfyRIHAg&time=1401614861&io=LKQm4UrSeh3uHo07|
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
-http://tv.hdviet.com/kenh-26/vietsimpletv.html
+http://123.29.70.3/ilive.m3u8?c=vstv040&token=gCrY9fnPs2DZkROXSTdGSA&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\wow music hd.png" tvg-name="141",Wow Music HD
 http://110.164.192.112:1935/LiveStream/wow_1fhu5522525362152136aonnid2156824.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
