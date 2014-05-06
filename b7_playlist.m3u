@@ -369,8 +369,6 @@ http://tv.hdviet.com/kenh-31/vietsimpletv.html
 http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\AXN HD.png" tvg-name="81",AXN HD
-http://117.103.206.24:1935/live/_definst_/smil:AXNHD/AXNHD_live.smil/chunklist-b1300000.m3u8?token=Dg29siW%2BWyU2pPKoGB7agU8Hu09fC5iOIi3K0am1jfZ3pgjHZjuClYnqAs3kcctqJBKl5yo19BPxYYIKEDlgDPZ1WH2wC368rhwK7YzK%2FHLMgOjHSiK563lkroafzhQmzaortH7BxfoC8RoQstGlT4dHvA%2BAMWsRvgeoThHlHjs%3D
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\911.png" tvg-name="244",911
