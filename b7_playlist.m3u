@@ -315,6 +315,14 @@ http://torrent-tv.ru/torrent-online.php?translation=6918
 http://torrent-tv.ru/torrent-online.php?translation=3256
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="200",NTV+Futbol 2 HD
 http://torrent-tv.ru/torrent-online.php?translation=2977
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\NTV+.png" tvg-name="197",Manchester City -  West Ham United
+c0df7c0c64d8f94eace5a3e313ef2a766e51d5d3
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\Viasat Football.png" tvg-name="197",Liverpool - Newcastle United
+0bf8b3b390ec2af08d4fa4464814163e92200add
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\NTV+.png" tvg-name="197",Norwich City  -  Arsenal
+02363ed4eca0af46e6bc6b4c54cb25fdb59120ef
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\Arena Sport 1.png" tvg-name="197",Cardiff City  -  Chelsea
+0f505447336edd682008869f1f16cb0dbb92dda4
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://tv.hdviet.com/kenh-30/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
