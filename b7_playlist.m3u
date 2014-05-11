@@ -446,7 +446,7 @@ rtmpt://cp116697.live.edgefcs.net:1935/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\FBNC.png" tvg-name="209",FBNC
 http://www.htvonline.com.vn/livetv/fbnc-34306E61.html
 #EXTINF:-1 $ExtFilter="News" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
-rtmp://live.vnanet.vn/Live//DRC
+http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=54
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
 http://torrent-tv.ru/torrent-online.php?translation=2245
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CNN International.png" tvg-name="133",CNN
