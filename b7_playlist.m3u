@@ -259,20 +259,6 @@ http://www.wezatv.com/dooball/assp4.php
 http://www.wezatv.com/dooball/fox.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.75.5/ilive.m3u8?c=vstv033&token=o5FtN3-btyZZN1O1kTqMNg&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport1.png" tvg-name="93",True Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://dooballth007.serveblog.net/dooballt/dooballt1.stream live=1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://doooball.com/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport2.png" tvg-name="93",True Sport 2
-rtmp://$OPT:rtmp-raw=rtmp://dooballth007.serveblog.net/dooballt/dooballt2.stream live=1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://doooball.com/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport3.png" tvg-name="93",True Sport 3
-rtmp://$OPT:rtmp-raw=rtmp://dooballth007.serveblog.net/dooballt/dooballt3.stream live=1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://doooball.com/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport4.png" tvg-name="93",True Sport 4
-rtmp://$OPT:rtmp-raw=rtmp://dooballth007.serveblog.net/dooballt/dooballt4.stream live=1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://doooball.com/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport5.png" tvg-name="93",True Sport 5
-rtmp://$OPT:rtmp-raw=rtmp://dooballth007.serveblog.net/dooballt/dooballt5.stream live=1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://doooball.com/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport6.png" tvg-name="93",True Sport 6
-rtmp://$OPT:rtmp-raw=rtmp://dooballth007.serveblog.net/dooballt/dooballt6.stream live=1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://doooball.com/
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\true_sport7.png" tvg-name="93",True Sport 7
-rtmp://$OPT:rtmp-raw=rtmp://dooballth007.serveblog.net/dooballt/dooballt7.stream live=1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://doooball.com/
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
 rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=stream27 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\LigTV.png" tvg-name="97",LeTV Sport HD
