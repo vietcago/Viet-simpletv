@@ -317,6 +317,10 @@ http://torrent-tv.ru/torrent-online.php?translation=6918
 http://torrent-tv.ru/torrent-online.php?translation=3256
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="200",NTV+Futbol 2 HD
 http://torrent-tv.ru/torrent-online.php?translation=2977
+#EXTINF:-1 $ExtFilter="Sports" group-title="TEST" tvg-logo="..\Channel\logo\c+.png" tvg-name="95",TEST 1280x720p
+http://www.arenavision.in/p/p3.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="TEST" tvg-logo="..\Channel\logo\c+.png" tvg-name="95",TEST 960x540p
+http://www.arenavision.in/p/p4.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://tv.hdviet.com/kenh-30/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
