@@ -186,7 +186,7 @@ http://hatinhtv.vn/liveevent.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\SCI.png" tvg-name="223",GiaLaiTV
 rtmp://222.255.169.132/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL1
-http://tv.hdviet.com/kenh-42/vietsimpletv.html
+rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//thvl_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
