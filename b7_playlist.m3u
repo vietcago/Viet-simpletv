@@ -185,6 +185,10 @@ http://hatinhtv.vn/liveevent.m3u8
 rtmp://222.255.169.132/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL1
 rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//thvl_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HoaBinhTV.png" tvg-name="163",HoaBinhTV
+http://tv.vnn.vn/Kenh-truyen-hinh-token/THHB
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacNinhTV.png" tvg-name="164",BacNinhTV
+http://tv.vnn.vn/Kenh-truyen-hinh-token/BTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
@@ -198,7 +202,7 @@ rtmp://113.163.216.24/live/livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacLieuTV.png" tvg-name="186",BacLieuTV
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
-http://m22.megafun.vn/live.vs?c=vstv108&q=high&type=tv&token=w7V5Z0kazNN46RzIAz1gwA&time=1398469335&io=LKQm4UrSeh3uHo07|LFnbc6dUeFQfewKklLw1XssENaMC82yWfR3Vc55fP1vM2XtkCiPsjdNJAQhKl9J2rjcYqK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://tv.vnn.vn/Kenh-truyen-hinh-token/ThanhHoaTV
 #EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="69",TEST 1280x720p
 http://www.arenavision.in/p/p3.html
 #EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="69",TEST 960x540p
