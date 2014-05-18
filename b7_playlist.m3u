@@ -197,16 +197,6 @@ rtmp://113.163.216.24/live/livestream
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://m22.megafun.vn/live.vs?c=vstv108&q=high&type=tv&token=w7V5Z0kazNN46RzIAz1gwA&time=1398469335&io=LKQm4UrSeh3uHo07|LFnbc6dUeFQfewKklLw1XssENaMC82yWfR3Vc55fP1vM2XtkCiPsjdNJAQhKl9J2rjcYqK9I5CamaDRcqOaPVKlCfnD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\BT Sport.png" tvg-name="197",Arsenal  -  Hull City
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bt1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490 live=true timeout=10
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\BT Sport.png" tvg-name="197",Arsenal  -  Hull City (Torrent)
-89b19da69531df77b60c5ac0c1a8acbbf7b3f262
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\Sky Sports 1.png" tvg-name="197",Barcelona  -  Atlético Madrid
-http://www.fifaembed.com/embed/skysports1.php?width=650&height=480
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Barcelona  -  Atlético Madrid (Torrent HD1)
-http://www.arenavision.in/p/p3.html
-#EXTINF:-1 group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Barcelona  -  Atlético Madrid (Torrent HD2)
-http://www.arenavision.in/p/p4.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://www.htvonline.com.vn/livetv/vtv3-32306E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
