@@ -246,15 +246,15 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=bt2x swfUrl=http://w
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://tv.hdviet.com/kenh-11/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="198",Super Sport 1
-http://www.wezatv.com/dooball/assp1.php
+rtmp://$OPT:rtmp-raw=rtmp://mysport.kicks-ass.net/lockDomain/sport1.stream swfUrl=http://mysport.kicks-ass.net/jwplayer/player.swf pageUrl=http://www.dooball-online.com
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="198",Super Sport 2
 http://www.wezatv.com/dooball/assp2.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="198",Super Sport 3
 http://www.wezatv.com/dooball/assp3.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Astro Super Sport.png" tvg-name="198",Super Sport 4
-http://www.wezatv.com/dooball/assp4.php
+rtmp://$OPT:rtmp-raw=rtmp://mysport.kicks-ass.net/lockDomain/sport2.stream swfUrl=http://mysport.kicks-ass.net/jwplayer/player.swf pageUrl=http://www.dooball-online.com
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport Malaysia
-http://www.wezatv.com/dooball/fox.php
+rtmp://$OPT:rtmp-raw=rtmp://mysport.kicks-ass.net/lockDomain/sport3.stream swfUrl=http://mysport.kicks-ass.net/jwplayer/player.swf pageUrl=http://www.dooball-online.com
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.75.5/ilive.m3u8?c=vstv033&token=o5FtN3-btyZZN1O1kTqMNg&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
