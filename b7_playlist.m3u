@@ -205,9 +205,11 @@ rtmp://113.163.216.24/live/livestream
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/ThanhHoaTV
-#EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="69",TEST 1280x720p
+#EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1 1280x720p
+http://tv.hdviet.com/vtv1hd.785.html
+#EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="69",TEST Torrent 1280x720p
 http://www.arenavision.in/p/p3.html
-#EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="69",TEST 960x540p
+#EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="69",TEST Torrent 960x540p
 http://www.arenavision.in/p/p4.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://tv.hdviet.com/kenh-47/vietsimpletv.html
@@ -265,6 +267,8 @@ http://123.29.75.5/ilive.m3u8?c=vstv033&token=o5FtN3-btyZZN1O1kTqMNg&time=140059
 rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=stream27 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
 rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=stream26 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Golf HD.png" tvg-name="208",Golf Channel
+http://tv.hdviet.com/golf-channel.787.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
