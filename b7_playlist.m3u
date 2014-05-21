@@ -104,7 +104,7 @@ http://123.29.73.146/ilive.m3u8?c=vstv053&token=zaDHGewP4LvRvuTA6McVLQ&time=1400
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="148",VOVTV
 http://123.30.50.59:1935/live/vovtv/playlist.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NgheAnTV.png" tvg-name="152",NgheAnTV
-http://m22.megafun.vn/live.vs?c=vstv056&q=high&type=tv&token=Cjz2j-WZdy68DQ_0JYrDVg&time=1400310301&io=LKQm4UrSeh3uHo07|LFnbR0QC8IK7wtReTT2u6nZigLqnLwlsidErfFfK2FPf5d33PShajPMd5vyIRnUJfDtJ3Q4MiOpphsbW2xQgT5APizD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m6.mytvnet.vn/ilive.m3u8?c=vstv056&q=high&type=tv&token=a3ZwQXk0tAvMZVKfPDEOSA
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 1.png" tvg-name="153",HaNoiTV 1
 rtmp://m22.megafun.vn/hctv/vstv011?token=nothing&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 2.png" tvg-name="153",HaNoiTV 2
