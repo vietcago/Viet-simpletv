@@ -191,6 +191,8 @@ rtmp://$OPT:rtmp-raw=rtmp://112.197.2.154/glive//thvl_2 live=1 swfUrl=http://tv2
 http://tv.vnn.vn/Kenh-truyen-hinh-token/THHB
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacNinhTV.png" tvg-name="164",BacNinhTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/BTV
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiDuongTV.png" tvg-name="257",HaiDuongTV
+http://www.htvonline.com.vn/livetv/haiduong-3133316E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
