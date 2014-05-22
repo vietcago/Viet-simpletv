@@ -207,12 +207,6 @@ rtmp://113.163.216.24/live/livestream
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/ThanhHoaTV
-#EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1 1280x720p
-http://tv.hdviet.com/vtv1hd.785.html
-#EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="69",TEST Torrent 1280x720p
-http://www.arenavision.in/p/p3.html
-#EXTINF:-1 group-title="TEST HD" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="69",TEST Torrent 960x540p
-http://www.arenavision.in/p/p4.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://tv.hdviet.com/kenh-47/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
