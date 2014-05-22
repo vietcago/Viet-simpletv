@@ -66,7 +66,7 @@ http://www.htvonline.com.vn/livetv/htvc-phu-nu-35356E61.html
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
 http://tv.hdviet.com/kenh-29/vietsimpletv.html
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Australia Network.png" tvg-name="226",Australia Network
-http://123.29.71.51/ilive.m3u8?c=vstv080&token=tlF2_IGNyURhlKPkfbUElg&time=1400590926&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://m21.mytvnet.vn/ilive.m3u8?c=vstv080&q=high&type=tv&token=ncpmDOylv6xEPCrKe_AYJQ&time=1400836066&gcId=1376442&userId=228172&deviceId=165866&deviceType=1&location=NA&requestTime=1400749666123&pkg=pkg1
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
 http://www.htvonline.com.vn/livetv/htv2-31336E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7 HD.png" tvg-name="67",HTV7 HD
