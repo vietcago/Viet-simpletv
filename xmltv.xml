@@ -1488,4 +1488,10 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="256">
 <title lang="vi">Kênh Game TV</title>
 </programme>
+<channel id="257">
+<display-name lang="vi">HaiDuongTV</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="257">
+<title lang="vi">Kênh tổng hợp đài truyền hình Hải Dương</title>
+</programme>
 </tv>
