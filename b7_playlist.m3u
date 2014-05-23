@@ -230,13 +230,13 @@ http://tv.hdviet.com/kenh-32/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể Thao
 http://www.htvonline.com.vn/livetv/htv-the-thao-34386E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-rtmp://ovh2.is-leet.com/ntv1/12_Sky_Sports_1.stream
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=23697 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://ovh2.is-leet.com/ntv1/39_Sky_Sports_2.stream
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=33698 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://ovh2.is-leet.com/ntv1/13_Sky_Sports_3.stream
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=23699 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://ovh2.is-leet.com/ntv1/51_Sky_Sports_4.stream
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=23700 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
 rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 1
