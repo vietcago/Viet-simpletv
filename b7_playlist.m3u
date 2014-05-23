@@ -66,7 +66,7 @@ http://www.htvonline.com.vn/livetv/htvc-phu-nu-35356E61.html
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
 http://tv.hdviet.com/kenh-29/vietsimpletv.html
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Australia Network.png" tvg-name="226",Australia Network
-http://m21.mytvnet.vn/ilive.m3u8?c=vstv080&q=high&type=tv&token=ncpmDOylv6xEPCrKe_AYJQ&time=1400836066&gcId=1376442&userId=228172&deviceId=165866&deviceType=1&location=NA&requestTime=1400749666123&pkg=pkg1
+http://m21.mytvnet.vn/ilive.m3u8?c=vstv080&q=high&type=tv&token=ncpmDOylv6xEPCrKe_AYJQ&time=1400836066
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
 http://www.htvonline.com.vn/livetv/htv2-31336E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7 HD.png" tvg-name="67",HTV7 HD
@@ -104,7 +104,7 @@ http://123.29.73.146/ilive.m3u8?c=vstv053&token=zaDHGewP4LvRvuTA6McVLQ&time=1400
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="148",VOVTV
 http://123.30.50.59:1935/live/vovtv/playlist.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NgheAnTV.png" tvg-name="152",NgheAnTV
-http://m6.mytvnet.vn/ilive.m3u8?c=vstv056&q=high&type=tv&token=a3ZwQXk0tAvMZVKfPDEOSA
+http://m19.mytvnet.vn/ilive.m3u8?c=vstv056&q=high&type=tv&token=ALs9tbZ8Yg0Ysd662aJbPg&time=1400920846
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 1.png" tvg-name="153",HaNoiTV 1
 rtmp://m22.megafun.vn/hctv/vstv011?token=nothing&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 2.png" tvg-name="153",HaNoiTV 2
