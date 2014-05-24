@@ -309,6 +309,12 @@ http://torrent-tv.ru/torrent-online.php?translation=6918
 http://torrent-tv.ru/torrent-online.php?translation=3256
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="200",NTV+Futbol 2 HD
 http://torrent-tv.ru/torrent-online.php?translation=2977
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Real Madrid  -   Atletico Madrid (1280x720p)
+c64249f6ce45ab67efa95454fbc5132c3fb299b5
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Real Madrid  -   Atletico Madrid (960x540p)
+59fa3c929a4f2a7f84f908f22958e13e2c3bd653
+#EXTINF:-1 $ExtFilter="Sports" group-title="Trực Tiếp Bóng Đá" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Real Madrid  -   Atletico Madrid (720x576p)
+c0df7c0c64d8f94eace5a3e313ef2a766e51d5d3
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://tv.hdviet.com/kenh-30/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
