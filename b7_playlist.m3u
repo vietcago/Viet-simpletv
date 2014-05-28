@@ -94,7 +94,7 @@ http://bichthuvan.com:1935/liveStream/lifeworld_1/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\VietTV24.png" tvg-name="248",Viettv24
 http://bichthuvan.com:1935/liveStream/viettv24_1/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\QPVN.png" tvg-name="146",QPVN
-http://123.29.75.4/ilive.m3u8?c=vstv091&token=xv79NC9bKd5LMwOVKCkNPQ&time=1400590926&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://123.29.73.99/ilive.m3u8?c=vstv091&token=mlBrHApL28s-RXalrqrsEw&time=1400763562&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\VETV.png" tvg-name="256",VETV
 http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\antv.png" tvg-name="147",ANTV
