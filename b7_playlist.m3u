@@ -273,6 +273,8 @@ http://tv.hdviet.com/vtv6hd.784.html
 http://tv.hdviet.com/bong-da-hd.790.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD s2
 http://tv.hdviet.com/the-thao-tv-hd.788.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
+http://toniptv.no-ip.biz:1935/live/sport1.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
