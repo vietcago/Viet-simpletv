@@ -73,8 +73,6 @@ http://www.htvonline.com.vn/livetv/htv7-34336E61.html
 http://www.htvonline.com.vn/livetv/htv9-37356E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+ HD
 http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-hd-34346E61.html
-#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV Thethao HD
-http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/SCTVTheThao.smil/chunklist_w387491844_b3000000.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD
 http://117.103.206.26:1935/live/_definst_/VTV6HD/VTV6HD_1280x720_3000kbps.stream/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Special.png" tvg-name="243",Yeah1 Special
@@ -94,7 +92,7 @@ http://bichthuvan.com:1935/liveStream/lifeworld_1/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\VietTV24.png" tvg-name="248",Viettv24
 http://bichthuvan.com:1935/liveStream/viettv24_1/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\QPVN.png" tvg-name="146",QPVN
-http://123.29.73.99/ilive.m3u8?c=vstv091&token=mlBrHApL28s-RXalrqrsEw&time=1400763562&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://123.29.75.4/ilive.m3u8?c=vstv091&token=xv79NC9bKd5LMwOVKCkNPQ&time=1400590926&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\VETV.png" tvg-name="256",VETV
 http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\antv.png" tvg-name="147",ANTV
@@ -255,6 +253,8 @@ rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=stream27 swfUrl=
 rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=stream26 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Golf HD.png" tvg-name="208",Golf Channel
 http://tv.hdviet.com/golf-channel.787.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV Thethao HD
+http://tv.hdviet.com/sctv-the-thao.786.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
