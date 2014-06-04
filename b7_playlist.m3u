@@ -275,7 +275,7 @@ http://tv.hdviet.com/vtv6hd.784.html
 http://tv.hdviet.com/bong-da-hd.790.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD s2
 http://tv.hdviet.com/the-thao-tv-hd.788.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD s3
 http://www.htvonline.com.vn/livetv/the-thao-tv-hd-3133336E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD s3
 http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html
