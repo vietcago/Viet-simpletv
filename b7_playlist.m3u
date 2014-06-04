@@ -232,27 +232,27 @@ http://tv.hdviet.com/kenh-32/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể Thao
 http://www.htvonline.com.vn/livetv/htv-the-thao-34386E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=23697 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
+rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151315
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=33698 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
+http://www.fifaembed.com/embed/skysports2.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=23699 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
+rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151316
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=23700 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
+rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151317
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
 rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=stream1 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw
+http://www.fifaembed.com/embed/btsport1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
-http://iptvfannansat.dyndns.tv/darav1/darav1/199.ch
+http://www.fifaembed.com/embed/btsport2.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://tv.hdviet.com/kenh-11/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/StarSports.smil/chunklist_w1723906599_b1200000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
-rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=stream27 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com
+http://www.fifaembed.com/embed/mutv.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
-rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=stream26 swfUrl=http://static.surk.tv/player.swf pageUrl=http://cdn.kingofplayers.com
+http://www.fifaembed.com/embed/lfctv.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Golf HD.png" tvg-name="208",Golf Channel
 http://tv.hdviet.com/golf-channel.787.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV Thethao HD
