@@ -12,7 +12,7 @@ rtmp://lm01.everyon.tv/ptv//phd501
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hotgirl
 rtmp://lm02.everyon.tv/ptv2//phd59
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD.png" tvg-name="203",JAV HD
-http://www.youtube.com/playlist?list=PLa6JxDuf-__oWr8wCfFcpdfDXjJF4I6yT
+http://www.youtube.com/playlist?list=PLuKFdBBdNHSL1W5yBDGRRA6hk3C_BLfH7
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png" tvg-name="203",Live Ting TV
 rtsp://lm02.everyon.tv/ptv2/phd64
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Midnight.png" tvg-name="203",Midnight
