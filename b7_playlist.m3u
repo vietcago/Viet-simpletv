@@ -379,7 +379,7 @@ http://tv.hdviet.com/kenh-31/vietsimpletv.html
 http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
+#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
 http://tv.hdviet.com/kenh-13/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
 http://117.103.224.75:1935/live/_definst_/VTCHD3/VTCHD3_1280x720_3000kbps.stream/playlist.m3u8
