@@ -288,7 +288,7 @@ http://www.htvonline.com.vn/livetv/the-thao-tv-hd-3133336E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD s3
 http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
-http://toniptv.no-ip.biz:1935/live/sport1.stream/playlist.m3u8
+rtmp://103.7.56.16/live/sport1.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
