@@ -134,7 +134,7 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//la34_2 live=1 swfUrl=http://tv2
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\CanThoTV.png" tvg-name="159",CanThoTV
 rtmp://118.69.205.223/livepkgr/livestream1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KienGiangTV.png" tvg-name="161",KienGiangTV
-http://m22.megafun.vn/live.vs?c=vstv100&q=high&type=tv&token=NQzR0gPD73HLsgefNoYCWQ&time=1398563959&io=LKQm4UrSeh3uHo07|LFnbamiuOtSh|1ofv|nL9gmTOMjfUm5nRRyu9lAv2NuMMrkrIjQp6nJYNWL2oIOdXG3MhzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m20.megafun.vn/live.vs?c=vstv100&q=high&type=tv&token=Lw0DTwpcu17TpAEAnrrVhQ&time=1401760940&io=LKQm4UrSeh3uHo07|LFnbdedvtapqjl|44By7RuolMU|g7F/PxpsEkK61NWwqvBPl5kk9ju0FaRwPPMcndXm75Bf0tnJtKOTgAPStb2ablXD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiPhongTV.png" tvg-name="162",HaiPhongTV
 rtmp://203.162.238.46/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThaiNguyenTV.png" tvg-name="166",ThaiNguyenTV
