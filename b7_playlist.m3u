@@ -263,6 +263,14 @@ http://www.fifaembed.com/embed/mutv.php
 http://www.fifaembed.com/embed/lfctv.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Golf HD.png" tvg-name="208",Golf Channel
 http://tv.hdviet.com/golf-channel.787.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 1
+http://122.155.203.9:8081/get/assp1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 2
+http://122.155.203.9:8081/get/assp2/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 3
+http://122.155.203.9:8081/get/assp3/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 4
+http://122.155.203.9:8081/get/assp4/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV Thethao HD
 http://tv.hdviet.com/sctv-the-thao.786.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
