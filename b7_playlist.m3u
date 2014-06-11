@@ -369,6 +369,8 @@ http://m40.megafun.vn/ilive.m3u8?c=vstv038&token=hDK10zR1Bp-mg0BGI8ySSA&time=140
 http://123.29.71.67/ilive.m3u8?c=vstv039&token=5rkPe3Po7vPuWwaA66ou9A&time=1402478113&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
 http://tv.hdviet.com/kenh-35/vietsimpletv.html
+#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
+http://tv.hdviet.com/kenh-13/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-hd-39326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
@@ -379,12 +381,16 @@ http://tv.hdviet.com/kenh-31/vietsimpletv.html
 http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html
-#EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
-http://tv.hdviet.com/kenh-13/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HBO HD.png" tvg-name="82",HBO HD
 http://117.103.224.75:1935/live/_definst_/VTCHD3/VTCHD3_1280x720_3000kbps.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\AXN HD.png" tvg-name="81",AXN HD
+http://117.103.206.24:1935/live/_definst_/AXNHD/AXNHD_1280x720_3000kbps.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
 rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
+#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\HiTV.png" tvg-name="221",HiTV
+http://m21.megafun.vn/live.vs?c=vstv088&q=high&type=tv&token=QLmb587EPtZcXZsQzFnsnw&time=1402550843&io=LKQm4UrSeh3uHo07|LFnbQaijKDn1lip2c6|Npcg776W4JXtRO/QJ10vbnZVA5SnG0luzs3JG2/0EkG0R8/oYHQ4MiOpphsbW2xQgT5APizD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+#EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\HCaTV.png" tvg-name="223",HCaTV
+http://m20.megafun.vn/live.vs?c=vstv086&q=high&type=tv&token=_a2Y-eNbLENcjEyGy4Xqig&time=1402549865&io=LKQm4UrSeh3uHo07|LFnbXGDJ1rxJrvrl|DcAav6DUKCKEi6GfVsHKZ9468i50eolDbbhKK/PefV7K7WePrUrdLdk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\911.png" tvg-name="244",911
 rtmp://115.146.123.95/liveedge/lifetv3.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Family.png" tvg-name="247",Yeah1 Family
