@@ -472,7 +472,7 @@ http://torrent-tv.ru/torrent-online.php?translation=3089
 #EXTINF:-1 $ExtFilter="Fashion" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab12.png" tvg-name="25",VTVcab12
 http://tv.hdviet.com/kenh-36/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
-http://tv.hdviet.com/fashion-tv.19.html
+http://123.29.71.179/ilive.m3u8?c=vstv041&token=uZ-2eppvrm73PUGDUh-4eA&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=425
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
