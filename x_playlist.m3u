@@ -45,3 +45,5 @@ rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream2
 http://torrent-tv.ru/torrent-online.php?translation=481
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SEX 2 tv.png" tvg-name="203",Ola la
 http://torrent-tv.ru/torrent-online.php?translation=8392
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD.png" tvg-name="203",JAV HD
+http://www.youtube.com/playlist?list=PLa6JxDuf-__oWr8wCfFcpdfDXjJF4I6yT
