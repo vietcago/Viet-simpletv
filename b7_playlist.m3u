@@ -406,7 +406,7 @@ http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=11
 #EXTINF:-1 $ExtFilter="Movies" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\logo\4 Fun TV.png" tvg-name="248",Hài 247
 http://bichthuvan.com:1935/liveStream/hai_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BTV4.png" tvg-name="156",BTV4
-rtmp://42.117.5.161/channels//btv4.480p?token=nothing&time=null
+http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=419
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
 http://tv.hdviet.com/kenh-25/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
