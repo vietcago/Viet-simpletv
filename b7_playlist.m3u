@@ -298,7 +298,7 @@ http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD s3
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTV6HD_1200/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD s3
-http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTV6HD_1200/playlist.m3u8
+http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTV3HD_1200/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
 rtmp://103.7.56.16/live/sport1.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
