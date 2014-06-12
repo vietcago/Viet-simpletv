@@ -422,9 +422,9 @@ http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-35316E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
 http://www.htvonline.com.vn/livetv/htvc-ca-nhac-34376E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
-http://123.29.74.83/ilive.m3u8?c=vstv043&token=tVCfsT-z8yBcf7pJncoXSA&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://tvth.m3u8.cdn-live.com/app/tvth/9e38a0084e6d45d080139a166c60a102.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
-http://123.29.71.179/ilive.m3u8?c=vstv040&token=gCrY9fnPs2DZkROXSTdGSA&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://tvth.m3u8.cdn-live.com/app/tvth/ebce2f5139c54eda8b111e5923af9c9e.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
@@ -478,7 +478,7 @@ http://torrent-tv.ru/torrent-online.php?translation=3089
 #EXTINF:-1 $ExtFilter="Fashion" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab12.png" tvg-name="25",VTVcab12
 http://tv.hdviet.com/kenh-36/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
-http://123.29.71.179/ilive.m3u8?c=vstv041&token=uZ-2eppvrm73PUGDUh-4eA&time=1400590924&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://tvth.m3u8.cdn-live.com/app/tvth/df468a12ae6547de9637486bdc2025aa.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=425
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
