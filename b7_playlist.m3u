@@ -201,6 +201,12 @@ rtmp://113.163.216.24/live/livestream
 rtmp://113.161.218.10/live//BTV.test
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/ThanhHoaTV
+#EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
+7c6d9990486a5905e9de447d615c5e0ad89a6995
+#EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Futbol.png" tvg-name="189",Futbol 1
+9fd5be3e033eb2911cf3d56cd913e3166a1643ac
+#EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Futbol+.png" tvg-name="189",Futbol 2
+b0fd51a27679892e91e41583c592099b7c7dd4a5
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 http://www.htvonline.com.vn/livetv/vtv6-37336E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3 s2
