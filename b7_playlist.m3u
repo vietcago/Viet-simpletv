@@ -223,8 +223,6 @@ http://117.103.224.75:1935/live/_definst_/VTC3/smil:VTC3_live.smil/chunklist-b12
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/glive//sctv15_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K813zc65e114!
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/glive//sctvhdthethao_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K813zc65e114!
-#EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15 - 2
-http://tv.hdviet.com/kenh-32/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể Thao
 http://www.htvonline.com.vn/livetv/htv-the-thao-34386E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
