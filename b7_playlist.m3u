@@ -278,7 +278,7 @@ http://www.htvonline.com.vn/livetv/vtv3-hd-3133356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 http://www.htvonline.com.vn/livetv/vtv6-37336E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-http://www.htvonline.com.vn/livetv/vtv3-32306E61.html
+http://tv.vnn.vn/Kenh-truyen-hinh-token/vtv3
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/SCTV15.smil/chunklist_w410407989_b800000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 1
