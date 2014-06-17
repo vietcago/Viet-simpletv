@@ -218,7 +218,7 @@ http://tv.hdviet.com/kenh-24/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTVCab16.smil/chunklist_w1852560251_b1200000.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
-http://117.103.224.75:1935/live/_definst_/VTC3/smil:VTC3_live.smil/chunklist-b1200000.m3u8
+http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/glive//sctv15_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K813zc65e114!
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\logo\sctv18.png" tvg-name="62",SCTV18
@@ -277,14 +277,16 @@ http://torrent-tv.ru/torrent-online.php?translation=383
 http://torrent-tv.ru/torrent-online.php?translation=5115
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Futbol+.png" tvg-name="189",Futbol 2 (Torrent)
 http://torrent-tv.ru/torrent-online.php?translation=5116
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\bongdatv HD.png" tvg-name="28",BongdaTV HD 
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTVCab16.smil/chunklist_w964180386_b900000.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD 
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/TheThaoHD.smil/chunklist_w1348504247_b900000.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD 
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTV3HD.smil/chunklist_w1390688898_b900000.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD 
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTV6HD.smil/chunklist_w1403275868_b900000.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtc3.png" tvg-name="32",VTC3
+http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 2 (Torrent)
 84f0e843e5aa0a96c4b68a8a83138ea454d9d31c
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 4 (Torrent)
