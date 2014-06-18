@@ -277,6 +277,8 @@ http://torrent-tv.ru/torrent-online.php?translation=5115
 http://torrent-tv.ru/torrent-online.php?translation=5116
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtc3.png" tvg-name="32",VTC3
 http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
+#EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\NgheAnTV.png" tvg-name="152",NgheAnTV
+http://m20.megafun.vn/live.vs?c=vstv056&q=high&type=tv&token=2FEZItV94DKUrRLVT8sEaw&time=1402577970&io=LKQm4UrSeh3uHo07|LFnbQrEbeuA5cXwHSy1hhK/Op5Dfp|d05TzjovF97KH4yTl8q|oNkYsKLj1SVIVWT3vGBzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC
 rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://kingofplayers.com/player2.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
