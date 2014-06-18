@@ -472,7 +472,7 @@ http://123.30.234.207/w/vtc11/stream.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv3_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K813zc65e114!
 #EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV 3
-http://m7.mytvnet.vn/ilive.m3u8?c=vstv075&q=high&type=tv&token=TsE3sKpdFdascpQgIbA-6Q&time=1403140739&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://www.htvonline.com.vn/livetv/htv3-34396E61.html
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
 http://m20.megafun.vn/ilive.m3u8?c=vstv032&token=obkp6JucJ88rgvTXcx3M4Q&time=1402837676&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Cartoon Network.png" tvg-name="118",Cartoon Network
