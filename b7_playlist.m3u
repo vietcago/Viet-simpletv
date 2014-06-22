@@ -206,8 +206,6 @@ http://tv.vnn.vn/Kenh-truyen-hinh-token/ThanhHoaTV
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 http://www.htvonline.com.vn/livetv/vtv6-37336E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3 s2
-http://www.vtvplus.vn/index.php?option=com_vtv&view=channel&id=88
-#EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3 s3
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtv3
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://www.htvonline.com.vn/livetv/vtv3-32306E61.html
