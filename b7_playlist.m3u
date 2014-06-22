@@ -240,21 +240,13 @@ http://www.fifaembed.com/embed/btsport1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
 http://www.fifaembed.com/embed/btsport2.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport
-http://122.155.203.9:8081/get/fox/playlist.m3u8
+http://123.29.71.131/ilive.m3u8?c=vstv042&token=fJluoybF4bESCbGnHiw7AA&time=1403447305&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
-http://122.155.203.9:8081/get/star/playlist.m3u8
+http://123.29.72.5/ilive.m3u8?c=vstv033&token=hjqKV6U4hM6w1ENWjr_3cA&time=1403447304&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
 rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=27 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
 rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=26 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 1
-http://122.155.203.9:8081/get/assp1/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 2
-http://122.155.203.9:8081/get/assp2/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 3
-http://122.155.203.9:8081/get/assp3/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 4
-http://122.155.203.9:8081/get/assp4/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
@@ -267,8 +259,6 @@ http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html
 http://www.htvonline.com.vn/livetv/vtv6-hd-3133366E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.htvonline.com.vn/livetv/vtv3-hd-3133356E61.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="198",Super Sport 1
-http://122.155.203.9:8081/get/assp1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1 (Torrent)
 http://torrent-tv.ru/torrent-online.php?translation=383
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Futbol.png" tvg-name="189",Futbol 1 (Torrent)
@@ -279,10 +269,6 @@ http://torrent-tv.ru/torrent-online.php?translation=5116
 http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://live.csmtalk.vcdn.vn/hls/broadcaster33/index.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
-http://123.30.170.215:8077/play/vtv6.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-http://123.30.234.203/w/vtv3/stream.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC
 rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://kingofplayers.com/player2.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
