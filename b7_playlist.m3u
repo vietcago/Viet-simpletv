@@ -272,7 +272,7 @@ http://live.csmtalk.vcdn.vn/hls/broadcaster33/index.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC
 rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://kingofplayers.com/player2.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
-rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://kingofplayers.com/player2.php token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://rtmp2.tiv.pw:1935/redirect playpath=22 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://kingofplayers.com/player2.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport
 rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=51 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=41&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 2 (Torrent)
