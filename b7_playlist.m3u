@@ -422,7 +422,7 @@ rtmp://62.213.85.137/en-stream/primetime
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
 http://livestation_hls-lh.akamaihd.net/i/bbcworld_en@105465/master.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CNN International.png" tvg-name="133",CNN
-http://tv.hdviet.com/kenh-8/vietsimpletv.html
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
