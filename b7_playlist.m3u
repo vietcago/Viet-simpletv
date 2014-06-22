@@ -242,9 +242,9 @@ http://123.29.71.131/ilive.m3u8?c=vstv042&token=fJluoybF4bESCbGnHiw7AA&time=1403
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.72.5/ilive.m3u8?c=vstv033&token=hjqKV6U4hM6w1ENWjr_3cA&time=1403447304&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
-rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=27 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=49 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
-rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=26 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=50 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
