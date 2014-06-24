@@ -270,9 +270,9 @@ http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_7
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BEIN1 HD
 http://110751-f.akamaihd.net/ajswebch309_1_2400@s12996?primaryToken=2072942531_6cdf0cab90e85e5dc50fd29258709ea1&v=3.4.0&fp=WIN%2014,0,0,125&r=CISXO&g=UOASUSAPNWEK
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 2 (Torrent)
-84f0e843e5aa0a96c4b68a8a83138ea454d9d31c
+http://mundial.arenavision.in/p/mundial2.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 4 (Torrent)
-902b4a652cf51490fe7183e730b8d41172591281
+http://mundial.arenavision.in/p/mundial4.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol.png" tvg-name="189",Futbol 1
