@@ -267,7 +267,7 @@ http://torrent-tv.ru/torrent-online.php?translation=5116
 http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtc3.png" tvg-name="32",VTC3 s2
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc3
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BEIN 2 HD
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BEIN2 HD
 http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_79b422ff21b124d461cb08609d7e2f70&v=3.4.0&fp=WIN+14%2C0%2C0%2C125&r=EGZUA&g=UIDXMWPBSZLS]http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_79b422ff21b124d461cb08609d7e2f70&v=3.4.0&fp=WIN%2014,0,0,125&r=EGZUA&g=UIDXMWPBSZLS
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BEIN1 HD
 http://110751-f.akamaihd.net/ajswebch309_1_2400@s12996?primaryToken=2072942531_6cdf0cab90e85e5dc50fd29258709ea1&v=3.4.0&fp=WIN%2014,0,0,125&r=CISXO&g=UOASUSAPNWEK
