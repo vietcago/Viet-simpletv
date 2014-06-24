@@ -267,10 +267,6 @@ http://torrent-tv.ru/torrent-online.php?translation=5116
 http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTC3 s2
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc3
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php token=#atd%#$ZH
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=22 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 2 (Torrent)
 84f0e843e5aa0a96c4b68a8a83138ea454d9d31c
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 4 (Torrent)
