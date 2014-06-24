@@ -265,10 +265,8 @@ http://torrent-tv.ru/torrent-online.php?translation=5115
 http://torrent-tv.ru/torrent-online.php?translation=5116
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtc3.png" tvg-name="32",VTC3
 http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\cctv5.png" tvg-name="32",CCTV5
-http://myott.sinaapp.com/TV_Proxy/letvprogram.php?VideoId=cctv5_1800
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
-http://live.csmtalk.vcdn.vn/hls/broadcaster33/index.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTC3 s2
+http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc3
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="89",ESPN
