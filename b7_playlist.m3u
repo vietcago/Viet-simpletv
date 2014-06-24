@@ -269,9 +269,9 @@ http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc3
 http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_79b422ff21b124d461cb08609d7e2f70&v=3.4.0&fp=WIN+14%2C0%2C0%2C125&r=EGZUA&g=UIDXMWPBSZLS]http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_79b422ff21b124d461cb08609d7e2f70&v=3.4.0&fp=WIN%2014,0,0,125&r=EGZUA&g=UIDXMWPBSZLS
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BEIN1 HD
 http://110751-f.akamaihd.net/ajswebch309_1_2400@s12996?primaryToken=2072942531_6cdf0cab90e85e5dc50fd29258709ea1&v=3.4.0&fp=WIN%2014,0,0,125&r=CISXO&g=UOASUSAPNWEK
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 2 (Torrent)
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="28",Arena 2 (Torrent)
 http://mundial.arenavision.in/p/mundial2.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="189",Arena 4 (Torrent)
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="28",Arena 4 (Torrent)
 http://mundial.arenavision.in/p/mundial4.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
