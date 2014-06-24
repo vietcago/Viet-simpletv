@@ -232,9 +232,9 @@ rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=45 swfUrl=htt
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
 rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 1
-http://www.fifaembed.com/embed/btsport1.php
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
-http://www.fifaembed.com/embed/btsport2.php
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=bt2x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport
 http://123.29.71.131/ilive.m3u8?c=vstv042&token=fJluoybF4bESCbGnHiw7AA&time=1403447305&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
