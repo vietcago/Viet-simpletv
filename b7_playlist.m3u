@@ -73,8 +73,6 @@ http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-hd-34346E61.html
 http://117.103.206.24:1935/live/_definst_/HBOHD/HBOHD_1280x720_3000kbps.stream/playlist.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\VTC1 HD.png" tvg-name="30",VTC1 HD
 http://117.103.224.75:1935/live/_definst_/VTCHD1/VTCHD1_1280x720_3000kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1 HD
-http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTV1.smil/chunklist_w146853024_b1200000.m3u8
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Special.png" tvg-name="243",Yeah1 Special
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=424
 #EXTINF:-1 group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1TV.png" tvg-name="246",Yeah1 TV
