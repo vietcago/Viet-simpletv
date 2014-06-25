@@ -1,5 +1,0 @@
-local ch_sources = {
-{'tvs1403443129','http://123.29.73.67/ilive.m3u8?c=vstv078&token=3PZtqpCW0jIX2W2U7GJgbA&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2'},
-{'tvs1403443129#2','http://torrent-tv.ru/torrent-online.php?translation=5482'},
-}
-return ch_sources
