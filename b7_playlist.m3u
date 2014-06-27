@@ -277,7 +277,9 @@ http://123.30.234.205/w/vtv6/stream.m3u8
 http://123.30.234.205/w/vtv3/stream.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3 s2
 rtmp://119.18.186.116/live//vtv31_h
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Deutsche Welle.png" tvg-name="195",DZF
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="195",ORF
+rtmp://$OPT:rtmp-raw=rtmp://edge1.stream-server.org/livestv/ playpath=orf1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="195",ZDF
 rtmp://$OPT:rtmp-raw=rtmp://edge1.stream-server.org/livestv/ playpath=zdf.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\NTV Spor.png" tvg-name="32",TRT Spor
 http://85.132.44.99:1935/turktv/trtspor.sdp/playlist.m3u8
