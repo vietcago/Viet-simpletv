@@ -444,7 +444,7 @@ http://torrent-tv.ru/torrent-online.php?translation=3089
 #EXTINF:-1 $ExtFilter="Fashion" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab12.png" tvg-name="25",VTVcab12
 http://tv.hdviet.com/kenh-36/vietsimpletv.html
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
-http://m24.megafun.vn/live.vs?c=vstv041&q=high&type=tv&token=AW5Wwr6Ba5FRyy8hT2R37w&time=1403697183&io=LKQm4UrSeh3uHo07|LFnbcElB|yWOiYff5Sq82I3va|qa|oJkxHD0IjZd204hfhvdLOagE9JzJ4Uq2ZwMOmI6pBf0tnJtKOTgAPStb2ablXD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://202.75.23.37:8800/live/ch16/01.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=425
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
