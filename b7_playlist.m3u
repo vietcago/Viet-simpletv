@@ -205,6 +205,8 @@ http://www.htvonline.com.vn/livetv/lao-cai--thlc-37306E61.html
 http://www.htvonline.com.vn/livetv/binh-phuoc-bptv1-33346E61.html
 #EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\TienGiangTV.png" tvg-name="178",TienGiangTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/THTG
+#EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC 1 (Torrent)
+http://torrent-tv.ru/torrent-online.php?translation=8538
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 http://www.htvonline.com.vn/livetv/vtv6-37336E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
@@ -283,8 +285,6 @@ rtmp://$OPT:rtmp-raw=rtmp://edge1.stream-server.org/livestv/ playpath=orf1.strea
 rtmp://$OPT:rtmp-raw=rtmp://edge1.stream-server.org/livestv/ playpath=zdf.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\NTV Spor.png" tvg-name="32",TRT Spor
 http://85.132.44.99:1935/turktv/trtspor.sdp/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="225",Russia 1
-http://85.132.44.99:1935/turktv/rossiya1.sdp/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 2 (Torrent)
 http://mundial.arenavision.in/p/mundial2.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 4 (Torrent)
