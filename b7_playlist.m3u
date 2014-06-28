@@ -279,6 +279,10 @@ rtmp://119.18.186.116/live//vtv31_h
 rtmp://$OPT:rtmp-raw=rtmp://edge1.stream-server.org/livestv/ playpath=orf1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="195",ZDF
 rtmp://$OPT:rtmp-raw=rtmp://edge1.stream-server.org/livestv/ playpath=zdf.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3 s3
+rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xuyenlepro1990 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV
+rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/auhrmr live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 2 (Torrent)
 http://mundial.arenavision.in/p/mundial2.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 4 (Torrent)
