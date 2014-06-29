@@ -350,7 +350,7 @@ http://www.htvonline.com.vn/livetv/htvc-phim-3131306E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
-http://m20.megafun.vn/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://123.29.73.99/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
 http://123.29.73.99/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
@@ -464,7 +464,7 @@ http://www.htvonline.com.vn/livetv/htvc-du-lich-33396E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
 http://123.29.73.99/ilive.m3u8?c=vstv044&token=aY_vA9qrV4TVDVBmyRyeeA&time=1402719760&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
-http://m22.megafun.vn/live.vs?c=vstv078&q=high&type=tv&token=KPefbSnd3vVLCYSMHjSKiw&time=1403926019&io=LKQm4UrSeh3uHo07|LFnbejFPVKVvTuOrXIisgyU0OrxaKwFiDJtArJb/8S0GAvO6dKsDsoK7LsEFcR3b7ZhQdLdk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+rtmpt://cp116697.live.edgefcs.net:80/live/w4dTdlNToKUvtqJ1WMDu5IuNP9as1iF0_640_360_500@73163
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
 http://www.htvonline.com.vn/livetv/discovery-hd-3132336E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\National Geographic HD.png" tvg-name="125",National Geographic HD
