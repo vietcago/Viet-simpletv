@@ -420,7 +420,7 @@ http://torrent-tv.ru/torrent-online.php?translation=409
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Russia Today.png" tvg-name="129",Russia Today
 rtmp://62.213.85.137/en-stream/primetime
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
-rtmp://hd4.lsops.net/live/bbcnews_en_364
+http://cdnselector.streamago.tv/live/1916/809/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CNN International.png" tvg-name="133",CNN
 http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
