@@ -204,13 +204,13 @@ http://www.htvonline.com.vn/livetv/binh-phuoc-bptv1-33346E61.html
 #EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\TienGiangTV.png" tvg-name="178",TienGiangTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/THTG
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
-http://www.htvonline.com.vn/livetv/vtv6-37336E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv6
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-http://www.htvonline.com.vn/livetv/vtv3-32306E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv3
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://www.htvonline.com.vn/livetv/the-thao-tv-hd-3133336E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thethaotv
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=bongdahd
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
@@ -246,13 +246,13 @@ rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
 http://www.htvonline.com.vn/livetv/espn-hd-3132346E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
-http://www.htvonline.com.vn/livetv/the-thao-tv-hd-3133336E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thethaotv
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
-http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=bongdahd
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD
-http://www.htvonline.com.vn/livetv/vtv6-hd-3133366E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv6hd
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
-http://www.htvonline.com.vn/livetv/vtv3-hd-3133356E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv3hd
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC 1 (Torrent)
 http://torrent-tv.ru/torrent-online.php?translation=8538
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1 (Torrent)
