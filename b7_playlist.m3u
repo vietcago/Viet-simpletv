@@ -234,7 +234,7 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://w
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=bt2x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport
-http://123.29.71.131/ilive.m3u8?c=vstv042&token=fJluoybF4bESCbGnHiw7AA&time=1403447305&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://123.29.71.227/ilive.m3u8?c=vstv042&token=D5JydAJ-kJxVFWzfGypjVw&time=1404366479&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://123.29.70.147/ilive.m3u8?c=vstv033&token=jk6JNOCrKRFsKWCluTfulQ&time=1404206184&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
@@ -356,7 +356,7 @@ http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=9ZVFCusYSylOKmglKAW4-A&time=140
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=bFXSaaKLedwyXq60Ln71iA&time=1403447304&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
-http://m24.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=JtT4tm552BEu9olTHZi9Aw&time=1403926480&io=LKQm4UrSeh3uHo07|LFnbejFPVKVvTuOrXIisgyU0Oo1QKdp|YG8HNjixiBNwLmH77t9DhVofEcNfTU0MQClIw7RYLWVAoiXlXlUyM/xRyPD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://123.29.74.131/ilive.m3u8?c=vstv039&token=KLZDZbsZDQEJeid3w4A5gw&time=1404366479&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-hd-39326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
