@@ -204,9 +204,9 @@ http://www.htvonline.com.vn/livetv/binh-phuoc-bptv1-33346E61.html
 #EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\TienGiangTV.png" tvg-name="178",TienGiangTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/THTG
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
-http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv6
+http://123.30.234.205/w/vtv6/stream.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
-http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv3
+http://tv.vnn.vn/Kenh-truyen-hinh-token/vtv3
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thethaotv
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
