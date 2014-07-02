@@ -265,10 +265,6 @@ http://torrent-tv.ru/torrent-online.php?translation=5116
 http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtc3.png" tvg-name="32",VTC3 s2
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc3
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BEIN2 HD
-http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_79b422ff21b124d461cb08609d7e2f70&v=3.4.0&fp=WIN+14%2C0%2C0%2C125&r=EGZUA&g=UIDXMWPBSZLS]http://110751-f.akamaihd.net/ajswebch308_1_2400@s12995?primaryToken=2072942500_79b422ff21b124d461cb08609d7e2f70&v=3.4.0&fp=WIN%2014,0,0,125&r=EGZUA&g=UIDXMWPBSZLS
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BEIN1 HD
-http://110751-f.akamaihd.net/ajswebch309_1_2400@s12996?primaryToken=2072942531_6cdf0cab90e85e5dc50fd29258709ea1&v=3.4.0&fp=WIN%2014,0,0,125&r=CISXO&g=UOASUSAPNWEK
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 2
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster33 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
@@ -286,7 +282,7 @@ rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemxem1 live=1 swfUr
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 http://123.30.234.205/w/vtv6/stream.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BEIN11 HD
-http://110751-f.akamaihd.net/ajswebch310_1_2400@s12997?primaryToken=2072941904_68a38915b8f6a587672f6779557ebdac&v=3.4.0&fp=WIN%2014,0,0,125&r=DNXQE&g=TDGDQIQLHUQU]http://110751-f.akamaihd.net/ajswebch310_1_2400@s12997?primaryToken=2072941904_68a38915b8f6a587672f6779557ebdac&v=3.4.0&fp=WIN%2014,0,0,125&r=DNXQE&g=TDGDQIQLHUQU
+rtmp://mootem.com/live/mootembein11
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 2 (Torrent)
 http://mundial.arenavision.in/p/mundial2.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 4 (Torrent)
