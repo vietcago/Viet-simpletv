@@ -253,6 +253,8 @@ http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=bongdahd
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv6hd
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv3hd
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1 HD
+http://93.104.213.202/2iZ3jAXOcd/ZLOCKOLUDAK/MUJOIGICKOCAREVI/1.ch
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC 1 (Torrent)
 http://torrent-tv.ru/torrent-online.php?translation=8538
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1 (Torrent)
