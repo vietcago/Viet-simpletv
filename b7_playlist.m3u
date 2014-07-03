@@ -7,6 +7,8 @@ http://www.htvonline.com.vn/livetv/vtv1-32316E61.html
 http://www.htvonline.com.vn/livetv/vtv2-37326E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv4.png" tvg-name="4",VTV4
 http://www.htvonline.com.vn/livetv/vtv4-3131396E61.html
+#EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv5.png" tvg-name="5",VTV5
+http://www.htvonline.com.vn/livetv/vtv5-3132306E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
 http://www.htvonline.com.vn/livetv/vtv9-37346E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="9",VTV Cần Thơ 1
