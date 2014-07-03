@@ -362,7 +362,7 @@ http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=9ZVFCusYSylOKmglKAW4-A&time=140
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=bFXSaaKLedwyXq60Ln71iA&time=1403447304&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
-http://123.29.74.131/ilive.m3u8?c=vstv039&token=KLZDZbsZDQEJeid3w4A5gw&time=1404366479&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://m22.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=DuiCOMV0IAmk_rYNF8SCkQ&time=1404487122&io=LKQm4UrSeh3uHo07|LFnbfSt66PHGVOy0kAtv0IgQyQyveckDAY12r3ii2Nmtb3/ieLbuhYnBjb6aB3T4ebtJtLdk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-hd-39326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
@@ -468,7 +468,7 @@ http://www.htvonline.com.vn/livetv/htvc-du-lich-33396E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
 http://123.29.73.99/ilive.m3u8?c=vstv044&token=aY_vA9qrV4TVDVBmyRyeeA&time=1402719760&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
-http://123.29.75.3/ilive.m3u8?c=vstv078&token=V7ZvG-byYHa8J8yEdYq6RQ&time=1404206188&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://m12.mytvnet.vn/live.vs?c=vstv078&q=high&type=tv&token=5FGN9k2-Q7GUFGm4ZYYrnA&time=1404487297&io=LKQm4UrSeh3uHo07|LFnbfSt66PHGVOy0kAtv0IgQyTU|xiXWdYEmsZVk1NT2HcgOdQbcnqcA1PYy3kAp/jkYRzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
 http://www.htvonline.com.vn/livetv/discovery-hd-3132336E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\National Geographic HD.png" tvg-name="125",National Geographic HD
