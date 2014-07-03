@@ -392,7 +392,7 @@ http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-35316E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
 http://www.htvonline.com.vn/livetv/htvc-ca-nhac-34376E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
-http://123.29.70.5/ilive.m3u8?c=vstv043&token=YAP3kk8L9RlFgCOq-jN3SA&time=1404206187&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://123.29.73.83/ilive.m3u8?c=vstv043&token=G4kg84kgCIlWglclCYrCgQ&time=1404366479&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
 http://123.29.73.99/ilive.m3u8?c=vstv040&token=6FJef545U0tnwomwUGCKzA&time=1402837676&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
