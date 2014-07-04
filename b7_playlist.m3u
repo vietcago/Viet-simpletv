@@ -238,9 +238,9 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://w
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\BT Sport.png" tvg-name="145",BT Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=bt2x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sport
-http://123.29.71.227/ilive.m3u8?c=vstv042&token=D5JydAJ-kJxVFWzfGypjVw&time=1404366479&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://www.fifaembed.com/embed/foxsports1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
-http://123.29.70.147/ilive.m3u8?c=vstv033&token=jk6JNOCrKRFsKWCluTfulQ&time=1404206184&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://www.fifaembed.com/embed/starsports1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
 rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=49 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
