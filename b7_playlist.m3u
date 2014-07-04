@@ -255,11 +255,11 @@ http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thethaotv
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=bongdahd
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv6hd
-#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3 hd.png" tvg-name="3",VTV3 HD
+#EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv3hd
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtc3 hd.png" tvg-name="32",VTC3 HD
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtc3hd
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtc3hd.png" tvg-name="32",VTC3 HD
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtc3 hd.png" tvg-name="32",VTC3 HD
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtc3hd
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC 1 (Torrent)
 http://torrent-tv.ru/torrent-online.php?translation=8538
