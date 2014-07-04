@@ -47,6 +47,8 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv8_2 live=1 swfUrl=http://tv
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv10_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
 #EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv13.png" tvg-name="57",SCTV13
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv13_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
+#EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Shopping.png" tvg-name="74",HTVC Shopping
+http://www.htvonline.com.vn/livetv/htvc-shopping.-34366E61.html
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTV1.png" tvg-name="63",HTV 1
 http://www.htvonline.com.vn/livetv/htv1-32326E61.html
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\logo\htv2.png" tvg-name="64",HTV 2
