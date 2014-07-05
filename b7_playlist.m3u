@@ -292,9 +292,9 @@ rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xuyenlepro1990 live=
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 6
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/keonhacai.com live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1 HD.png" tvg-name="191",Sport 1 HD
-http://212.164.82.56:1234/udp/233.7.70.131:5000,ru
+http://176.51.74.211:1234/udp/233.7.70.131:5000,ru
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
-http://212.164.82.56:1234/udp/233.7.70.75:5000,ru
+http://176.51.74.211:1234/udp/233.7.70.75:5000,ru
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 2 (Torrent)
 http://mundial.arenavision.in/p/mundial2.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 4 (Torrent)
@@ -446,7 +446,7 @@ http://torrent-tv.ru/torrent-online.php?translation=2245
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CNN International.png" tvg-name="133",CNN
 http://torrent-tv.ru/torrent-online.php?translation=3089
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
-http://212.164.82.56:1234/udp/233.7.70.47:5000
+http://176.51.74.211:1234/udp/233.7.70.47:5000,ru
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=425
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
