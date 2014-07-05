@@ -291,8 +291,10 @@ rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemxem1 live=1 swfUr
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xuyenlepro1990 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 6
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/keonhacai.com live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\t_sports.png" tvg-name="93",Thai 7
-http://www.wezatv.com/dootv/channel7.php
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1 HD.png" tvg-name="191",Sport 1 HD
+http://212.164.82.56:1234/udp/233.7.70.131:5000,ru
+#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
+http://212.164.82.56:1234/udp/233.7.70.75:5000,ru
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 2 (Torrent)
 http://mundial.arenavision.in/p/mundial2.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 4 (Torrent)
