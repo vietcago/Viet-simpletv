@@ -356,7 +356,7 @@ http://www.htvonline.com.vn/livetv/htvc-phim-3131306E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
-http://m24.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=Zz7aRBGed9CVKwz8j6Rejw&time=1404653341&io=LKQm4UrSeh3uHo07
+http://m24.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=CzuKbLNXMZsyhite34EtAg&time=1404756126&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
 http://m21.megafun.vn/live.vs?c=vstv036&q=high&type=tv&token=GpgvjJmfc0WFeZq-D95pvQ&time=1404653711&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
