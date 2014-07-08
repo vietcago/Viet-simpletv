@@ -356,15 +356,15 @@ http://www.htvonline.com.vn/livetv/htvc-phim-3131306E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
-http://m24.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=CzuKbLNXMZsyhite34EtAg&time=1404756126&io=LKQm4UrSeh3uHo07|LFnbUg0UYO|YIe0aw0KAVDKkZnM1cpRh6|LJxmJEIvyXFKkMuZEm3PhxbM6Sq7uB78bPxzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://m21.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=oCVB8IxICDnjvxedzvjsKQ&time=1404913591&io=LKQm4UrSeh3uHo07|LFnbaUdSAvG50XgkNfcfH6gy0amj30KhTuY9Icfiisd8|eOArXUtOkeC/otIDgw2jmXuBzzLEBmgeMWyYS6lmHVyZbD|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
-http://123.29.73.99/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://m24.megafun.vn/live.vs?c=vstv036&q=high&type=tv&token=NJTdXEQ3nfuiY7c5nd_eCQ&time=1404913444&io=LKQm4UrSeh3uHo07|LFnbaUdSAvG50XgkNfcfH6gy0YGNHVaSd|Gasoo|x8KKspBf|ijeenCRNsRaP8ukfhm8nQ4MiOpphsbW2xQgT5APizD|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
 http://m21.megafun.vn/live.vs?c=vstv037&q=high&type=tv&token=r-3et6vvo4O34igiEqXzvg&time=1404782214&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=bFXSaaKLedwyXq60Ln71iA&time=1403447304&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
-http://m22.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=DuiCOMV0IAmk_rYNF8SCkQ&time=1404487122&io=LKQm4UrSeh3uHo07|LFnbfSt66PHGVOy0kAtv0IgQyQyveckDAY12r3ii2Nmtb3/ieLbuhYnBjb6aB3T4ebtJtLdk6VkZVFze8hdTakMUl7D|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
+http://m24.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=FH3IDsQhZuC2ucDGXW_yUg&time=1404913751&io=LKQm4UrSeh3uHo07|LFnbaUdSAvG50XgkNfcfH6gy0abrpoIjFj8/XddIPGOTQoNjovyyFcukeOdvlBInq3ICw7RYLWVAoiXlXlUyM/xRyPD|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-hd-39326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
@@ -458,7 +458,7 @@ http://www.htvonline.com.vn/livetv/htv3-34396E61.html
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
 http://123.29.73.99/ilive.m3u8?c=vstv032&token=lWfStDT1m1Rf216eg1xDvg&time=1402719760&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Kids" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\Cartoon Network.png" tvg-name="118",Cartoon Network
-http://m24.megafun.vn/live.vs?c=vstv031&q=high&type=tv&token=DwWlfUa3wxijSzy9zARing&time=1404653694&io=LKQm4UrSeh3uHo07
+http://m24.megafun.vn/live.vs?c=vstv031&q=high&type=tv&token=1aKzkwWe9jX-URJmT7zj9g&time=1404913701&io=LKQm4UrSeh3uHo07|LFnbaUdSAvG50XgkNfcfH6gy0aEYYYxeYMQ7OZyFTcTZNXsLi9IHkegoM2Lot/K3g/RUhkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
 #EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Cartoon Network.png" tvg-name="118",Cartoon Network
 http://torrent-tv.ru/torrent-online.php?translation=1115
 #EXTINF:-1 $ExtFilter="Kids" group-title="Torrent TV" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
@@ -470,7 +470,7 @@ http://www.htvonline.com.vn/livetv/htvc-du-lich-33396E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Discovery Channel.png" tvg-name="126",Discovery Channel
 http://m21.megafun.vn/live.vs?c=vstv044&q=high&type=tv&token=5NdlvNM5wxjGSQ0scfMzMw&time=1404782348&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Document" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Animal planet.png" tvg-name="143",Animal Planet
-http://m24.megafun.vn/live.vs?c=vstv078&q=high&type=tv&token=ShUh2XUNiLiRx5u2woWhIQ&time=1404782521&io=LKQm4UrSeh3uHo07|LFnbVZzRsTp3ylDe0jWRbFf/sHgcrYAFV|E0V3gK2hst96PVEopzvM/J14catFODLt8N0zqgfurhpILHz7kCrFo403D|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
+http://m24.megafun.vn/live.vs?c=vstv078&q=high&type=tv&token=muQoTLEWq7f2kQRnBodJ3Q&time=1404913629&io=LKQm4UrSeh3uHo07|LFnbaUdSAvG50XgkNfcfH6gy0Yse4/hvxG7OnFO0N0v7zd54lJ4295LgEw4|KuntcfFng7RYLWVAoiXlXlUyM/xRyPD|vXouFTmMN17PZ05fxX9Q2uGo/yzlaxhzZcXDWHnqJp95jKsNDsXZ6R|c1x226s=
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
 http://www.htvonline.com.vn/livetv/discovery-hd-3132336E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\National Geographic HD.png" tvg-name="125",National Geographic HD
