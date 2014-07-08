@@ -244,9 +244,9 @@ http://www.fifaembed.com/embed/foxsports1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://m22.megafun.vn/live.vs?c=vstv033&q=high&type=tv&token=fjO3cIr8mZAHlwpjgHDO6Q&time=1404617990&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
-rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=49 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
+http://www.fifaembed.com/embed/mutv.php?width=650&height=480
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
-rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=50 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php token=#atd%#$ZH
+http://www.fifaembed.com/embed/lfctv.php?width=650&height=480
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
