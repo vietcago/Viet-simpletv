@@ -535,22 +535,22 @@
 <title lang="vi">Kênh thể thao Mỹ</title>
 </programme>
 <channel id="90">
-<display-name lang="vi">SBS ESPN</display-name>
+<display-name lang="vi">ESPN</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="90">
-<title lang="vi">Kênh thể thao Hàn Quốc</title>
-</programme>
-<channel id="91">
-<display-name lang="vi">One World Sports</display-name>
-</channel>
-<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="91">
 <title lang="vi">Kênh thể thao Mỹ</title>
 </programme>
+<channel id="91">
+<display-name lang="vi">Sky Sports News</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="91">
+<title lang="vi">Kênh tin tức thể thao Anh Quốc</title>
+</programme>
 <channel id="92">
-<display-name lang="vi">LETV Sport</display-name>
+<display-name lang="vi">Sky Sports F1</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="92">
-<title lang="vi">Kênh thể thao Trung Quốc</title>
+<title lang="vi">Kênh đua xe quốc tế</title>
 </programme>
 <channel id="93">
 <display-name lang="vi">True Sport</display-name>
@@ -559,7 +559,7 @@
 <title lang="vi">Kênh thể thao Thái Lan</title>
 </programme>
 <channel id="94">
-<display-name lang="vi">JSC Sports</display-name>
+<display-name lang="vi">BeIN Sports</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="94">
 <title lang="vi">Kênh thể thao Arập</title>
@@ -595,52 +595,52 @@
 <title lang="vi">Kênh thể thao Trung Quốc</title>
 </programme>
 <channel id="99">
-<display-name lang="vi">CCTV9</display-name>
+<display-name lang="vi">C More Fotball</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="99">
-<title lang="vi">Kênh tư liệu khoa học khám phá Trung Quốc</title>
+<title lang="vi">Kênh bóng đá Na Uy</title>
 </programme>
 <channel id="100">
-<display-name lang="vi">CCTV Soccer</display-name>
+<display-name lang="vi">C More Live</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="100">
-<title lang="vi">Kênh bóng đá Trung Quốc</title>
+<title lang="vi">Kênh Thể thao Na Uy</title>
 </programme>
 <channel id="101">
-<display-name lang="vi">CCTV Billard</display-name>
+<display-name lang="vi">C More Live 2</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="101">
-<title lang="vi">Kênh Billard Trung Quốc</title>
+<title lang="vi">Kênh Thể thao Na Uy</title>
 </programme>
 <channel id="102">
-<display-name lang="vi">BTV Sports</display-name>
+<display-name lang="vi">C More Live 3</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="102">
-<title lang="vi">Kênh thể thao Bắc Kinh - Trung Quốc</title>
+<title lang="vi">Kênh Thể thao Na Uy</title>
 </programme>
 <channel id="103">
-<display-name lang="vi">SMG Sports</display-name>
+<display-name lang="vi">C More Live 4</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="103">
-<title lang="vi">Kênh thể thao Thượng Hải - Trung Quốc</title>
+<title lang="vi">Kênh Thể thao Na Uy</title>
 </programme>
 <channel id="104">
-<display-name lang="vi">GD Sports</display-name>
+<display-name lang="vi">C More Sport</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="104">
-<title lang="vi">Kênh thể thao Quảng Đông - Trung Quốc</title>
+<title lang="vi">Kênh Thể thao Na Uy</title>
 </programme>
 <channel id="105">
-<display-name lang="vi">SiTV Sports</display-name>
+<display-name lang="vi">Viasat TV3 Sport 2</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="105">
-<title lang="vi">Kênh thể thao Trung Quốc</title>
+<title lang="vi">Kênh thể thao Đan Mạch</title>
 </programme>
 <channel id="106">
-<display-name lang="vi">Lotus Macau</display-name>
+<display-name lang="vi">Viasat TV2 Sport</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="106">
-<title lang="vi">Kênh phim truyện phụ đề tiếng Trung</title>
+<title lang="vi">Kênh thể thao Na Uy</title>
 </programme>
 <channel id="107">
 <display-name lang="vi">Euro Sport</display-name>
@@ -823,10 +823,10 @@
 <title lang="vi">Kênh phim truyện nước ngoài</title>
 </programme>
 <channel id="137">
-<display-name lang="vi">Yousing Karaoke HD</display-name>
+<display-name lang="vi">BBC 4</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="137">
-<title lang="vi">Kênh ca nhạc karaoke</title>
+<title lang="vi">Kênh tổng hợp tiếng Anh</title>
 </programme>
 <channel id="138">
 <display-name lang="vi">A'Lure Sexy Fashion HD</display-name>
@@ -835,22 +835,22 @@
 <title lang="vi">Kênh người mẫu Thái Lan</title>
 </programme>
 <channel id="139">
-<display-name lang="vi">New Vision Sport HD</display-name>
+<display-name lang="vi">BBC 1</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="139">
-<title lang="vi">Kênh thể thao Trung Quốc</title>
+<title lang="vi">Kênh tổng hợp tiếng Anh</title>
 </programme>
 <channel id="140">
-<display-name lang="vi">M Channel HD</display-name>
+<display-name lang="vi">BBC 2</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="140">
-<title lang="vi">Kênh ca nhạc K-Pop</title>
+<title lang="vi">Kênh tổng hợp tiếng Anh</title>
 </programme>
 <channel id="141">
-<display-name lang="vi">WOW Music HD</display-name>
+<display-name lang="vi">BBC 3</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="141">
-<title lang="vi">Kênh âm nhạc quốc tế</title>
+<title lang="vi">Kênh tổng hợp tiếng Anh</title>
 </programme>
 <channel id="142">
 <display-name lang="vi">BabyTV HD</display-name>
@@ -865,7 +865,7 @@
 <title lang="vi">Kênh thế giới động vật</title>
 </programme>
 <channel id="144">
-<display-name lang="vi">NHK World HD</display-name>
+<display-name lang="vi">NHK World</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="144">
 <title lang="vi">Kênh tin tức tổng hợp tiếng Anh</title>
@@ -1123,13 +1123,13 @@
 <title lang="vi">Kênh tổng hợp - Đài PTTH Thanh Hóa</title>
 </programme>
 <channel id="188">
-<display-name lang="vi">Futbol+</display-name>
+<display-name lang="vi">Futbol 1</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="188">
 <title lang="vi">Kênh bóng đá Ukraina tường thuật các giải đấu hàng đầu châu Âu</title>
 </programme>
 <channel id="189">
-<display-name lang="vi">Futbol</display-name>
+<display-name lang="vi">Futbol 2</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="189">
 <title lang="vi">Kênh bóng đá Ukraina Tường thuật các giải đấu hàng đầu Châu Âu</title>
@@ -1183,10 +1183,10 @@
 <title lang="vi">Kênh tường thuật trực tiếp bóng đá</title>
 </programme>
 <channel id="198">
-<display-name lang="vi">Super Sport</display-name>
+<display-name lang="vi">BT Sport 1</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="198">
-<title lang="vi">Kênh thể thao Malaysia</title>
+<title lang="vi">Kênh thể thao Anh Quốc</title>
 </programme>
 <channel id="199">
 <display-name lang="vi">NTV+ Futbol</display-name>
@@ -1231,7 +1231,7 @@
 <title lang="vi">Kênh tổng hợp - Đài PTTH Đà Nẵng</title>
 </programme>
 <channel id="212">
-<display-name lang="vi">BT Sport</display-name>
+<display-name lang="vi">BT Sport 2</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="212">
 <title lang="vi">Kênh thể thao Anh Quốc</title>
@@ -1297,7 +1297,7 @@
 <title lang="vi">Kênh tổng hợp tiếng Ý</title>
 </programme>
 <channel id="225">
-<display-name lang="vi">OPT1</display-name>
+<display-name lang="vi">Channel 1</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="225">
 <title lang="vi">Kênh tổng hợp tiếng Nga</title>
