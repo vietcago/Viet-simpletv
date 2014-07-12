@@ -400,9 +400,9 @@ http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-35316E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
 http://www.htvonline.com.vn/livetv/htvc-ca-nhac-34376E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
-http://27.131.149.39/channelv/live/playlist.m3u8
+http://www.widih.in/thaim3u8/9e38a0084e6d45d080139a166c60a102.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
-http://87.121.34.245:9987/udp/239.100.0.115:1234
+http://www.widih.in/thaim3u8/ebce2f5139c54eda8b111e5923af9c9e.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
 #EXTINF:-1 $ExtFilter="Music" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
@@ -444,7 +444,7 @@ http://torrent-tv.ru/torrent-online.php?translation=2245
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CNN International.png" tvg-name="133",CNN
 http://torrent-tv.ru/torrent-online.php?translation=3089
 #EXTINF:-1 $ExtFilter="Fashion" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
-http://m24.megafun.vn/live.vs?c=vstv041&q=high&type=tv&token=_lFVpAcz2D1aWbKCg6rZsg&time=1404960602&io=LKQm4UrSeh3uHo07|LFnbZnJ/pzncSVVKuGhydXuw1O/aegiwgH8g3qSRrEvghBr2m9tME3uEqJEGXzdHn4UCRkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+http://www.widih.in/thaim3u8/DF468A12AE6547DE9637486BDC2025AA.m3u8
 #EXTINF:-1 $ExtFilter="Fashion" group-title="NHÓM KÊNH KHÁC" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=425
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\World Fashion.png" tvg-name="116",World Fashion
