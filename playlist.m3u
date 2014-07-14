@@ -612,7 +612,7 @@ http://torrent-tv.ru/torrent-online.php?translation=2245
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CNN International.png" tvg-name="133",CNN
 http://torrent-tv.ru/torrent-online.php?translation=3089
 #EXTINF:-1 $ExtFilter="Fashion" group-title="WORLD TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
-http://m24.megafun.vn/live.vs?c=vstv041&q=high&type=tv&token=_lFVpAcz2D1aWbKCg6rZsg&time=1404960602&io=LKQm4UrSeh3uHo07|LFnbZnJ/pzncSVVKuGhydXuw1O/aegiwgH8g3qSRrEvghBr2m9tME3uEqJEGXzdHn4UCRkWsLIzs|dGmCLkrvGxfUjD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
+rtmp://$OPT:rtmp-raw=rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_fashion.stream
 #EXTINF:-1 $ExtFilter="Fashion" group-title="MyTV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://xemphimso.com/xem-tv/fashtion-tv.173.html
 #EXTINF:-1 $ExtFilter="Fashion" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
