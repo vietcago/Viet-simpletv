@@ -69,12 +69,18 @@ http://www.htvonline.com.vn/livetv/htvc-gia-dinh-34356E61.html
 http://www.htvonline.com.vn/livetv/htvc-phu-nu-35356E61.html
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
 http://85.132.44.99:1935/turktv/perviy.sdp/playlist.m3u8
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 1.png" tvg-name="139",BBC 1
-http://87.121.34.245:9987/udp/239.100.0.82:1234
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 3.png" tvg-name="141",BBC 3
 http://87.121.34.245:9987/udp/239.100.0.140:1234
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 2.png" tvg-name="140",BBC 2
 http://87.121.34.245:9987/udp/239.100.0.83:1234
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 1.png" tvg-name="139",BBC 1
+http://87.121.34.245:9987/udp/239.100.0.82:1234
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\logo\iTV2.png" tvg-name="139",ITV 2
+http://87.121.34.245:9987/udp/239.100.0.80:1234
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\logo\iTV3.png" tvg-name="139",ITV 3
+http://87.121.34.245:9987/udp/239.100.0.84:1234
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\logo\iTV4.png" tvg-name="139",ITV 4
+http://87.121.34.245:9987/udp/239.100.0.81:1234
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
 http://www.htvonline.com.vn/livetv/htv2-31336E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7 HD.png" tvg-name="67",HTV7 HD
@@ -321,8 +327,6 @@ http://tv.vnn.vn/Kenh-truyen-hinh-token/ThanhHoaTV
 http://www.htvonline.com.vn/livetv/lao-cai--thlc-37306E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
 http://www.htvonline.com.vn/livetv/binh-phuoc-bptv1-33346E61.html
-#EXTINF:-1 group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\TienGiangTV.png" tvg-name="178",TienGiangTV
-http://tv.vnn.vn/Kenh-truyen-hinh-token/THTG
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 http://www.htvonline.com.vn/livetv/vtv6-37336E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
@@ -381,6 +385,14 @@ http://87.121.34.245:9987/udp/239.100.0.180:1234
 http://87.121.34.245:9987/udp/239.100.0.74:1234
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://87.121.34.245:9987/udp/239.100.0.117:1234
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\iTV1.png" tvg-name="139",ITV 1
+http://87.121.34.245:9987/udp/239.100.0.79:1234
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\C More Live.png" tvg-name="100",C More Live
+http://87.121.34.245:9987/udp/239.100.0.98:1234
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+ Sport
+http://87.121.34.245:9987/udp/239.100.0.148:1234
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol
+http://87.121.34.245:9987/udp/239.100.0.168:1234
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
@@ -405,40 +417,6 @@ http://xemphimso.com/xem-tv/starsports.63.html
 http://xemphimso.com/xem-tv/vtc3.12.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://xemphimso.com/xem-tv/vtv3.2.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
-http://www.htvonline.com.vn/livetv/vtc3-hd-3133376E61.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="145",BBC 1 (Torrent)
-http://torrent-tv.ru/torrent-online.php?translation=8538
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1 (Torrent)
-http://torrent-tv.ru/torrent-online.php?translation=383
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Futbol.png" tvg-name="189",Futbol 1 (Torrent)
-http://torrent-tv.ru/torrent-online.php?translation=5115
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Futbol+.png" tvg-name="189",Futbol 2 (Torrent)
-http://torrent-tv.ru/torrent-online.php?translation=5116
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\vtc3.png" tvg-name="32",VTC3
-http://www.htvonline.com.vn/livetv/vtc3-3131356E61.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\Logo\BinhDinhTV.png" tvg-name="249",BinhDinhTV
-http://tv.vnn.vn/Kenh-truyen-hinh-token/TH-BD
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 2
-rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster33 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Deutsche Welle.png" tvg-name="195",ORF
-rtmp://$OPT:rtmp-raw=rtmp://edge1.stream-server.org/livestv/ playpath=orf1.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Deutsche Welle.png" tvg-name="195",ZDF
-rtmp://$OPT:rtmp-raw=rtmp://edge1.stream-server.org/livestv/ playpath=zdf.stream swfUrl=http://stream.live-stream.tv/player.php live=1 pageUrl=http://www.live-stream.tv/online/fernsehen/zdf.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 3
-rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/auhrmr live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 1
-rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster31 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
-rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemxem1 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 5
-rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xuyenlepro1990 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 6
-rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/keonhacai.com live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 2 (Torrent)
-http://mundial.arenavision.in/p/mundial2.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="FIFA WORLD CUP 2014" tvg-logo="..\Channel\logo\Arenavision.png" tvg-name="32",Arena 4 (Torrent)
-http://mundial.arenavision.in/p/mundial4.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://ttv-kv-torrent1.ytv.su/eurosport2intl.acelive
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1
@@ -503,6 +481,18 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv17_2 live=1 swfUrl=http://t
 http://www.htvonline.com.vn/livetv/htvc-phim-3131306E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
+#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Movies.png" tvg-name="231",Sky Movies Action & Adventure
+http://87.121.34.245:9987/udp/239.100.0.109:1234
+#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Movies.png" tvg-name="231",Sky Movies Comedy
+http://87.121.34.245:9987/udp/239.100.0.105:1234
+#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Movies.png" tvg-name="231",Sky Movies Crime & Thriller
+http://87.121.34.245:9987/udp/239.100.0.107:1234
+#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Movies.png" tvg-name="231",Sky Movies Drama & Romance
+http://87.121.34.245:9987/udp/239.100.0.108:1234
+#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Movies.png" tvg-name="231",Sky Movies Premiere
+http://87.121.34.245:9987/udp/239.100.0.104:1234
+#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Movies.png" tvg-name="231",Sky Movies Sci-Fi & Horror
+http://87.121.34.245:9987/udp/239.100.0.106:1234
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-hd-39326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
@@ -605,8 +595,6 @@ http://87.121.34.245:9987/udp/239.100.0.134:1234
 http://87.121.34.245:9987/udp/239.100.0.138:1234
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC News.png" tvg-name="230",BBC News
 http://87.121.34.245:9987/udp/239.100.0.139:1234
-#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
-http://www.widih.in/thaim3u8/EA4C9D2666BC411D8E6777E8A1D2B747.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="MyTV" tvg-logo="..\Channel\Logo\Asia news.png" tvg-name="228",Asia News
 http://xemphimso.com/xem-tv/channel-newsasia.179.html
 #EXTINF:-1 $ExtFilter="News" group-title="MyTV" tvg-logo="..\Channel\Logo\Bloomberg TV.png" tvg-name="134",Bloomberg
@@ -647,8 +635,6 @@ http://87.121.34.245:9987/udp/239.100.0.122:1234
 http://87.121.34.245:9987/udp/239.100.0.92:1234
 #EXTINF:-1 $ExtFilter="Kids" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Disney XD.png" tvg-name="117",Disney XD
 http://87.121.34.245:9987/udp/239.100.0.182:1234
-#EXTINF:-1 $ExtFilter="Kids" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ANIMAX.png" tvg-name="124",Animax
-http://www.widih.in/thaim3u8/d3edb48a8bb847c78432270e23ddca73.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\Logo\Cartoon Network.png" tvg-name="118",Cartoon Network
 http://xemphimso.com/xem-tv/cn.67.html
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
