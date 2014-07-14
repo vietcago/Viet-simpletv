@@ -1333,10 +1333,10 @@
 <title lang="vi">Kênh tin tức tiếng Anh</title>
 </programme>
 <channel id="231">
-<display-name lang="vi">JJ Channel</display-name>
+<display-name lang="vi">Sky Movies</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="231">
-<title lang="vi">Kênh phim Nhật Bản phụ đề tiếng Việt </title>
+<title lang="vi">Kênh phim truyện quốc tế </title>
 </programme>
 <channel id="232">
 <display-name lang="vi">LFCTV</display-name>
