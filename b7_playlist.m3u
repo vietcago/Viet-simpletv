@@ -322,13 +322,13 @@ http://www.htvonline.com.vn/livetv/htvc-phim-3131306E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\AXN.png" tvg-name="81",AXN
-http://m22.megafun.vn/live.vs?c=vstv077&q=high&type=tv&token=3U8dL2t5sWaapV-ttCyhkw&time=1405106275&io=LKQm4UrSeh3uHo07
+http://123.29.73.99/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\HBO.png" tvg-name="82",HBO
-http://m22.megafun.vn/live.vs?c=vstv036&q=high&type=tv&token=yBR7IhkEh2DLlqmAcSIcFw&time=1405106508&io=LKQm4UrSeh3uHo07
+http://123.29.73.99/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\CineMax.png" tvg-name="84",Cinemax
-http://m24.megafun.vn/live.vs?c=vstv037&q=high&type=tv&token=Mxo8CadwMP-iDBFzB5oyng&time=1405106342&io=LKQm4UrSeh3uHo07
+http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=9ZVFCusYSylOKmglKAW4-A&time=1403834601&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR MOVIES.png" tvg-name="83",Star Movies
-http://m22.megafun.vn/live.vs?c=vstv038h&q=high&type=tv&token=ylQvdcfTeIFhjg2BLvnhqQ&time=1405106556&io=LKQm4UrSeh3uHo07
+http://123.29.73.99/ilive.m3u8?c=vstv038&token=bFXSaaKLedwyXq60Ln71iA&time=1403447304&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="QUỐC TẾ" tvg-logo="..\Channel\logo\STAR WORLD.png" tvg-name="85",Star World
 http://m24.megafun.vn/live.vs?c=vstv039&q=high&type=tv&token=1m7EjThrGnEeLEo7XUVC2w&time=1405106580&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
