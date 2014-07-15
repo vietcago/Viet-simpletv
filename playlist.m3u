@@ -150,7 +150,7 @@ http://xemphimso.com/xem-tv/ngheantv.29.html
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\NHK World.png" tvg-name="144",NHK World
 http://xemphimso.com/xem-tv/nhk.183.html
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\QPVN.png" tvg-name="146",QPVN
-http://xemphimso.com/xem-tv/qpvn.44.html
+http://xemphimso.com/xem-tv/qpvn.44.html?s=205
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\QuangBinhTV.png" tvg-name="238",QuangBinhTV
 http://xemphimso.com/xem-tv/qbtv.143.html
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\QuangNinhTV.png" tvg-name="179",QuangNinhTV 1
