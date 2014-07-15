@@ -272,7 +272,7 @@ http://www.htvonline.com.vn/livetv/lang-son--lstv-38396E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TuyenQuangTV.png" tvg-name="177",TuyenQuangTV
 rtmp://$OPT:rtmp-raw=rtmpt://210.245.89.40:1935/live/ playpath=livestream live=1 pageUrl=http://tuyenquangtv.vn/trang-chu/ swfUrl=http://tuyenquangtv.vn/js/jwplayer/jwplayer.swf
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TienGiangTV.png" tvg-name="178",TienGiangTV
-rtsp://123.30.141.4/rtv
+http://tv.vnn.vn/Kenh-truyen-hinh-token/THTG
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangNinhTV.png" tvg-name="179",QuangNinhTV 1
 rtmp://m35.megafun.vn/hctv/vstv020?token=noting&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangNinhTV.png" tvg-name="179",QuangNinhTV 3
@@ -318,7 +318,7 @@ rtmp://113.161.180.136/live//thbp2.tv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhThuanTV.png" tvg-name="184",BinhThuanTV
 mms://123.30.108.114/BTVTruyenhinh
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BR-VungTauTV.png" tvg-name="185",BR-VungTauTV
-rtmp://113.163.216.24/live/livestream
+http://tv.vnn.vn/Kenh-truyen-hinh-token/BRT
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacLieuTV.png" tvg-name="186",BacLieuTV
 http://www.htvonline.com.vn/livetv/bac-lieu-3132316E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
