@@ -216,7 +216,7 @@ http://123.29.73.99/ilive.m3u8?c=vstv091&token=o1KUBrlXJ3dDfi7vkepPcw&time=14026
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\VETV.png" tvg-name="256",VETV
 http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\antv.png" tvg-name="147",ANTV
-rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//antv_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
+http://tv.vnn.vn/Kenh-truyen-hinh-token/ANTV
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="148",VOVTV
 http://123.30.50.59:1935/live/vovtv/playlist.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\vietnamnet.png" tvg-name="1",Vietnamnet
@@ -286,7 +286,7 @@ http://www.htvonline.com.vn/livetv/ca-mau--ctv-36376E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NamDinhTV.png" tvg-name="210",NamDinhTV
 http://www.htvonline.com.vn/livetv/nam-di%CC%A3nh-ntv-3130386E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TraVinhTV.png" tvg-name="211",TraVinhTV
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/travinh.360p.stream/playlist.m3u8
+http://tv.vnn.vn/Kenh-truyen-hinh-token/TH-TV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacGiangTV.png" tvg-name="234",BacGiangTV
 http://www.htvonline.com.vn/livetv/bac-giang--bgtv-36366E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DacLacTV.png" tvg-name="204",DacLacTV
