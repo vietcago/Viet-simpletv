@@ -218,7 +218,7 @@ http://101.99.28.28:1935/live/lolvntv480.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\antv.png" tvg-name="147",ANTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/ANTV
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="148",VOVTV
-http://123.30.50.59:1935/live/vovtv/playlist.m3u8
+http://tv.vnn.vn/Kenh-truyen-hinh-token/VOV%20hình
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\vietnamnet.png" tvg-name="1",Vietnamnet
 http://www.htvonline.com.vn/livetv/vietnamnet-3133386E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NgheAnTV.png" tvg-name="152",NgheAnTV
