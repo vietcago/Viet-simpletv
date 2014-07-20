@@ -20,7 +20,7 @@ rtmp://222.255.167.149/live/livestream
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="12",VTV Phú Yên
 rtmp://113.161.4.102/live//vtvphuyen.tv
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\logo\Yeah1 Special.png" tvg-name="29",VTVcab17
-http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=417
+http://www.htvonline.com.vn/livetv/yeah1-3133396E61.html
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab14.png" tvg-name="26",VTVcab14
 http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&cat_id=18&id=372&Itemid=103
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
