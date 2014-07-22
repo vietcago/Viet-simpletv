@@ -592,7 +592,7 @@ rtmp://62.213.85.137/en-stream/primetime
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
 http://117.103.206.26:1935/live/_definst_/BBCWORLD/BBCWORLD_640x480_1200kbps.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\CNN International.png" tvg-name="133",CNN
-http://87.121.34.245:9987/udp/239.100.0.161:1234
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
