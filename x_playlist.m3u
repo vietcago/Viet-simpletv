@@ -1,10 +1,6 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Blue Hustler.png" tvg-name="203",Blue Hustler
-http://torrent-tv.ru/torrent-online.php?translation=5265
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Porn.png" tvg-name="203",But Go
 rtmp://lm01.everyon.tv/ptv//phd772
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Daring TV.png" tvg-name="203",Daring TV
-http://torrent-tv.ru/torrent-online.php?translation=2591
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
 rtmp://lm02.everyon.tv/ptv2//phd63
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Girls TV.png" tvg-name="203",Girls 4U TV
@@ -21,10 +17,6 @@ http://torrent-tv.ru/torrent-online.php?translation=1826
 http://torrent-tv.ru/torrent-online.php?translation=5617
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Pink TV.png" tvg-name="203",Pink TV
 rtmp://lm02.everyon.tv/ptv2//phd62
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\RedLight Platinum.png" tvg-name="203",Platinum
-http://torrent-tv.ru/torrent-online.php?translation=4967
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy
-http://torrent-tv.ru/torrent-online.php?translation=416
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy Korea
 rtmp://lm03.everyon.tv/ptv3//phd499
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playy.png" tvg-name="203",Playy 19+
