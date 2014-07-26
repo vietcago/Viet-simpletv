@@ -301,6 +301,8 @@ http://tv.vnn.vn/Kenh-truyen-hinh-token/THHB
 http://tv.vnn.vn/Kenh-truyen-hinh-token/BTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiDuongTV.png" tvg-name="257",HaiDuongTV
 http://www.htvonline.com.vn/livetv/haiduong-3133316E61.html
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TayNinhTV.png" tvg-name="165",TayNinhTV
+http://www.htvonline.com.vn/livetv/tayninh-3134316E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 2.png" tvg-name="183",BinhPhuocTV 2
@@ -322,7 +324,7 @@ http://torrent-tv.ru/torrent-online.php?translation=8538
 #EXTINF:-1 group-title="Torrent TV" tvg-logo="..\Channel\Logo\BBC 2.png" tvg-name="140",BBC 2
 http://torrent-tv.ru/torrent-online.php?translation=8813
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
-http://www.htvonline.com.vn/livetv/vtv6-37336E61.html
+rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//vtv6_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtv3
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
@@ -580,7 +582,7 @@ http://torrent-tv.ru/torrent-online.php?translation=1425
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://torrent-tv.ru/torrent-online.php?translation=1815
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC" tvg-logo="..\Channel\logo\VTC11.png" tvg-name="40",VTC11
-http://123.30.234.207/w/vtc11/stream.m3u8
+rtmp://119.18.186.116/live//vtc111_h
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv3_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
 #EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV 3
@@ -638,8 +640,8 @@ rtmp://123.30.50.59/live//vovgt
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT TP.HCM
 rtmp://123.30.50.59/live/vovgtsg
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV1
-rtmp://123.30.50.59/live/vov1
+rtmp://119.18.186.116/live//vov1
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV2
-rtmp://123.30.50.59/live/vov2
+rtmp://119.18.186.116/live//vov2
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV3
-rtmp://123.30.50.59/live/vov3
+rtmp://119.18.186.116/live//vov3
