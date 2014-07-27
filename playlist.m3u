@@ -71,6 +71,8 @@ http://www.htvonline.com.vn/livetv/htvc-phu-nu-35356E61.html
 http://85.132.44.99:1935/turktv/perviy.sdp/playlist.m3u8
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\KBS Sport.png" tvg-name="128",KBS World
 http://117.103.206.26:1935/live/_definst_/KBSWORLD/KBSWORLD_640x480_1200kbps.stream/playlist.m3u8
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 1.png" tvg-name="139",BBC 1
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/chunklist_b600000.m3u8
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
 http://www.htvonline.com.vn/livetv/htv2-31336E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7 HD.png" tvg-name="67",HTV7 HD
@@ -533,6 +535,10 @@ rtmp://62.213.85.137/en-stream/primetime
 http://117.103.206.26:1935/live/_definst_/BBCWORLD/BBCWORLD_640x480_1200kbps.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\CNN International.png" tvg-name="133",CNN
 http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="133",CCTV News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_828.m3u8
+#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_eng_high
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
