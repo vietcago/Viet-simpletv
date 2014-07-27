@@ -321,6 +321,10 @@ http://tv.vnn.vn/Kenh-truyen-hinh-token/ThanhHoaTV
 http://www.htvonline.com.vn/livetv/lao-cai--thlc-37306E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
 http://www.htvonline.com.vn/livetv/binh-phuoc-bptv1-33346E61.html
+#EXTINF:-1 group-title="Torrent TV" tvg-logo="..\Channel\Logo\BBC 1.png" tvg-name="139",BBC 1
+http://torrent-tv.ru/torrent-online.php?translation=8538
+#EXTINF:-1 group-title="Torrent TV" tvg-logo="..\Channel\Logo\BBC 2.png" tvg-name="140",BBC 2
+http://torrent-tv.ru/torrent-online.php?translation=8813
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//vtv6_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
@@ -421,6 +425,8 @@ http://torrent-tv.ru/torrent-online.php?translation=2977
 http://torrent-tv.ru/torrent-online.php?translation=1257
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="90",ESPN
 http://torrent-tv.ru/torrent-online.php?translation=8966
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sports
+http://torrent-tv.ru/torrent-online.php?translation=9068
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab1.png" tvg-name="14",VTVcab1
 http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&Itemid=103&cat_id=22&id=356
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
