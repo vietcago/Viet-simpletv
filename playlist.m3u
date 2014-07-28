@@ -354,7 +354,7 @@ rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=49 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=50 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
+http://www.fifaembed.com/embed/lfctv.php?width=650&height=480
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 1
 http://www.wezatv.com/dooball/assp1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 2
@@ -642,12 +642,12 @@ http://95.81.147.3/2584/rfi_en_vietnamien/rfivietnamien.mp3
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png",VOH
 mms://221.132.37.15/fm
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT HN
-rtmp://123.30.50.59/live//vovgt
+rtmp://vov.radiovietnam.vn/live/vovgthn.stream
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV GT TP.HCM
-rtmp://123.30.50.59/live/vovgtsg
+rtmp://vov.radiovietnam.vn/live/vovgthcm.stream
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV1
-rtmp://119.18.186.116/live//vov1
+rtmp://vov.radiovietnam.vn/live/vov1.stream
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV2
-rtmp://119.18.186.116/live//vov2
+rtmp://vov.radiovietnam.vn/live/vov2.stream
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png",VOV3
-rtmp://119.18.186.116/live//vov3
+rtmp://vov.radiovietnam.vn/live/vov3.stream
