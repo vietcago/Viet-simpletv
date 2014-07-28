@@ -367,6 +367,8 @@ http://www.wezatv.com/dooball/assp4.php
 http://www.wezatv.com/dooball/fox.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://www.wezatv.com/dooball/star.php
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="90",ESPN
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
@@ -425,8 +427,10 @@ http://torrent-tv.ru/torrent-online.php?translation=2977
 http://torrent-tv.ru/torrent-online.php?translation=1257
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="90",ESPN
 http://torrent-tv.ru/torrent-online.php?translation=8966
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sports
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sports 11
 http://torrent-tv.ru/torrent-online.php?translation=9068
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sports 12
+http://torrent-tv.ru/torrent-online.php?translation=9069
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab1.png" tvg-name="14",VTVcab1
 http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&Itemid=103&cat_id=22&id=356
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
