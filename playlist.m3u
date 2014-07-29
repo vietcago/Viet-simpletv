@@ -399,6 +399,14 @@ http://xemphimso.com/xem-tv/starsports.63.html
 http://xemphimso.com/xem-tv/vtc3.12.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://xemphimso.com/xem-tv/vtv3.2.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
+rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster33 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
+#EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 1
+http://phamngocan.com/tv/KVTV/thethao.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 3
+3rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster31 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
+#EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 2
+2http://phamngocan.com/tv/KVTV/kvtv2.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://torrent-tv.ru/torrent-online.php?translation=7383
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1
@@ -517,6 +525,8 @@ http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-35316E61.html
 http://www.htvonline.com.vn/livetv/htvc-ca-nhac-34376E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
 rtmp://$OPT:rtmp-raw=rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Music Box SK.png" tvg-name="111",Music Box
+http://hls.cn.ru/streaming/musboxtv/tvrec/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 http://xemphimso.com/xem-tv/itv---vtc13.17.html
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\logo\CHANNEL V.png" tvg-name="112",Channel V
